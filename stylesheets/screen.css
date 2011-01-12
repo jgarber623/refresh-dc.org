@@ -89,7 +89,7 @@ footer small {
 
 /* @group Recent Tweets */
 
-section#tweets {
+section.tweets {
 	background-image: url("../images/twitter-bird.png");
 	background-position: 170px 15px;
 	background-repeat: no-repeat;
