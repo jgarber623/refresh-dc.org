@@ -1,0 +1,19 @@
+/* ----- IE-only styles --------------------------------------------------*/
+h1#logo img { behavior: url("css/iepngfix.htc"); width: 321px; height: 58px; }
+
+div#content-wrap, div#flickr-wrap, form#form-signup { height: 1%; }
+
+div#flickr-wrap p.more { margin-right: 0.75em; }
+form#form-signup ul { margin-left: 0; }
+form#form-forum-login input#forum-submit { padding: 0; }
+
+div#content-wrap, div#footer { width: 770px; wid\th: 730px; }
+div#license p { width: 770px; wid\th: 708px; }
+
+ul#nav li { _heig\ht: 25px; _padding-t\op: 5px; }
+ul#nav li a { _display: inline; _border: 0; _padding-bottom: 7px; }
+
+div#cities div { _height: 1%; }
+div#cities ul { padding-right: 0; }
+div#cities ul.first { padding-left: 0; }
+div#cities p { padding-top: 0.4em; }
