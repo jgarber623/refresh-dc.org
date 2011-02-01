@@ -2,5 +2,3 @@ RewriteEngine On
 
 RewriteCond %{HTTP_HOST} ^www\.refresh-dc\.org$ [NC]
 RewriteRule ^(.*)$ http://refresh-dc.org/$1 [L,R=301]
-
-AddHandler php5-script .php
