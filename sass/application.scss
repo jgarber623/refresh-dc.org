@@ -1,0 +1,101 @@
+@import "compass/css3";
+@import "mixins";
+@import "config";
+
+/* @group Elements */
+	
+	* {
+		@include box-sizing( border-box );
+	}
+	
+	html {
+		background: fixed $blue no-repeat;
+		@include background-image( radial-gradient( 50% 50%, #4a6da2, $blue ) );
+		color: #fff;
+		font: 1em/1.8 "Trebuchet MS", Helvetica, sans-serif;
+	}
+	
+	a {
+		color: #fff;
+		color: rgba( #fff, 0.5 );
+	}
+	
+	a:focus,
+	a:hover {
+		color: rgba( #fff, 0.7 );
+	}
+	
+/* @end */
+
+
+/* @group Layout */
+	
+	.global-wrapper {
+		@extend %centered;
+		@include hyphens();
+		max-width: 600px;
+		text-align: justify;
+		text-shadow: 1px 1px 1px rgba( #000, 0.3 );
+		width: 90%;
+		
+		@include respond-to( $medium ) {
+			text-align: left;
+		}
+	}
+	
+	/* @group - Header */
+		
+		.global-header {
+			padding: 4em 0 1em 0;
+			
+			@include respond-to( $medium ) {
+				padding-top: 8em;
+			}
+			
+			h1 {
+				margin: 0 0 0 -1.0625em; /* 34 / 32 */
+			}
+			
+			a {
+				background: image-url( "logo.png" ) no-repeat 0 0;
+				@include background-size( contain );
+				display: block;
+				height: 50px;
+				overflow: hidden;
+				position: relative;
+				text-indent: -9999px;
+				width: 200px;
+			}
+		}
+		
+	/* @end */
+	
+	/* @group - Content */
+		
+		.global-content {
+			abbr {
+				border: none;
+			}
+			
+			em {
+				background: rgba( #fff, 0.15 );
+				@include border-radius();
+				font-style: normal;
+				margin-right: 0.3em;
+				padding: 0.2em 0.4em;
+			}
+		}
+		
+	/* @end */
+	
+	/* @group - Footer */
+		
+		.global-footer {
+			font-size: 0.8em;
+			line-height: 1.5;
+			margin-top: 5em;
+		}
+		
+	/* @end */
+	
+/* @end */

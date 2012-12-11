@@ -1,0 +1,23 @@
+// Colors
+
+$blue: #324b83;
+
+
+// Defaults
+
+$default-border-radius: 3px;
+$default-transition-property: all;
+$default-transition-duration: 0.25s;
+$default-transition-function: linear;
+
+
+// Placeholder selectors
+
+%centered {
+	margin: 0 auto;
+}
+
+
+// Responsive breakpoints
+
+$medium: '( min-width: 600px )';
