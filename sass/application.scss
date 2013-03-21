@@ -11,8 +11,20 @@
 	html {
 		background: fixed $blue no-repeat;
 		@include background-image( radial-gradient( 50% 50%, #4a6da2, $blue ) );
+	}
+	
+	body {
 		color: #fff;
-		font: 1em/1.8 "Trebuchet MS", Helvetica, sans-serif;
+		font: 1em/1.6 "Trebuchet MS", Helvetica, sans-serif;
+		padding: 0 0 4em 0;
+		
+		@include respond-to( $medium ) {
+			line-height: 1.8;
+		}
+	}
+	
+	p + p {
+		margin-top: 1.5em;
 	}
 	
 	a {
@@ -35,7 +47,7 @@
 		@include hyphens();
 		max-width: 600px;
 		text-align: justify;
-		text-shadow: 1px 1px 1px rgba( #000, 0.3 );
+		text-shadow: -1px 1px 1px rgba( #000, 0.3 );
 		width: 90%;
 		
 		@include respond-to( $medium ) {

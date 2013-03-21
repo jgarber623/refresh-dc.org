@@ -19,17 +19,33 @@ html {
   background-image: -moz-radial-gradient(50% 50%, #4a6da2, #324b83);
   background-image: -o-radial-gradient(50% 50%, #4a6da2, #324b83);
   background-image: radial-gradient(50% 50%, #4a6da2, #324b83);
-  color: #fff;
-  font: 1em/1.8 "Trebuchet MS", Helvetica, sans-serif;
 }
 
-/* line 18, ../sass/application.scss */
+/* line 16, ../sass/application.scss */
+body {
+  color: #fff;
+  font: 1em/1.6 "Trebuchet MS", Helvetica, sans-serif;
+  padding: 0 0 4em 0;
+}
+@media only screen and (min-width: 600px) {
+  /* line 16, ../sass/application.scss */
+  body {
+    line-height: 1.8;
+  }
+}
+
+/* line 26, ../sass/application.scss */
+p + p {
+  margin-top: 1.5em;
+}
+
+/* line 30, ../sass/application.scss */
 a {
   color: #fff;
   color: rgba(255, 255, 255, 0.5);
 }
 
-/* line 24, ../sass/application.scss */
+/* line 36, ../sass/application.scss */
 a:focus,
 a:hover {
   color: rgba(255, 255, 255, 0.7);
@@ -37,7 +53,7 @@ a:hover {
 
 /* @end */
 /* @group Layout */
-/* line 33, ../sass/application.scss */
+/* line 45, ../sass/application.scss */
 .global-wrapper {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
@@ -46,33 +62,33 @@ a:hover {
   hyphens: auto;
   max-width: 600px;
   text-align: justify;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.3);
   width: 90%;
 }
 @media only screen and (min-width: 600px) {
-  /* line 33, ../sass/application.scss */
+  /* line 45, ../sass/application.scss */
   .global-wrapper {
     text-align: left;
   }
 }
 
 /* @group - Header */
-/* line 48, ../sass/application.scss */
+/* line 60, ../sass/application.scss */
 .global-header {
   padding: 4em 0 1em 0;
 }
 @media only screen and (min-width: 600px) {
-  /* line 48, ../sass/application.scss */
+  /* line 60, ../sass/application.scss */
   .global-header {
     padding-top: 8em;
   }
 }
-/* line 55, ../sass/application.scss */
+/* line 67, ../sass/application.scss */
 .global-header h1 {
   margin: 0 0 0 -1.0625em;
   /* 34 / 32 */
 }
-/* line 59, ../sass/application.scss */
+/* line 71, ../sass/application.scss */
 .global-header a {
   background: url('../images/logo.png?1355261455') no-repeat 0 0;
   -webkit-background-size: contain;
@@ -89,11 +105,11 @@ a:hover {
 
 /* @end */
 /* @group - Content */
-/* line 76, ../sass/application.scss */
+/* line 88, ../sass/application.scss */
 .global-content abbr {
   border: none;
 }
-/* line 80, ../sass/application.scss */
+/* line 92, ../sass/application.scss */
 .global-content em {
   background: rgba(255, 255, 255, 0.15);
   -webkit-border-radius: 3px;
@@ -106,7 +122,7 @@ a:hover {
 
 /* @end */
 /* @group - Footer */
-/* line 93, ../sass/application.scss */
+/* line 105, ../sass/application.scss */
 .global-footer {
   font-size: 0.8em;
   line-height: 1.5;
