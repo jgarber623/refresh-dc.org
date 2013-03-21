@@ -2,3 +2,4 @@
 .rbenv-version
 .ruby-version
 .sass-cache
+config/deploy.rb
