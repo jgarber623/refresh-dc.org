@@ -7,6 +7,7 @@ GEM
       listen (~> 0.5.3)
       sass (~> 3.2.0.alpha.93)
     listen (0.5.3)
+    rb-fsevent (0.9.3)
     sass (3.2.7)
 
 PLATFORMS
@@ -14,4 +15,5 @@ PLATFORMS
 
 DEPENDENCIES
   compass (~> 0.13.alpha)
+  rb-fsevent
   sass
