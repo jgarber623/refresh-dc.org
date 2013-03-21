@@ -18,7 +18,6 @@ html {
   background-image: -webkit-radial-gradient(50% 50%, #4a6da2, #324b83);
   background-image: -moz-radial-gradient(50% 50%, #4a6da2, #324b83);
   background-image: -o-radial-gradient(50% 50%, #4a6da2, #324b83);
-  background-image: -ms-radial-gradient(50% 50%, #4a6da2, #324b83);
   background-image: radial-gradient(50% 50%, #4a6da2, #324b83);
   color: #fff;
   font: 1em/1.8 "Trebuchet MS", Helvetica, sans-serif;
@@ -99,8 +98,6 @@ a:hover {
   background: rgba(255, 255, 255, 0.15);
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
   border-radius: 3px;
   font-style: normal;
   margin-right: 0.3em;
