@@ -215,8 +215,6 @@ FileETag None
 	RewriteCond %{HTTPS} !=on
 	RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
 	RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
-	# RewriteCond %{HTTP_HOST} ^www\.refresh-dc\.org$ [NC]
-	# RewriteRule ^(.*)$ http://refresh-dc.org/$1 [L,R=301]
 </IfModule>
 
 
