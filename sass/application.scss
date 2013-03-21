@@ -23,13 +23,10 @@
 		}
 	}
 	
-	p + p {
-		margin-top: 1.5em;
-	}
-	
 	a {
 		color: #fff;
 		color: rgba( #fff, 0.5 );
+		@include transition;
 	}
 	
 	a:focus,
@@ -47,7 +44,7 @@
 		@include hyphens();
 		max-width: 600px;
 		text-align: justify;
-		text-shadow: -1px 1px 1px rgba( #000, 0.3 );
+		text-shadow: -1px 1px 0 rgba( #000, 0.1 );
 		width: 90%;
 		
 		@include respond-to( $medium ) {
@@ -69,14 +66,18 @@
 			}
 			
 			a {
-				background: image-url( "logo.png" ) no-repeat 0 0;
+				@extend %image-replace;
+				@include layout-sprite( "logo" );
+				background: none, image-url( "unique/logo.svg" ) no-repeat 0 0;
 				@include background-size( contain );
-				display: block;
-				height: 50px;
-				overflow: hidden;
+				height: 75px;
 				position: relative;
-				text-indent: -9999px;
-				width: 200px;
+				width: 300px;
+			}
+			
+			a:focus,
+			a:hover {
+				opacity: 0.8;
 			}
 		}
 		
@@ -85,6 +86,10 @@
 	/* @group - Content */
 		
 		.global-content {
+			p + p {
+				margin-top: 1.5em;
+			}
+			
 			abbr {
 				border: none;
 			}

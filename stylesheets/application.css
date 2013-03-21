@@ -3,6 +3,19 @@
   margin: 0 auto;
 }
 
+/* line 20, ../sass/_config.scss */
+.global-header a {
+  display: block;
+  overflow: hidden;
+  text-align: left;
+  text-indent: -999em;
+}
+
+/* line 47, layout/*.png */
+.layout-sprite, .global-header a {
+  background: url('../images/layout-s897d1371f6.png') no-repeat;
+}
+
 /* @group Elements */
 /* line 7, ../sass/application.scss */
 * {
@@ -35,17 +48,16 @@ body {
 }
 
 /* line 26, ../sass/application.scss */
-p + p {
-  margin-top: 1.5em;
-}
-
-/* line 30, ../sass/application.scss */
 a {
   color: #fff;
   color: rgba(255, 255, 255, 0.5);
+  -webkit-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  -o-transition: all 0.25s linear;
+  transition: all 0.25s linear;
 }
 
-/* line 36, ../sass/application.scss */
+/* line 33, ../sass/application.scss */
 a:focus,
 a:hover {
   color: rgba(255, 255, 255, 0.7);
@@ -53,7 +65,7 @@ a:hover {
 
 /* @end */
 /* @group Layout */
-/* line 45, ../sass/application.scss */
+/* line 42, ../sass/application.scss */
 .global-wrapper {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
@@ -62,54 +74,61 @@ a:hover {
   hyphens: auto;
   max-width: 600px;
   text-align: justify;
-  text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.3);
+  text-shadow: -1px 1px 0 rgba(0, 0, 0, 0.1);
   width: 90%;
 }
 @media only screen and (min-width: 600px) {
-  /* line 45, ../sass/application.scss */
+  /* line 42, ../sass/application.scss */
   .global-wrapper {
     text-align: left;
   }
 }
 
 /* @group - Header */
-/* line 60, ../sass/application.scss */
+/* line 57, ../sass/application.scss */
 .global-header {
   padding: 4em 0 1em 0;
 }
 @media only screen and (min-width: 600px) {
-  /* line 60, ../sass/application.scss */
+  /* line 57, ../sass/application.scss */
   .global-header {
     padding-top: 8em;
   }
 }
-/* line 67, ../sass/application.scss */
+/* line 64, ../sass/application.scss */
 .global-header h1 {
   margin: 0 0 0 -1.0625em;
   /* 34 / 32 */
 }
-/* line 71, ../sass/application.scss */
+/* line 68, ../sass/application.scss */
 .global-header a {
-  background: url('../images/logo.png?1355261455') no-repeat 0 0;
+  background-position: 0 0;
+  background: none, url('../images/unique/logo.svg?1363825090') no-repeat 0 0;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
-  display: block;
-  height: 50px;
-  overflow: hidden;
+  height: 75px;
   position: relative;
-  text-indent: -9999px;
-  width: 200px;
+  width: 300px;
+}
+/* line 79, ../sass/application.scss */
+.global-header a:focus,
+.global-header a:hover {
+  opacity: 0.8;
 }
 
 /* @end */
 /* @group - Content */
-/* line 88, ../sass/application.scss */
+/* line 89, ../sass/application.scss */
+.global-content p + p {
+  margin-top: 1.5em;
+}
+/* line 93, ../sass/application.scss */
 .global-content abbr {
   border: none;
 }
-/* line 92, ../sass/application.scss */
+/* line 97, ../sass/application.scss */
 .global-content em {
   background: rgba(255, 255, 255, 0.15);
   -webkit-border-radius: 3px;
@@ -122,7 +141,7 @@ a:hover {
 
 /* @end */
 /* @group - Footer */
-/* line 105, ../sass/application.scss */
+/* line 110, ../sass/application.scss */
 .global-footer {
   font-size: 0.8em;
   line-height: 1.5;

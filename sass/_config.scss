@@ -17,7 +17,21 @@ $default-transition-function: linear;
 	margin: 0 auto;
 }
 
+%image-replace {
+	display: block;
+	overflow: hidden;
+	text-align: left;
+	text-indent: -999em;
+}
+
 
 // Responsive breakpoints
 
 $medium: '( min-width: 600px )';
+
+
+// Spriting
+
+$layout-layout: smart;
+
+@import "layout/*.png";
