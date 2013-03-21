@@ -15,7 +15,7 @@
 	
 	body {
 		color: #fff;
-		font: 1em/1.6 "Trebuchet MS", Helvetica, sans-serif;
+		font: 1em/1.5 "Trebuchet MS", Helvetica, sans-serif;
 		padding: 0 0 4em 0;
 		
 		@include respond-to( $medium ) {
