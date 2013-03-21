@@ -1,0 +1,26 @@
+default_run_options[:pty] = true
+
+set :application, '<%= print( 'What should we call your application? (e.g. example.com) ' ); STDOUT.flush; STDIN.gets.chomp %>'
+set :deploy_to, '<%= print( 'Where shall we deploy your application? (e.g. /var/www) ' ); STDOUT.flush; STDIN.gets.chomp %>'
+set :repository, '<%= print( 'Where is the application\'s source code? ' ); STDOUT.flush; STDIN.gets.chomp %>'
+set :user, '<%= print( 'What user should we use to log in to the server? ' ); STDOUT.flush; STDIN.gets.chomp %>'
+
+set :branch, 'master'
+set :deploy_via, :remote_cache
+set :keep_releases, 3
+set :scm, :git
+set :ssh_options, { :forward_agent => true }
+set :use_sudo, false
+set :webroot, "#{deploy_to}/html"
+
+role :web, application
+
+after :deploy, 'deploy:copy_files'
+after 'deploy:copy_files', 'deploy:cleanup'
+
+namespace :deploy do
+  desc 'Copy files in `public` folder in current release to the webroot'
+  task :copy_files do
+    run "rm -rf #{webroot} && cp -r #{fetch( :release_path )}/public #{webroot}"
+  end
+end
