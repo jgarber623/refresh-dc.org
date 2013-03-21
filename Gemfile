@@ -1,5 +1,6 @@
 source :rubygems
 
+gem 'rake'
 gem 'capistrano'
 gem 'rb-fsevent'
 gem 'sass'
