@@ -15,7 +15,8 @@
 	
 	body {
 		color: #fff;
-		font: 1em/1.5 "Trebuchet MS", Helvetica, sans-serif;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+		line-height: 1.5;
 		padding: 0 0 4em 0;
 		
 		@include respond-to( $medium ) {
@@ -26,7 +27,6 @@
 	a {
 		color: #fff;
 		color: rgba( #fff, 0.5 );
-		@include transition;
 	}
 	
 	a:focus,
