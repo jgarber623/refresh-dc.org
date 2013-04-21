@@ -96,7 +96,7 @@
 			
 			em {
 				background: rgba( #fff, 0.15 );
-				@include border-radius();
+				@include border-radius;
 				font-style: normal;
 				margin-right: 0.3em;
 				padding: 0.2em 0.4em;
