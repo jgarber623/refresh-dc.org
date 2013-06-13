@@ -3,7 +3,13 @@
 <head>
 	<meta charset="utf-8">
 	
-	<title>Refresh DC – The best and brightest new media professionals in the DC metro area</title>
+	<title>
+		{% if page.title %}
+			{{ page.title }} – {{ site.name }}
+		{% else %}
+			{{ site.name }} – The best and brightest new media professionals in the DC metro area
+		{% endif %}
+	</title>
 	
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
@@ -14,7 +20,7 @@
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<link rel="stylesheet" href="stylesheets/application.css">
+	<link rel="stylesheet" href="/stylesheets/application.css">
 </head>
 <body class="vcard">
 	
