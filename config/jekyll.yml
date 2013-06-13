@@ -1,2 +1,5 @@
 source: ./src/jekyll
 destination: ./public
+
+name: Refresh DC
+permalink: /events/:year/:title
