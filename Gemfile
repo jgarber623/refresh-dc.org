@@ -12,4 +12,5 @@ gem 'jekyll'
 # Asset generation
 gem 'rb-fsevent'
 gem 'sass'
+gem 'sass-globbing'
 gem 'compass', '~> 0.13.alpha'
