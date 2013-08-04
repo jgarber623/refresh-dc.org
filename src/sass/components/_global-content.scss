@@ -9,7 +9,7 @@
 
 	em {
 		background: rgba(#fff, 0.15);
-		@include border-radius;
+		border-radius: 3px;
 		font-style: normal;
 		margin-right: 0.3em;
 		padding: 0.2em 0.4em;
