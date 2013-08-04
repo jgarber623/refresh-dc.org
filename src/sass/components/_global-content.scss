@@ -1,0 +1,17 @@
+.global-content {
+	p + p {
+		margin-top: 1.5em;
+	}
+
+	abbr {
+		border: none;
+	}
+
+	em {
+		background: rgba(#fff, 0.15);
+		@include border-radius;
+		font-style: normal;
+		margin-right: 0.3em;
+		padding: 0.2em 0.4em;
+	}
+}
