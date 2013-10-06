@@ -1,5 +1,5 @@
 source: ./src/jekyll
-destination: ./public
+destination: ./html
 
 name: Refresh DC
 permalink: /events/:year/:title
