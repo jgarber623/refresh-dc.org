@@ -11,16 +11,14 @@ set :keep_releases, 3
 set :scm, :git
 set :ssh_options, { :forward_agent => true }
 set :use_sudo, false
-set :webroot, "#{deploy_to}/html"
 
 role :web, application
 
-after :deploy, 'deploy:copy_files'
-after 'deploy:copy_files', 'deploy:cleanup'
+after :deploy, 'deploy:symlink_release', 'deploy:cleanup'
 
 namespace :deploy do
-  desc 'Copy files in `public` folder in current release to the webroot'
-  task :copy_files do
-    run "rm -rf #{webroot} && cp -r #{fetch( :release_path )}/public #{webroot}"
+  desc 'Symlink `html` folder to current release'
+  task :symlink_release do
+    run "cd #{deploy_to} && rm -rf html && ln -s #{fetch(:release_path).sub!(deploy_to, '.')}/html html"
   end
 end
