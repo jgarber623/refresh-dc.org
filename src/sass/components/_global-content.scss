@@ -9,9 +9,9 @@
 
 	em {
 		background: rgba(#fff, 0.15);
-		border-radius: 3px;
+		@include border-radius;
 		font-style: normal;
-		margin-right: 0.3em;
-		padding: 0.2em 0.4em;
+		margin-right: 0.25em;
+		padding: 0.25em 0.4em;
 	}
 }

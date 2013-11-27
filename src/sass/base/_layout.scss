@@ -1,7 +1,7 @@
 .global-wrapper {
 	@extend %centered;
 	@include hyphens;
-	max-width: 33em;
+	max-width: $bp-medium;
 	text-align: justify;
 	text-shadow: -1px 1px 0 rgba(#000, 0.1);
 	width: 90%;

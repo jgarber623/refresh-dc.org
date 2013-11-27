@@ -18,6 +18,12 @@ body {
 	}
 }
 
+header,
+footer,
+main {
+	display: block;
+}
+
 a {
 	color: #fff;
 	color: rgba(#fff, 0.5);

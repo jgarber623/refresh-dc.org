@@ -6,7 +6,7 @@
 	}
 
 	h1 {
-		margin: 0 0 0 -1.0625em; /* 34 / 32 */
+		margin: 0 0 0 em($target: -34, $context: 32);
 	}
 
 	a {

@@ -1,8 +1,12 @@
+// Compass configuration variables
+$graceful-usage-threshold: 25;
+
 // Dependencies
 @import "compass";
 @import "breakpoint";
 
 // Sass
+@import "functions/*";
 @import "variables/*";
 @import "placeholder_selectors/*";
 
