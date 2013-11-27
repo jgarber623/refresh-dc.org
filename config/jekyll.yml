@@ -2,4 +2,5 @@ source: ./src/jekyll
 destination: ./html
 
 name: Refresh DC
+description: 'Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.'
 permalink: /events/:year/:title
