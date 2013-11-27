@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html id="refresh-dc-org" lang="en">
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en">
 <head>
 	<meta charset="utf-8">
 
@@ -11,10 +11,11 @@
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
-	<meta name="og:title" content="Refresh DC">
+	<meta name="og:description" itemprop="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
+	<meta name="og:image" itemprop="image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:title" itemprop="name" content="Refresh DC">
 	<meta name="og:url" content="http://refresh-dc.org/">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,16 +28,18 @@
 			<h1><a href="/" class="fn org url">Refresh DC</a></h1>
 		</header>
 
-		<div class="global-content" role="main">
+		<main class="global-content" role="main">
 			<article class="vevent">
 	<h1><a href="" class="url summary">Refresh DC September Meetup: From Concept to Comp</a></h1>
 
 	<div class="description">
-		<p>Don’t know how or where to begin a website, or looking to see how others go through the process? In the first of our two part &#8220;From Concepts to Code&#8221; series, Nguyet Vuong will present the process of designing a website from concepts to comp. She will demonstrate how to give an appropriate look and feel to a website and highlight portions of her design process. She will also cover both technical and creative techniques to get a project in motion.</p>
+		
+<p>Don’t know how or where to begin a website, or looking to see how others go through the process? In the first of our two part “From Concepts to Code” series, Nguyet Vuong will present the process of designing a website from concepts to comp. She will demonstrate how to give an appropriate look and feel to a website and highlight portions of her design process. She will also cover both technical and creative techniques to get a project in motion.</p>
 
 <p>Next month, Refresh DC Organizer Emeritus Jason Garber will talk about the process of turning the same comp into a functional website. Jason will also be gracing us with a brief foreword prior to this month’s talk.</p>
 
 <p>Nguyet Vuong is a long time Refresh DCer, and a passionate local web designer. Coming from a fine arts background, her career started in print and she slowly made her way to the web in 2004, after many many sleepless nights learning HTML and CSS. She has never looked back and enjoys designing for the web tremendously.</p>
+
 	</div>
 
 	
@@ -62,7 +65,7 @@
 		<li><a href="http://upcoming.yahoo.com/event/1110333/DC/Washington/Refresh-DC-September-Meetup-From-Concept-to-Comp/The-Center-for-Digital-Imaging-Arts-at-Boston-University/">Upcoming</a></li>
 	</ul>
 </article>
-		</div>
+		</main>
 
 		<footer class="global-footer" role="contentinfo">
 			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org">GitHub</a>.</p>
@@ -72,14 +75,10 @@
 	<script>
 		var _gaq = [['_setAccount', 'UA-5230764-7'], ['_trackPageview']];
 
-		(function(d, t) {
-			var g = d.createElement(t),
-				s = d.getElementsByTagName(t)[0];
-
-			g.src = '//www.google-analytics.com/ga.js';
-
-			s.parentNode.insertBefore(g, s);
-		}(document, 'script'));
+		(function(d,t) {
+			g=d.createElement(t);s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+		}(document,'script'));
 	</script>
 
 </body>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html id="refresh-dc-org" lang="en">
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en">
 <head>
 	<meta charset="utf-8">
 
@@ -11,10 +11,11 @@
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
-	<meta name="og:title" content="Refresh DC">
+	<meta name="og:description" itemprop="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
+	<meta name="og:image" itemprop="image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:title" itemprop="name" content="Refresh DC">
 	<meta name="og:url" content="http://refresh-dc.org/">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,12 +28,14 @@
 			<h1><a href="/" class="fn org url">Refresh DC</a></h1>
 		</header>
 
-		<div class="global-content" role="main">
+		<main class="global-content" role="main">
 			<article class="vevent">
 	<h1><a href="" class="url summary">Refresh DC January Meetup</a></h1>
 
 	<div class="description">
-		<p><strong>Accessible, Attractive Web Design</strong> <a href='http://www.jfciii.com/blog/'>John F. Croston III</a>, a web developer working with the <a href='http://www.armyg1.army.mil/'>United States Army</a>, will be talking about web accessibility. While some examples will be technical, John will be providing high level overviews of how to build attractive, accessible web forms.</p>
+		
+<p><strong>Accessible, Attractive Web Design</strong> <a href="http://www.jfciii.com/blog/">John F. Croston III</a>, a web developer working with the <a href="http://www.armyg1.army.mil/">United States Army</a>, will be talking about web accessibility. While some examples will be technical, John will be providing high level overviews of how to build attractive, accessible web forms.</p>
+
 	</div>
 
 	
@@ -58,7 +61,7 @@
 		<li><a href="http://upcoming.yahoo.com/event/396176/DC/Washington/Refresh-DC-January-meetup/Greater-Washington-Board-of-Trade/">Upcoming</a></li>
 	</ul>
 </article>
-		</div>
+		</main>
 
 		<footer class="global-footer" role="contentinfo">
 			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org">GitHub</a>.</p>
@@ -68,14 +71,10 @@
 	<script>
 		var _gaq = [['_setAccount', 'UA-5230764-7'], ['_trackPageview']];
 
-		(function(d, t) {
-			var g = d.createElement(t),
-				s = d.getElementsByTagName(t)[0];
-
-			g.src = '//www.google-analytics.com/ga.js';
-
-			s.parentNode.insertBefore(g, s);
-		}(document, 'script'));
+		(function(d,t) {
+			g=d.createElement(t);s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+		}(document,'script'));
 	</script>
 
 </body>

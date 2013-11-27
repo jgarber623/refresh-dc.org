@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html id="refresh-dc-org" lang="en">
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en">
 <head>
 	<meta charset="utf-8">
 
@@ -11,10 +11,11 @@
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
-	<meta name="og:title" content="Refresh DC">
+	<meta name="og:description" itemprop="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
+	<meta name="og:image" itemprop="image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:title" itemprop="name" content="Refresh DC">
 	<meta name="og:url" content="http://refresh-dc.org/">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,16 +28,18 @@
 			<h1><a href="/" class="fn org url">Refresh DC</a></h1>
 		</header>
 
-		<div class="global-content" role="main">
+		<main class="global-content" role="main">
 			<article class="vevent">
 	<h1><a href="" class="url summary">Refresh DC March Meetup</a></h1>
 
 	<div class="description">
-		<p>Wayan Vota, of <a href='http://www.olpcnews.com/'>One Laptop Per Child News</a>, will be leading a discussion on the impact of OLPC on web design, the “average user experience,” content generation, and consumption itself in the developing world. With 5-10 million laptops set to be distributed in the next 12-18 months (the single largest computer monoculture ever shipped), children in the developing world will be consuming and producing educational content on a grand scale.</p>
+		
+<p>Wayan Vota, of <a href="http://www.olpcnews.com/">One Laptop Per Child News</a>, will be leading a discussion on the impact of OLPC on web design, the “average user experience,” content generation, and consumption itself in the developing world. With 5-10 million laptops set to be distributed in the next 12-18 months (the single largest computer monoculture ever shipped), children in the developing world will be consuming and producing educational content on a grand scale.</p>
 
 <p>Join us for what should be a fantastic discussion. Come early (~6:30pm) for food and drink, meeting starts at 7:00pm sharp!</p>
 
 <p>The Motley Fool’s offices are located on Duke Street just across from the King Street Metro station on the Yellow/Blue lines (take the tunnel!).</p>
+
 	</div>
 
 	
@@ -62,7 +65,7 @@
 		<li><a href="http://upcoming.yahoo.com/event/160354/VA/Alexandria/Refresh-DC-March-meetup/The-Motley-Fool/">Upcoming</a></li>
 	</ul>
 </article>
-		</div>
+		</main>
 
 		<footer class="global-footer" role="contentinfo">
 			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org">GitHub</a>.</p>
@@ -72,14 +75,10 @@
 	<script>
 		var _gaq = [['_setAccount', 'UA-5230764-7'], ['_trackPageview']];
 
-		(function(d, t) {
-			var g = d.createElement(t),
-				s = d.getElementsByTagName(t)[0];
-
-			g.src = '//www.google-analytics.com/ga.js';
-
-			s.parentNode.insertBefore(g, s);
-		}(document, 'script'));
+		(function(d,t) {
+			g=d.createElement(t);s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+		}(document,'script'));
 	</script>
 
 </body>

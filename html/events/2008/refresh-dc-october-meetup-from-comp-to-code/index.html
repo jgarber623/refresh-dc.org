@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html id="refresh-dc-org" lang="en">
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en">
 <head>
 	<meta charset="utf-8">
 
@@ -11,10 +11,11 @@
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
-	<meta name="og:title" content="Refresh DC">
+	<meta name="og:description" itemprop="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
+	<meta name="og:image" itemprop="image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:title" itemprop="name" content="Refresh DC">
 	<meta name="og:url" content="http://refresh-dc.org/">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,14 +28,16 @@
 			<h1><a href="/" class="fn org url">Refresh DC</a></h1>
 		</header>
 
-		<div class="global-content" role="main">
+		<main class="global-content" role="main">
 			<article class="vevent">
 	<h1><a href="" class="url summary">Refresh DC October Meetup: From Comp to Code</a></h1>
 
 	<div class="description">
-		<p>Last month, we saw how Nguyet Vuong moves from a design concept toward a final, client-approved comp. This month, Jason Garber will show you how he transforms this same comp into standards-based, accessible markup and code. He’ll talk about a variety of techniques that help not only maintain the integrity of the comp, but also incorporate best practices, search-friendly markup, and improve the user experience overall.</p>
+		
+<p>Last month, we saw how Nguyet Vuong moves from a design concept toward a final, client-approved comp. This month, Jason Garber will show you how he transforms this same comp into standards-based, accessible markup and code. He’ll talk about a variety of techniques that help not only maintain the integrity of the comp, but also incorporate best practices, search-friendly markup, and improve the user experience overall.</p>
 
 <p>Refresh DC founder and organizer emeritus Jason Garber is no stranger to the web. As a front-end developer at Mixx, and previously at AOL, Jason has been around the block a few times when it comes to web standards, and it shows in the work he produces. When not working out a great text editor, Jason is shedding on other axes: his guitar and camera.</p>
+
 	</div>
 
 	
@@ -60,7 +63,7 @@
 		<li><a href="http://upcoming.yahoo.com/event/1242483/DC/Washington/Refresh-DC-October-Meetup-From-Comp-to-Code/Fleishman-Hillard-DC/">Upcoming</a></li>
 	</ul>
 </article>
-		</div>
+		</main>
 
 		<footer class="global-footer" role="contentinfo">
 			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org">GitHub</a>.</p>
@@ -70,14 +73,10 @@
 	<script>
 		var _gaq = [['_setAccount', 'UA-5230764-7'], ['_trackPageview']];
 
-		(function(d, t) {
-			var g = d.createElement(t),
-				s = d.getElementsByTagName(t)[0];
-
-			g.src = '//www.google-analytics.com/ga.js';
-
-			s.parentNode.insertBefore(g, s);
-		}(document, 'script'));
+		(function(d,t) {
+			g=d.createElement(t);s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+		}(document,'script'));
 	</script>
 
 </body>

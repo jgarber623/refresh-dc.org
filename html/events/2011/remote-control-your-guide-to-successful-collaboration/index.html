@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html id="refresh-dc-org" lang="en">
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en">
 <head>
 	<meta charset="utf-8">
 
@@ -11,10 +11,11 @@
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
-	<meta name="og:title" content="Refresh DC">
+	<meta name="og:description" itemprop="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
+	<meta name="og:image" itemprop="image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:title" itemprop="name" content="Refresh DC">
 	<meta name="og:url" content="http://refresh-dc.org/">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,14 +28,16 @@
 			<h1><a href="/" class="fn org url">Refresh DC</a></h1>
 		</header>
 
-		<div class="global-content" role="main">
+		<main class="global-content" role="main">
 			<article class="vevent">
 	<h1><a href="" class="url summary">Remote Control: Your Guide to Successful Collaboration</a></h1>
 
 	<div class="description">
-		<p>We work in an ever-changing business world that includes the introduction of new technologies and new techniques on a daily basis. Getting Things Done is not only a methodology, but a mindset. Contrary to common beliefs, this concept does not differ in remote work space than it does in the traditional office space. So while the corporate world adjusts to the new reality of remote working, there are things you can (and should) do to create a level of comfort with those stuck in a cube. Just try not to rub it in.</p>
+		
+<p>We work in an ever-changing business world that includes the introduction of new technologies and new techniques on a daily basis. Getting Things Done is not only a methodology, but a mindset. Contrary to common beliefs, this concept does not differ in remote work space than it does in the traditional office space. So while the corporate world adjusts to the new reality of remote working, there are things you can (and should) do to create a level of comfort with those stuck in a cube. Just try not to rub it in.</p>
 
-<p>Join us this month as Senior Interaction Designer Jason Wishard (<a href='http://twitter.com/#!/periodicdesign'>@periodicdesign</a>) of <a href='http://www.eightshapes.com/'>Eightshapes</a> shares lessons learned and tips for when it comes to successful collaboration.</p>
+<p>Join us this month as Senior Interaction Designer Jason Wishard (<a href="http://twitter.com/#!/periodicdesign">@periodicdesign</a>) of <a href="http://www.eightshapes.com/">Eightshapes</a> shares lessons learned and tips for when it comes to successful collaboration.</p>
+
 	</div>
 
 	
@@ -60,7 +63,7 @@
 		<li><a href="http://refreshdc-august2011.eventbrite.com/">Eventbrite</a></li>
 	</ul>
 </article>
-		</div>
+		</main>
 
 		<footer class="global-footer" role="contentinfo">
 			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org">GitHub</a>.</p>
@@ -70,14 +73,10 @@
 	<script>
 		var _gaq = [['_setAccount', 'UA-5230764-7'], ['_trackPageview']];
 
-		(function(d, t) {
-			var g = d.createElement(t),
-				s = d.getElementsByTagName(t)[0];
-
-			g.src = '//www.google-analytics.com/ga.js';
-
-			s.parentNode.insertBefore(g, s);
-		}(document, 'script'));
+		(function(d,t) {
+			g=d.createElement(t);s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+		}(document,'script'));
 	</script>
 
 </body>

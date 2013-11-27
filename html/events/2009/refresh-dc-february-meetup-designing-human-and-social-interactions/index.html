@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html id="refresh-dc-org" lang="en">
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en">
 <head>
 	<meta charset="utf-8">
 
@@ -11,10 +11,11 @@
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
-	<meta name="og:title" content="Refresh DC">
+	<meta name="og:description" itemprop="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
+	<meta name="og:image" itemprop="image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:title" itemprop="name" content="Refresh DC">
 	<meta name="og:url" content="http://refresh-dc.org/">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,16 +28,18 @@
 			<h1><a href="/" class="fn org url">Refresh DC</a></h1>
 		</header>
 
-		<div class="global-content" role="main">
+		<main class="global-content" role="main">
 			<article class="vevent">
 	<h1><a href="" class="url summary">Refresh DC February Meetup: Designing Human and Social Interactions</a></h1>
 
 	<div class="description">
-		<p>To design an interaction you must commit to writing a narrative of human behavior mediated through time and space. It is the interaction and interface designer’s job to understand how social media ecosystems are likely to evolve, given the interaction of the application constraints with users - each of which with their own goals, prejudices, social ties, needs for sociality and irrational decision-making. We will discuss social media strategy in the context of design choices affecting application design, functions, as well as user centricity of social media design, the unique attributes of online communication which can only steer individual and aggregate participation within the social network through cues, incentives and community enforced social norms. We will discuss strategy and design patterns in social media site architecture/design and their impact on human behavior and walking away you should be equiped with a framework to tackle the design and implementation of sociality on social networking systems.</p>
+		
+<p>To design an interaction you must commit to writing a narrative of human behavior mediated through time and space. It is the interaction and interface designer’s job to understand how social media ecosystems are likely to evolve, given the interaction of the application constraints with users - each of which with their own goals, prejudices, social ties, needs for sociality and irrational decision-making. We will discuss social media strategy in the context of design choices affecting application design, functions, as well as user centricity of social media design, the unique attributes of online communication which can only steer individual and aggregate participation within the social network through cues, incentives and community enforced social norms. We will discuss strategy and design patterns in social media site architecture/design and their impact on human behavior and walking away you should be equiped with a framework to tackle the design and implementation of sociality on social networking systems.</p>
 
-<p>Will Evans is founder and Principal User Experience Architect for Semantic Foundry with 14 years industry experience in presentation layer and user experience design. His experiences includes directing user experience and information architecture for AIR Worldwide, UX Architect for social networking site Gather.com (<a href='http://www.gather.com/'>http://www.gather.com/</a>); and UX Architect responsible for information architecture and interaction design for Kayak.com (<a href='http://www.kayak.com/'>http://www.kayak.com/</a>). He has worked at enterprise technology companies Lotus/IBM where he was the senior information architect, and for Curl - a DARPA-funded MIT project when he was at the MIT Laboratory for Computer Science. Most recently Will has recently lead redesign projects for Pillsbury, General Mills, Tropicana and Blue Cross &amp; Blue Shield.</p>
+<p>Will Evans is founder and Principal User Experience Architect for Semantic Foundry with 14 years industry experience in presentation layer and user experience design. His experiences includes directing user experience and information architecture for AIR Worldwide, UX Architect for social networking site Gather.com (<a href="http://www.gather.com/">http://www.gather.com/</a>); and UX Architect responsible for information architecture and interaction design for Kayak.com (<a href="http://www.kayak.com/">http://www.kayak.com/</a>). He has worked at enterprise technology companies Lotus/IBM where he was the senior information architect, and for Curl - a DARPA-funded MIT project when he was at the MIT Laboratory for Computer Science. Most recently Will has recently lead redesign projects for Pillsbury, General Mills, Tropicana and Blue Cross &amp; Blue Shield.</p>
 
-<p>Will holds masters degrees in business administration, human-computer interaction and cognitive psychology. His interests and studies have focused on design, information architecture, human factors and information visualization. He earned his undergraduate degree in mathematics and philosophy. Will blogs at <a href='http://blog.semanticfoundry.com/'>http://blog.semanticfoundry.com/</a>.</p>
+<p>Will holds masters degrees in business administration, human-computer interaction and cognitive psychology. His interests and studies have focused on design, information architecture, human factors and information visualization. He earned his undergraduate degree in mathematics and philosophy. Will blogs at <a href="http://blog.semanticfoundry.com/">http://blog.semanticfoundry.com/</a>.</p>
+
 	</div>
 
 	
@@ -62,7 +65,7 @@
 		<li><a href="http://upcoming.yahoo.com/event/1853128/DC/Washington/Refresh-DC-February-Meetup-Designing-Human-and-Social-Interactions/The-Center-for-Digital-Imaging-Arts-at-Boston-University/">Upcoming</a></li>
 	</ul>
 </article>
-		</div>
+		</main>
 
 		<footer class="global-footer" role="contentinfo">
 			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org">GitHub</a>.</p>
@@ -72,14 +75,10 @@
 	<script>
 		var _gaq = [['_setAccount', 'UA-5230764-7'], ['_trackPageview']];
 
-		(function(d, t) {
-			var g = d.createElement(t),
-				s = d.getElementsByTagName(t)[0];
-
-			g.src = '//www.google-analytics.com/ga.js';
-
-			s.parentNode.insertBefore(g, s);
-		}(document, 'script'));
+		(function(d,t) {
+			g=d.createElement(t);s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+		}(document,'script'));
 	</script>
 
 </body>

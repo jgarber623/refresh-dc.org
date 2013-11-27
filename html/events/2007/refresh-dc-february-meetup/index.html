@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html id="refresh-dc-org" lang="en">
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en">
 <head>
 	<meta charset="utf-8">
 
@@ -11,10 +11,11 @@
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
-	<meta name="og:title" content="Refresh DC">
+	<meta name="og:description" itemprop="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
+	<meta name="og:image" itemprop="image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:title" itemprop="name" content="Refresh DC">
 	<meta name="og:url" content="http://refresh-dc.org/">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,14 +28,16 @@
 			<h1><a href="/" class="fn org url">Refresh DC</a></h1>
 		</header>
 
-		<div class="global-content" role="main">
+		<main class="global-content" role="main">
 			<article class="vevent">
 	<h1><a href="" class="url summary">Refresh DC February Meetup</a></h1>
 
 	<div class="description">
-		<p><a href='http://www.undercovergeek.net/'>Justin Thorp</a>, web application developer currently contracting with the <a href='http://www.loc.gov/'>Library of Congress</a>, will be giving a presentation on accessibility titled “Understanding The Real World Wide Web and Why Web Accessibility Is Crucial.” Justin will be covering different ways in which people use the Web, what you can do to increase the accessibility of your site, and how <a href='http://www.w3.org/TR/WAI-WEBCONTENT/'>WCAG</a> fits into it all.</p>
+		
+<p><a href="http://www.undercovergeek.net/">Justin Thorp</a>, web application developer currently contracting with the <a href="http://www.loc.gov/">Library of Congress</a>, will be giving a presentation on accessibility titled “Understanding The Real World Wide Web and Why Web Accessibility Is Crucial.” Justin will be covering different ways in which people use the Web, what you can do to increase the accessibility of your site, and how <a href="http://www.w3.org/TR/WAI-WEBCONTENT/">WCAG</a> fits into it all.</p>
 
 <p>The Motley Fool’s offices are located on Duke Street just across from the King Street Metro station on the Yellow/Blue lines (take the tunnel!).</p>
+
 	</div>
 
 	
@@ -60,7 +63,7 @@
 		<li><a href="http://upcoming.yahoo.com/event/139624/VA/Alexandria/Refresh-DC-February-meetup/The-Motley-Fool/">Upcoming</a></li>
 	</ul>
 </article>
-		</div>
+		</main>
 
 		<footer class="global-footer" role="contentinfo">
 			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org">GitHub</a>.</p>
@@ -70,14 +73,10 @@
 	<script>
 		var _gaq = [['_setAccount', 'UA-5230764-7'], ['_trackPageview']];
 
-		(function(d, t) {
-			var g = d.createElement(t),
-				s = d.getElementsByTagName(t)[0];
-
-			g.src = '//www.google-analytics.com/ga.js';
-
-			s.parentNode.insertBefore(g, s);
-		}(document, 'script'));
+		(function(d,t) {
+			g=d.createElement(t);s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+		}(document,'script'));
 	</script>
 
 </body>
