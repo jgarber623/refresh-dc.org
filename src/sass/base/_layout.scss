@@ -6,7 +6,7 @@
 	text-shadow: -1px 1px 0 rgba(#000, 0.1);
 	width: 90%;
 
-	@include respond-to($medium) {
+	@include breakpoint($bp-medium) {
 		text-align: left;
 	}
 }
