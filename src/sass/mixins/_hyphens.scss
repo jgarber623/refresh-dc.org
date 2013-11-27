@@ -1,6 +1,0 @@
-@mixin hyphens( $value: auto ) {
-	@each $prefix in moz, ms, o, webkit {
-		-#{$prefix}-hyphens: #{$value};
-	}
-	hyphens: #{$value};
-}
