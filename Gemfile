@@ -1,5 +1,5 @@
-ruby '1.9.3'
-source :rubygems
+ruby '2.0.0'
+source 'https://rubygems.org'
 
 # Utilities
 gem 'rake'
@@ -11,6 +11,7 @@ gem 'jekyll'
 
 # Asset generation
 gem 'rb-fsevent'
-gem 'sass'
+gem 'sass', '~> 3.3.0.rc.2'
 gem 'sass-globbing'
-gem 'compass', '~> 0.13.alpha'
+gem 'compass', '~> 0.13.alpha.12'
+gem 'breakpoint', '~> 2.2.0'
