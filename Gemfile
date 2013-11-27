@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 # Utilities
 gem 'rake'
-gem 'capistrano'
+gem 'capistrano', '~> 2.15.5'
 gem 'foreman'
 
 # Site generation
