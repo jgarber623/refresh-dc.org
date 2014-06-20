@@ -2,10 +2,7 @@
 title: Refresh DC January Meetup
 dtstart: 2008-01-17T19:00:00Z
 dtend: 2008-01-17T20:00:00Z
-location:
-  name: Greater Washington Board of Trade
-  address: 1725 I St. NW, Suite 200, Washington, DC 20006
-  url: http://www.bot.org/
+venue: Greater Washington Board of Trade
 speakers:
   - name: John F. Croston III
     url: http://www.jfciii.com/blog/

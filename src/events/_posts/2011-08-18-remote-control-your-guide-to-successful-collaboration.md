@@ -1,11 +1,8 @@
 ---
-title: "Remote Control: Your Guide to Successful Collaboration"
+title: 'Remote Control: Your Guide to Successful Collaboration'
 dtstart: 2011-08-18T18:30:00Z
 dtend: 2011-08-18T20:00:00Z
-location:
-  name: Opower
-  address: 1515 North Courthouse Rd., 8th Floor, Arlington, VA 22201
-  url: http://opower.com/
+venue: Opower
 speakers:
   - name: Jason Wishard
     url: http://www.eightshapes.com/

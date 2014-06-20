@@ -2,10 +2,7 @@
 title: Refresh DC March Happy Hour
 dtstart: 2010-03-25T19:00:00Z
 dtend: 2010-03-25T21:00:00Z
-location:
-  name: Capitol City Brewery
-  address: 1100 New York Ave. NW, Washington, DC 20005
-  url: http://www.capcitybrew.com/
+venue: Capitol City Brewery
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/5637156/DC/Washington-DC/Refresh-DC-March-Happy-Hour/Capitol-City-Brewery/

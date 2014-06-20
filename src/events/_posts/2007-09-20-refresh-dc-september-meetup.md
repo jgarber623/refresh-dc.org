@@ -2,10 +2,7 @@
 title: Refresh DC September Meetup
 dtstart: 2007-09-20T19:00:00Z
 dtend: 2007-09-20T20:00:00Z
-location:
-  name: The Motley Fool
-  address: 2000 Duke St., Alexandria, VA 22314
-  url: http://www.fool.com/
+venue: The Motley Fool
 speakers:
   - name: Will Meyer
     url: http://www.willmeyer.com/

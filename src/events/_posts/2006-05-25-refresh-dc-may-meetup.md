@@ -2,15 +2,12 @@
 title: Refresh DC May Meetup
 dtstart: 2006-05-25T19:00:00Z
 dtend: 2006-05-25T20:00:00Z
-location:
-  name: Martin Luther King Jr. Memorial Library
-  address: 901 G St. NW, Washington, DC 20001
-  url: http://www.dclibrary.org/mlk
+venue: Martin Luther King Jr. Memorial Library
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/78710/DC/Washington-DC/Refresh-DC-May-Meetup/MLK-Jr-Memorial-Public-Library/
 ---
 
-This month we’ll be hearing from the designers in the house about how they approach design, select colors and graphics, and put the polish and shine on their layouts.
+This month we'll be hearing from the designers in the house about how they approach design, select colors and graphics, and put the polish and shine on their layouts.
 
-Come on by, we’ll be in Room 221! Food and drinks will likely be had at a local establishment afterwards.
+Come on by, we'll be in Room 221! Food and drinks will likely be had at a local establishment afterwards.

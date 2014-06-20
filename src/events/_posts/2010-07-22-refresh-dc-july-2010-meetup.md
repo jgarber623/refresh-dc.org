@@ -2,10 +2,7 @@
 title: Refresh DC July 2010 Meetup
 dtstart: 2010-07-22T19:00:00Z
 dtend: 2010-07-22T20:00:00Z
-location:
-  name: The Center for Digital Imaging Arts at Boston University
-  address: 1055 Thomas Jefferson St. NW, Washington, DC 20007
-  url: http://www.cdiabu.com/washington-campus/
+venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - name: Stephanie Hay
     url: http://stephaniehay.com/
@@ -16,7 +13,7 @@ rsvp:
 
 NO BORING CONTENT ALLOWED!
 
-Since designers and developers have been busy creating standards-based work, it’s understandable that they haven’t necessarily kept sharp on their written word. But are we so focused on conceiving, designing, developing, and marketing the most mind-blowing ideas that we’re apathetic to (correctly) adding a space between “log” and “in?”
+Since designers and developers have been busy creating standards-based work, it's understandable that they haven't necessarily kept sharp on their written word. But are we so focused on conceiving, designing, developing, and marketing the most mind-blowing ideas that we're apathetic to (correctly) adding a space between "log" and "in?"
 
 [Steph Hay](http://stephaniehay.com/) says, no way José! (The question is, do you? And who is José, anyway?)
 
@@ -25,7 +22,7 @@ In this talk, she'll discuss ways in which web folks can write compelling, credi
 --------------------
 About Steph Hay
 
-After nearly 10 years writing and project managing for companies including Viget Labs and NBC Universal Sports, Steph struck out on her own to write AWESOME content for clients’ websites, blogs, résumés, contracts, and marketing collateral. She also specializes in information architecture, marketing, drinking Counter Culture coffee, and laughing.
+After nearly 10 years writing and project managing for companies including Viget Labs and NBC Universal Sports, Steph struck out on her own to write AWESOME content for clients' websites, blogs, résumés, contracts, and marketing collateral. She also specializes in information architecture, marketing, drinking Counter Culture coffee, and laughing.
 
 --------------------
 

@@ -1,11 +1,8 @@
 ---
-title: "Refresh DC February Meetup: Intellectual Property for Web Designers"
+title: 'Refresh DC February Meetup: Intellectual Property for Web Designers'
 dtstart: 2010-02-18T19:00:00Z
 dtend: 2010-02-18T20:00:00Z
-location:
-  name: The Motley Fool
-  address: 2000 Duke St., Alexandria, VA 22314
-  url: http://www.fool.com/
+venue: The Motley Fool
 speakers:
   - name: Barbara Berschler
     url: http://www.presspotterlaw.com/

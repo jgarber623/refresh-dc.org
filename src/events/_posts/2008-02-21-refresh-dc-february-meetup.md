@@ -2,10 +2,7 @@
 title: Refresh DC February Meetup
 dtstart: 2008-02-21T19:00:00Z
 dtend: 2008-02-21T20:00:00Z
-location:
-  name: APCO Worldwide
-  address: 700 12th St. NW, Suite 800, Washington, DC 20005
-  url: http://www.apcoworldwide.com/
+venue: APCO Worldwide
 speakers:
   - name: Martin Ringlein
     url: http://www.marylandmedia.com/

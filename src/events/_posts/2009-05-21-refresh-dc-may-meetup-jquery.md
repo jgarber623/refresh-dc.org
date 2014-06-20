@@ -1,11 +1,8 @@
 ---
-title: "Refresh DC May Meetup: jQuery"
+title: 'Refresh DC May Meetup: jQuery'
 dtstart: 2009-05-21T19:00:00Z
 dtend: 2009-05-21T20:00:00Z
-location:
-  name: The Center for Digital Imaging Arts at Boston University
-  address: 1055 Thomas Jefferson St. NW, Washington, DC 20007
-  url: http://www.cdiabu.com/washington-campus/
+venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - name: Benjamin Sterling
     url: http://www.informationexperts.com/

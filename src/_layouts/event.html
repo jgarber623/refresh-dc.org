@@ -26,8 +26,12 @@ layout: application
 			<time class="dtstart">{{ page.dtstart | date: "%B %d, %Y %l:%M" }}</time>–<time class="dtend">{{ page.dtend | date: "%l:%M %p" }}</time>
 		</li>
 		<li>
-			<a href="{{ page.location.url }}" class="fn org url">{{ page.location.name }}</a><br>
-			<span class="adr">{{ page.location.address }}</span>
+			{% for venue in site.data.venues %}
+				{% if venue.title == page.venue %}
+					<a href="{{ venue.url }}" class="fn org url">{{ venue.title }}</a><br>
+					<span class="adr">{{ venue.address }}</span>
+				{% endif %}
+			{% endfor %}
 		</li>
 		<li><a href="{{ page.rsvp.url }}">{{ page.rsvp.name }}</a></li>
 	</ul>

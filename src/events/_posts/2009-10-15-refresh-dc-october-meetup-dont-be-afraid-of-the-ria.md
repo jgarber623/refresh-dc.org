@@ -1,11 +1,8 @@
 ---
-title: "Refresh DC October Meetup: Don’t Be Afraid of the RIA"
+title: 'Refresh DC October Meetup: Don’t Be Afraid of the RIA'
 dtstart: 2009-10-15T19:00:00Z
 dtend: 2009-10-15T20:00:00Z
-location:
-  name: AARP
-  address: 601 E St. NW, Washington, DC 20049
-  url: http://www.aarp.org/
+venue: AARP
 speakers:
   - name: Cindy Blue
     url: http://www.roundarch.com/

@@ -2,10 +2,7 @@
 title: Refresh DC July Meetup
 dtstart: 2007-07-19T19:00:00Z
 dtend: 2007-07-19T20:00:00Z
-location:
-  name: The Motley Fool
-  address: 2000 Duke St., Alexandria, VA 22314
-  url: http://www.fool.com/
+venue: The Motley Fool
 speakers:
   - name: Jeremy Carbaugh
     url: http://carbauja.com/
@@ -16,4 +13,4 @@ rsvp:
 
 [Jeremy Carbaugh](http://carbauja.com/), web developer with the [Sunlight Foundation](http://sunlightfoundation.com/), will show how current web technologies are being used to get citizens involved in government and hold Congress more accountable to their constituents.
 
-The Motley Fool’s offices are located on Duke Street just across from the King Street Metro station on the Yellow/Blue lines (take the tunnel!).
+The Motley Fool's offices are located on Duke Street just across from the King Street Metro station on the Yellow/Blue lines (take the tunnel!).

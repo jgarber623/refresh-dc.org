@@ -2,18 +2,15 @@
 title: Refresh DC Holiday Happy Hour
 dtstart: 2010-12-16T19:00:00Z
 dtend: 2010-12-16T22:00:00Z
-location:
-  name: Capitol City Brewery
-  address: 1100 New York Ave. NW, Washington, DC 20005
-  url: http://www.capcitybrew.com/
+venue: Capitol City Brewery
 rsvp:
   name: Eventbrite
   url: http://refreshdc-dec-2010.eventbrite.com/
 ---
 
-It’s that time of the year again where the holidays are upon us. Instead of not doing anything this month, we’ve decided to host a happy hour just before people leave town. Unlike Most Holiday Parties, This One Will Be Free!
+It's that time of the year again where the holidays are upon us. Instead of not doing anything this month, we've decided to host a happy hour just before people leave town. Unlike Most Holiday Parties, This One Will Be Free!
 
-This year’s happy hour is open to any generous folks that would want to help sponsor the bar tab. Sponsorship opportunities are still available and will only help make this party a notch above the rest.
+This year's happy hour is open to any generous folks that would want to help sponsor the bar tab. Sponsorship opportunities are still available and will only help make this party a notch above the rest.
 
 Join us on Thursday, December 16th for drinks at the downtown Capitol City Brewing location (New York Ave NW & 11th St NW). It's one block from the Metro Center stop on the Red, Blue and Orange Lines.
 

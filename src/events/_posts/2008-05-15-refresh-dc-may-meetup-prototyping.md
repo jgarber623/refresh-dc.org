@@ -1,11 +1,8 @@
 ---
-title: "Refresh DC May Meetup: Prototyping"
+title: 'Refresh DC May Meetup: Prototyping'
 dtstart: 2008-05-15T19:00:00Z
 dtend: 2008-05-15T20:00:00Z
-location:
-  name: Strategic Analysis, Inc.
-  address: 3601 Wilson Blvd., Suite 600, Arlington, VA 22201
-  url: http://www.apcoworldwide.com/
+venue: Strategic Analysis, Inc.
 speakers:
   - name: Todd Zaki Warfel
     url: http://messagefirst.com/

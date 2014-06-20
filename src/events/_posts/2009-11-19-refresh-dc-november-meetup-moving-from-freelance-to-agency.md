@@ -1,11 +1,8 @@
 ---
-title: "Refresh DC November Meetup: Moving from Freelance to Agency"
+title: 'Refresh DC November Meetup: Moving from Freelance to Agency'
 dtstart: 2009-11-19T19:00:00Z
 dtend: 2009-11-19T20:00:00Z
-location:
-  name: Viget Labs
-  address: 400 South Maple Ave., Suite 200, Falls Church, VA 22046
-  url: http://viget.com/
+venue: Viget Labs
 speakers:
   - name: Anthony Pappas
     url: http://www.pappasgroup.com/
@@ -22,7 +19,7 @@ rsvp:
   url: http://upcoming.yahoo.com/event/4882604/DC/Falls-Church/Refresh-DC-November-Meetup-Moving-from-Freelance-to-Agency/Viget-Labs/
 ---
 
-This month, in a very special NoVA edition of Refresh DC, we’ll host a panel featuring the founders of some of the region’s most well-known small- and mid-size web shops.
+This month, in a very special NoVA edition of Refresh DC, we'll host a panel featuring the founders of some of the region's most well-known small- and mid-size web shops.
 
 These founders will share their stories and talk about the highs and the lows as they moved from going it alone to having to deal with salaries, benefits, office space, and lots of clients.
 
@@ -34,4 +31,4 @@ Jen Sterling, President, Hinge
 Martin Ringlein, Senior Consultant, Nclud
 Jeff Walpole, CEO, Phase2 Technology
 
-Bring your questions, and they’ll bring the wisdom.
+Bring your questions, and they'll bring the wisdom.
