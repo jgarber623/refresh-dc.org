@@ -14,7 +14,7 @@ defaults:
   -
     scope:
       path: 'events'
-      type: 'event'
+      type: 'post'
     values:
       layout: 'event'
 
