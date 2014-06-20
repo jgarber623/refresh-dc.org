@@ -9,6 +9,15 @@ description: 'Refresh DC is a group of Web Designers, Web Developers, and other 
 # Permalink settings
 permalink: /events/:year/:title
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: 'events'
+      type: 'event'
+    values:
+      layout: 'event'
+
 # License
 license:
   title: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
