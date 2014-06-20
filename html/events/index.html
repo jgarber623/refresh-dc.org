@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en">
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en-US">
 <head>
 	<meta charset="utf-8">
 
@@ -11,18 +11,15 @@
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
+	<meta name="mobile-web-app-capable" content="yes">
 	<meta name="og:description" itemprop="description" content="Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.">
-	<meta name="og:image" itemprop="image" content="http://refresh-dc.org/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:image" itemprop="image" content="/apple-touch-icon-144x144-precomposed.png">
 	<meta name="og:title" itemprop="name" content="Refresh DC">
-	<meta name="og:url" content="http://refresh-dc.org/">
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152-precomposed.png" sizes="152x152">
-	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-120x120-precomposed.png" sizes="120x120">
-	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-76x76-precomposed.png" sizes="76x76">
-	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="/refreshdc.png">
 	<link rel="stylesheet" href="/stylesheets/application.css">
 </head>
 <body class="vcard">
@@ -159,12 +156,16 @@
 		</main>
 
 		<footer class="global-footer" role="contentinfo">
-			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org" rel="source">GitHub</a>.</p>
+			<p>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License license</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org" rel="source">GitHub</a>.</p>
 		</footer>
 	</div>
 
 	<script>
-		var _gaq = [['_setAccount', 'UA-5230764-7'], ['_trackPageview']];
+		var _gaq = [
+			['_setAccount', 'UA-5230764-7'],
+			['_setCustomVar', 1, 'DevicePixelRatio', (window.devicePixelRatio >= 1.5) ? 'HiDPI' : '1X', 2],
+			['_trackPageview']
+		];
 
 		(function(d,t) {
 			g=d.createElement(t);s=d.getElementsByTagName(t)[0];

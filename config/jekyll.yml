@@ -1,6 +1,15 @@
-source: ./src/jekyll
+# Build sources
+source: ./src
 destination: ./html
 
-name: Refresh DC
+# Site variables
+title: Refresh DC
 description: 'Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.'
+
+# Permalink settings
 permalink: /events/:year/:title
+
+# License
+license:
+  title: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
+  url: http://creativecommons.org/licenses/by-nc-sa/3.0/

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en-US">
+<head>
+	<meta charset="utf-8">
+
+	<title>
+		{% if page.title %}
+			{{ page.title }} – {{ site.title }}
+		{% else %}
+			{{ site.title }} – The best and brightest new media professionals in the DC metro area
+		{% endif %}
+	</title>
+
+	<meta name="apple-mobile-web-app-title" content="Refresh DC">
+	<meta name="description" content="{{ site.description }}">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="og:description" itemprop="description" content="{{ site.description }}">
+	<meta name="og:image" itemprop="image" content="/apple-touch-icon-144x144-precomposed.png">
+	<meta name="og:title" itemprop="name" content="{{ site.title }}">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@refreshdc">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="apple-touch-icon-precomposed" href="/refreshdc.png">
+	<link rel="stylesheet" href="/stylesheets/application.css">
+</head>
+<body class="vcard">
+
+	<div class="global-wrapper">
+		<header class="global-header" role="banner">
+			<h1><a href="/" class="fn org url">{{ site.title }}</a></h1>
+		</header>
+
+		<main class="global-content" role="main">
+			{{ content }}
+		</main>
+
+		<footer class="global-footer" role="contentinfo">
+			<p>Some rights reserved. This site’s content is licensed under a <a href="{{ site.license.url }}" rel="license">{{ site.license.title }} license</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org" rel="source">GitHub</a>.</p>
+		</footer>
+	</div>
+
+	<script>
+		var _gaq = [
+			['_setAccount', 'UA-5230764-7'],
+			['_setCustomVar', 1, 'DevicePixelRatio', (window.devicePixelRatio >= 1.5) ? 'HiDPI' : '1X', 2],
+			['_trackPageview']
+		];
+
+		(function(d,t) {
+			g=d.createElement(t);s=d.getElementsByTagName(t)[0];
+			g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+		}(document,'script'));
+	</script>
+
+</body>
+</html>

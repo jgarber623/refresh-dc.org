@@ -3,4 +3,4 @@
 .ruby-version
 .sass-cache
 config/deploy.rb
-src/jekyll/stylesheets/*.css
+src/stylesheets/*.css
