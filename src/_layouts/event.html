@@ -2,37 +2,42 @@
 layout: application
 ---
 
-<article class="vevent">
-	<h1><a href="{{ page.permalink }}" class="url summary">{{ page.title }}</a></h1>
+<article class="h-event">
+	<h1><a href="{{ page.permalink }}" class="p-name u-url">{{ page.title }}</a></h1>
 
-	<div class="description">
+	<blockquote class="p-description">
 		{{ content }}
-	</div>
+	</blockquote>
 
 	{% if page.speakers %}
 		<h2>Speaker(s)</h2>
 
-		<ul>
+		<ol>
 			{% for speaker in page.speakers %}
-				<li><a href="{{ speaker.url }}">{{ speaker.name }}</a></li>
+				<li><a href="{{ speaker.url }}" class="h-card">{{ speaker.name }}</a></li>
 			{% endfor %}
-		</ul>
+		</ol>
 	{% endif %}
 
 	<h2>Details</h2>
 
-	<ul>
-		<li>
-			<time class="dtstart">{{ page.dtstart | date: "%B %d, %Y %l:%M" }}</time>–<time class="dtend">{{ page.dtend | date: "%l:%M %p" }}</time>
-		</li>
-		<li>
+	<dl>
+		<dt>Date</dt>
+		<dd>
+			<time class="dt-start">{{ page.dtstart | date: "%B %d, %Y %l:%M" }}</time>–<time class="dt-end">{{ page.dtend | date: "%l:%M %p" }}</time>
+		</dd>
+		<dt>Venue</dt>
+		<dd class="p-location">
 			{% for venue in site.data.venues %}
 				{% if venue.title == page.venue %}
-					<a href="{{ venue.url }}" class="fn org url">{{ venue.title }}</a><br>
-					<span class="adr">{{ venue.address }}</span>
+					<a href="{{ venue.url }}" class="h-card">{{ venue.title }}</a><br>
+					{{ venue.address }}
 				{% endif %}
 			{% endfor %}
-		</li>
-		<li><a href="{{ page.rsvp.url }}">{{ page.rsvp.name }}</a></li>
-	</ul>
+		</dd>
+		<dt>RSVP</dt>
+		<dd>
+			<a href="{{ page.rsvp.url }}">{{ page.rsvp.name }}</a>
+		</dd>
+	</dl>
 </article>
