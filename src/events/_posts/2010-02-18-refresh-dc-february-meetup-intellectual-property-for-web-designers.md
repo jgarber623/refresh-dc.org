@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC February Meetup: Intellectual Property for Web Designers'
-dtstart: 2010-02-18T19:00:00Z
-dtend: 2010-02-18T20:00:00Z
+dtstart: 2010-02-18T19:00:00-05:00
+dtend: 2010-02-18T20:00:00-05:00
 venue: The Motley Fool
 speakers:
   - name: Barbara Berschler

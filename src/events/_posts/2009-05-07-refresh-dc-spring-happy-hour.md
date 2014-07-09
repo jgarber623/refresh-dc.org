@@ -1,7 +1,7 @@
 ---
 title: Refresh DC Spring Happy Hour
-dtstart: 2009-05-07T18:30:00Z
-dtend: 2009-05-07T20:00:00Z
+dtstart: 2009-05-07T18:30:00-05:00
+dtend: 2009-05-07T20:00:00-05:00
 venue: Rocketbar
 rsvp:
   name: Upcoming

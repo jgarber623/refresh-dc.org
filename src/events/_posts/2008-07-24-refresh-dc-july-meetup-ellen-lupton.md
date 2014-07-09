@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC July Meetup: Ellen Lupton'
-dtstart: 2008-07-24T19:00:00Z
-dtend: 2008-07-24T20:00:00Z
+dtstart: 2008-07-24T19:00:00-05:00
+dtend: 2008-07-24T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - name: Ellen Lupton

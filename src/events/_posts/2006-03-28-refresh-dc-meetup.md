@@ -1,7 +1,7 @@
 ---
 title: Refresh DC Meetup
-dtstart: 2006-03-28T18:30:00Z
-dtend: 2006-03-28T20:30:00Z
+dtstart: 2006-03-28T18:30:00-05:00
+dtend: 2006-03-28T20:30:00-05:00
 venue: Ireland’s Four Green Fields
 rsvp:
   name: Upcoming

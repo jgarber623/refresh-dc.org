@@ -1,7 +1,7 @@
 ---
 title: 'Remote Control: Your Guide to Successful Collaboration'
-dtstart: 2011-08-18T18:30:00Z
-dtend: 2011-08-18T20:00:00Z
+dtstart: 2011-08-18T18:30:00-05:00
+dtend: 2011-08-18T20:00:00-05:00
 venue: Opower
 speakers:
   - name: Jason Wishard

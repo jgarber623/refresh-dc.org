@@ -1,7 +1,7 @@
 ---
 title: Refresh DC May Meetup
-dtstart: 2006-05-25T19:00:00Z
-dtend: 2006-05-25T20:00:00Z
+dtstart: 2006-05-25T19:00:00-05:00
+dtend: 2006-05-25T20:00:00-05:00
 venue: Martin Luther King Jr. Memorial Library
 rsvp:
   name: Upcoming

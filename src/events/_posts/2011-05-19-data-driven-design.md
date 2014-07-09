@@ -1,7 +1,7 @@
 ---
 title: Data-Driven Design
-dtstart: 2011-05-19T18:30:00Z
-dtend: 2011-05-19T20:30:00Z
+dtstart: 2011-05-19T18:30:00-05:00
+dtend: 2011-05-19T20:30:00-05:00
 venue: Viget Labs
 speakers:
   - name: Craig Green

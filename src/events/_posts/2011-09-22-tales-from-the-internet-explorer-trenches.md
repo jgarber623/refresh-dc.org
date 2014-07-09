@@ -1,7 +1,7 @@
 ---
 title: Tales from the Internet Explorer Trenches
-dtstart: 2011-09-22T19:00:00Z
-dtend: 2011-09-22T20:30:00Z
+dtstart: 2011-09-22T19:00:00-05:00
+dtend: 2011-09-22T20:30:00-05:00
 venue: APCO Worldwide
 speakers:
   - name: Evan Samek

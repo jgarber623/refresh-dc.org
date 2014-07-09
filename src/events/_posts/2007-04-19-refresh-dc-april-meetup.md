@@ -1,7 +1,7 @@
 ---
 title: Refresh DC April Meetup
-dtstart: 2007-04-19T19:00:00Z
-dtend: 2007-04-19T20:00:00Z
+dtstart: 2007-04-19T19:00:00-05:00
+dtend: 2007-04-19T20:00:00-05:00
 venue: The Motley Fool
 speakers:
   - name: John Sutton

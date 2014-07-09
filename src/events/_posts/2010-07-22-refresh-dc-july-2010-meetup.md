@@ -1,7 +1,7 @@
 ---
 title: Refresh DC July 2010 Meetup
-dtstart: 2010-07-22T19:00:00Z
-dtend: 2010-07-22T20:00:00Z
+dtstart: 2010-07-22T19:00:00-05:00
+dtend: 2010-07-22T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - name: Stephanie Hay

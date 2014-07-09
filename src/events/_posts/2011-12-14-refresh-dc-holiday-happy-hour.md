@@ -1,7 +1,7 @@
 ---
 title: Refresh DC Holiday Happy Hour
-dtstart: 2011-12-14T18:30:00Z
-dtend: 2011-12-14T20:00:00Z
+dtstart: 2011-12-14T18:30:00-05:00
+dtend: 2011-12-14T20:00:00-05:00
 venue: Bread & Brew
 rsvp:
   name: Eventbrite

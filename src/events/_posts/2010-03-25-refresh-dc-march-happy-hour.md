@@ -1,7 +1,7 @@
 ---
 title: Refresh DC March Happy Hour
-dtstart: 2010-03-25T19:00:00Z
-dtend: 2010-03-25T21:00:00Z
+dtstart: 2010-03-25T19:00:00-05:00
+dtend: 2010-03-25T21:00:00-05:00
 venue: Capitol City Brewery
 rsvp:
   name: Upcoming

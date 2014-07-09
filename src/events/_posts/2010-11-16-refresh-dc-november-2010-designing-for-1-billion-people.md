@@ -1,7 +1,7 @@
 ---
 title: Refresh DC November 2010 - "Designing for 1 Billion People"
-dtstart: 2010-11-16T19:00:00Z
-dtend: 2010-11-16T21:00:00Z
+dtstart: 2010-11-16T19:00:00-05:00
+dtend: 2010-11-16T21:00:00-05:00
 venue: The Motley Fool (Ballenger Ave.)
 speakers:
   - name: Jim Lane

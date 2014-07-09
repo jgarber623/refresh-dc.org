@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC May Meetup: Setting Up Shop'
-dtstart: 2010-05-20T19:00:00Z
-dtend: 2010-05-20T20:00:00Z
+dtstart: 2010-05-20T19:00:00-05:00
+dtend: 2010-05-20T20:00:00-05:00
 venue: AARP
 speakers:
   - name: Nick Whitmoyer

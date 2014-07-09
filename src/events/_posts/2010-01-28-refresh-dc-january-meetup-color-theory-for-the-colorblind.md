@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC January Meetup: Color Theory for the Colorblind'
-dtstart: 2010-01-28T19:00:00Z
-dtend: 2010-01-28T20:00:00Z
+dtstart: 2010-01-28T19:00:00-05:00
+dtend: 2010-01-28T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - name: David DeSandro

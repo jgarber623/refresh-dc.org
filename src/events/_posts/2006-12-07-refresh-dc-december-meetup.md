@@ -1,7 +1,7 @@
 ---
 title: Refresh DC December Meetup
-dtstart: 2006-12-07T19:00:00Z
-dtend: 2006-12-07T20:30:00Z
+dtstart: 2006-12-07T19:00:00-05:00
+dtend: 2006-12-07T20:30:00-05:00
 venue: The Motley Fool
 speakers:
   - name: Cindy Li

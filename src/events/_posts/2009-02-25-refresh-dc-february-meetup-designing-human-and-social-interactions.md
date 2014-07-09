@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC February Meetup: Designing Human and Social Interactions'
-dtstart: 2009-02-25T19:00:00Z
-dtend: 2009-02-25T20:00:00Z
+dtstart: 2009-02-25T19:00:00-05:00
+dtend: 2009-02-25T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - name: Will Evans

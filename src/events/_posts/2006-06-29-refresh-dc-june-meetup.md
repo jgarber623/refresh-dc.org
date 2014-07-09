@@ -1,7 +1,7 @@
 ---
 title: Refresh DC June Meetup
-dtstart: 2006-06-29T18:45:00Z
-dtend: 2006-06-29T20:30:00Z
+dtstart: 2006-06-29T18:45:00-05:00
+dtend: 2006-06-29T20:30:00-05:00
 venue: James Madison Memorial Building
 speakers:
   - name: Jeremy Carbaugh

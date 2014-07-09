@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC, January 2011: Frameworks Shootout'
-dtstart: 2011-01-20T19:00:00Z
-dtend: 2011-01-20T20:00:00Z
+dtstart: 2011-01-20T19:00:00-05:00
+dtend: 2011-01-20T20:00:00-05:00
 venue: Fathom Creative
 speakers:
   - name: Jeremy Carbaugh
