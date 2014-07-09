@@ -4,10 +4,8 @@ dtstart: 2006-07-25T19:00:00-05:00
 dtend: 2006-07-25T20:30:00-05:00
 venue: James Madison Memorial Building
 speakers:
-  - name: Jason Garber
-    url: http://sixtwothree.org/
-  - name: Cindy Li
-    url: http://cindyli.com/
+  - Jason Garber
+  - Cindy Li
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/90361/DC/Washington-DC/Refresh-DC-July-Meetup/James-Madison-Memorial-Building/

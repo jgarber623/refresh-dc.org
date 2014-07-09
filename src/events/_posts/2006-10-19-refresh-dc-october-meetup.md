@@ -4,8 +4,7 @@ dtstart: 2006-10-19T19:00:00-05:00
 dtend: 2006-10-19T20:30:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: Alex Giron
-    url: http://neography.com/
+  - Alex Giron
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/115960/VA/Alexandria/Refresh-DC-October-Meetup/The-Motley-Fool/

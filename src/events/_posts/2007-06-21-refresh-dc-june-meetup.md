@@ -4,8 +4,7 @@ dtstart: 2007-06-21T19:00:00-05:00
 dtend: 2007-06-21T20:00:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: M. Jackson Wilkinson
-    url: http://jounce.net/
+  - M. Jackson Wilkinson
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/197916/VA/Alexandria/Refresh-DC-June-meetup/The-Motley-Fool/

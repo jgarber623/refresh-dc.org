@@ -4,8 +4,7 @@ dtstart: 2007-02-15T19:00:00-05:00
 dtend: 2007-02-15T20:30:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: Justin Thorp
-    url: http://www.undercovergeek.net/
+  - Justin Thorp
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/139624/VA/Alexandria/Refresh-DC-February-meetup/The-Motley-Fool/

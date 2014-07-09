@@ -4,8 +4,7 @@ dtstart: 2011-09-22T19:00:00-05:00
 dtend: 2011-09-22T20:30:00-05:00
 venue: APCO Worldwide
 speakers:
-  - name: Evan Samek
-    url: http://about.me/evansamek
+  - Evan Samek
 rsvp:
   name: Eventbrite
   url: http://refreshdc-sep2011.eventbrite.com/

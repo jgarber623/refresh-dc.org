@@ -4,8 +4,7 @@ dtstart: 2009-05-21T19:00:00-05:00
 dtend: 2009-05-21T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
-  - name: Benjamin Sterling
-    url: http://www.informationexperts.com/
+  - Benjamin Sterling
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/2707220/DC/Washington/Refresh-DC-May-Meetup-jQuery/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

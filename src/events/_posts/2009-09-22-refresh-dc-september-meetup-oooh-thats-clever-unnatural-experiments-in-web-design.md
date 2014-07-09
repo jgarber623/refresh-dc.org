@@ -4,8 +4,7 @@ dtstart: 2009-09-22T19:00:00-05:00
 dtend: 2009-09-22T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
-  - name: Paul Annett
-    url: http://clearleft.com/
+  - Paul Annett
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/4420870/DC/Washington/Refresh-DC-September-Meetup-Oooh-That39s-Clever-Unnatural-Experiments-in-Web-Design/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

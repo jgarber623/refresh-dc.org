@@ -4,10 +4,8 @@ dtstart: 2009-07-16T19:00:00-05:00
 dtend: 2009-07-16T20:00:00-05:00
 venue: AARP
 speakers:
-  - name: Jason Garber
-    url: http://sixtwothree.org/
-  - name: Jackson Wilkinson
-    url: http://jounce.net/
+  - Jason Garber
+  - M. Jackson Wilkinson
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/3068983/DC/Washington/Refresh-DC-July-Meetup-Up-to-Speed-on-HTML5-and-CSS3/AARP/

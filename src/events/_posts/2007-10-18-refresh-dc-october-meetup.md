@@ -4,8 +4,7 @@ dtstart: 2007-10-18T19:00:00-05:00
 dtend: 2007-10-18T20:00:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: Alex Giron
-    url: http://www.cssbeauty.com/
+  - Alex Giron
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/290343/VA/Alexandria/Refresh-DC-October-meetup/The-Motley-Fool/

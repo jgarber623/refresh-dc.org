@@ -4,8 +4,7 @@ dtstart: 2011-03-22T19:00:00-05:00
 dtend: 2011-03-22T20:00:00-05:00
 venue: AARP
 speakers:
-  - name: Jason Garber
-    url: http://sixtwothree.org/
+  - Jason Garber
 rsvp:
   name: Eventbrite
   url: http://refreshdc-march2011.eventbrite.com/

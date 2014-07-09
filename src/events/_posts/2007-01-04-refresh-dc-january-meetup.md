@@ -4,8 +4,7 @@ dtstart: 2007-01-04T19:00:00-05:00
 dtend: 2007-01-04T20:30:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: Dan Rubin
-    url: http://superfluousbanter.org/
+  - Dan Rubin
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/134804/VA/Alexandria/Refresh-DC-January-Meetup/The-Motley-Fool/

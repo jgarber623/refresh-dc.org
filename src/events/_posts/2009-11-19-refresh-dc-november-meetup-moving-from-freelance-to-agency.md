@@ -4,16 +4,11 @@ dtstart: 2009-11-19T19:00:00-05:00
 dtend: 2009-11-19T20:00:00-05:00
 venue: Viget Labs
 speakers:
-  - name: Anthony Pappas
-    url: http://www.pappasgroup.com/
-  - name: Brian Williams
-    url: http://viget.com/
-  - name: Jen Sterling
-    url: http://www.hingemarketing.com/
-  - name: Martin Ringlin
-    url: http://nclud.com/
-  - name: Jeff Walpole
-    url: http://www.phase2technology.com/
+  - Anthony Pappas
+  - Martin Ringlein
+  - Jen Sterling
+  - Jeff Walpole
+  - Brian Williams
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/4882604/DC/Falls-Church/Refresh-DC-November-Meetup-Moving-from-Freelance-to-Agency/Viget-Labs/

@@ -4,8 +4,7 @@ dtstart: 2007-09-20T19:00:00-05:00
 dtend: 2007-09-20T20:00:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: Will Meyer
-    url: http://www.willmeyer.com/
+  - Will Meyer
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/261416/VA/Alexandria/Refresh-DC-September-meetup/The-Motley-Fool/

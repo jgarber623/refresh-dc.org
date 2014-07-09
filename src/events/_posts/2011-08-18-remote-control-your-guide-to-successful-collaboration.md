@@ -4,8 +4,7 @@ dtstart: 2011-08-18T18:30:00-05:00
 dtend: 2011-08-18T20:00:00-05:00
 venue: Opower
 speakers:
-  - name: Jason Wishard
-    url: http://www.eightshapes.com/
+  - Jason Wishard
 rsvp:
   name: Eventbrite
   url: http://refreshdc-august2011.eventbrite.com/

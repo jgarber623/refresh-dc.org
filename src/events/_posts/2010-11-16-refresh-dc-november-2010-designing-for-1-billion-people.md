@@ -4,8 +4,7 @@ dtstart: 2010-11-16T19:00:00-05:00
 dtend: 2010-11-16T21:00:00-05:00
 venue: The Motley Fool (Ballenger Ave.)
 speakers:
-  - name: Jim Lane
-    url: http://jimlaneuxd.blogspot.com/
+  - Jim Lane
 rsvp:
   name: Eventbrite
   url: http://refreshdc-nov2010.eventbrite.com/

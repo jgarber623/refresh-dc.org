@@ -4,8 +4,7 @@ dtstart: 2010-01-28T19:00:00-05:00
 dtend: 2010-01-28T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
-  - name: David DeSandro
-    url: http://desandro.com/
+  - David DeSandro
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/5277638/DC/Washington/Refresh-DC-January-Meetup-Color-Theory-for-the-Colorblind/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

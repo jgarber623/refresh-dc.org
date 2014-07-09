@@ -4,8 +4,7 @@ dtstart: 2008-01-17T19:00:00-05:00
 dtend: 2008-01-17T20:00:00-05:00
 venue: Greater Washington Board of Trade
 speakers:
-  - name: John F. Croston III
-    url: http://www.jfciii.com/blog/
+  - John F. Croston III
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/396176/DC/Washington/Refresh-DC-January-meetup/Greater-Washington-Board-of-Trade/

@@ -4,8 +4,7 @@ dtstart: 2006-09-19T19:00:00-05:00
 dtend: 2006-09-19T20:30:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: Kevin Lawver
-    url: http://lawver.net/
+  - Kevin Lawver
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/103981/VA/Alexandria/Refresh-DC-September-Meetup/The-Motley-Fool/

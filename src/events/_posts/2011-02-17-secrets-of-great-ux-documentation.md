@@ -4,8 +4,7 @@ dtstart: 2011-02-17T19:00:00-05:00
 dtend: 2011-02-17T20:00:00-05:00
 venue: AARP
 speakers:
-  - name: Dan Brown
-    url: http://www.eightshapes.com/
+  - Dan Brown
 rsvp:
   name: Eventbrite
   url: http://refreshdc-feb2011.eventbrite.com/

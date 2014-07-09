@@ -4,8 +4,7 @@ dtstart: 2011-11-16T19:00:00-05:00
 dtend: 2011-11-16T20:00:00-05:00
 venue: AARP
 speakers:
-  - name: Leslie Bradshaw
-    url: http://blogs.forbes.com/lesliebradshaw/
+  - Leslie Bradshaw
 rsvp:
   name: Eventbrite
   url: http://refreshdc-nov2011.eventbrite.com/

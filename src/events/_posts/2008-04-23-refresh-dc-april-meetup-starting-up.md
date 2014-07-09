@@ -4,16 +4,11 @@ dtstart: 2008-04-23T19:00:00-05:00
 dtend: 2008-04-23T20:00:00-05:00
 venue: Strategic Analysis, Inc.
 speakers:
-  - name: Andrew Lee
-    url: http://publi.us/
-  - name: Sean Greene
-    url: http://www.launchboxdigital.com/
-  - name: Eddie Frederick
-    url: http://hungrymachine.com/
-  - name: Brian Williams
-    url: http://viget.com/
-  - name: Eric Rupert
-    url: http://odeo.com/
+  - Eddie Frederick
+  - Sean Greene
+  - Andrew Lee
+  - Eric Rupert
+  - Brian Williams
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/473721/DC/Arlington/Refresh-DC-April-Meetup-Starting-Up/Strategic-Analysis-Inc/

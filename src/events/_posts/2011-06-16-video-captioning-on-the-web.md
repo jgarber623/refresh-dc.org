@@ -4,8 +4,7 @@ dtstart: 2011-06-16T19:00:00-05:00
 dtend: 2011-06-16T20:00:00-05:00
 venue: AARP
 speakers:
-  - name: Russell Heimlich
-    url: http://www.russellheimlich.com/blog/
+  - Russell Heimlich
 rsvp:
   name: Eventbrite
   url: http://refreshdc-june2011.eventbrite.com/

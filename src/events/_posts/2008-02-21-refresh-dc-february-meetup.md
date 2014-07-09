@@ -4,8 +4,7 @@ dtstart: 2008-02-21T19:00:00-05:00
 dtend: 2008-02-21T20:00:00-05:00
 venue: APCO Worldwide
 speakers:
-  - name: Martin Ringlein
-    url: http://www.marylandmedia.com/
+  - Martin Ringlein
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/419649/DC/Washington/Refresh-DC-February-meetup/APCO-Worldwide/

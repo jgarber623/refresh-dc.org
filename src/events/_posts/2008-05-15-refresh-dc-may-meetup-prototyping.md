@@ -4,8 +4,7 @@ dtstart: 2008-05-15T19:00:00-05:00
 dtend: 2008-05-15T20:00:00-05:00
 venue: Strategic Analysis, Inc.
 speakers:
-  - name: Todd Zaki Warfel
-    url: http://messagefirst.com/
+  - Todd Zaki Warfel
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/583903/DC/Arlington/Refresh-DC-May-Meetup-Prototyping/Strategic-Analysis-Inc/

@@ -4,10 +4,8 @@ dtstart: 2009-10-15T19:00:00-05:00
 dtend: 2009-10-15T20:00:00-05:00
 venue: AARP
 speakers:
-  - name: Cindy Blue
-    url: http://www.roundarch.com/
-  - name: John Stuppy
-    url: http://www.roundarch.com/
+  - Cindy Blue
+  - John Stuppy
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/4564207/DC/Washington/Refresh-DC-October-Meetup-Don39t-be-Afraid-of-the-RIA/AARP/

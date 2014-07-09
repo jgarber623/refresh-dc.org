@@ -4,8 +4,7 @@ dtstart: 2007-04-19T19:00:00-05:00
 dtend: 2007-04-19T20:00:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: John Sutton
-    url: http://www.navigationarts.com/
+  - John Sutton
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/170597/VA/Alexandria/Refresh-DC-April-meetup/The-Motley-Fool/

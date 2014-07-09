@@ -4,8 +4,7 @@ dtstart: 2009-06-18T19:00:00-05:00
 dtend: 2009-06-18T20:00:00-05:00
 venue: AARP
 speakers:
-  - name: Nathan Curtis
-    url: http://www.eightshapes.com/
+  - Nathan Curtis
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/2911673/DC/Washington/Refresh-DC-June-Meetup-UX-Deliverables-with-EightShapes-Unify/AARP/

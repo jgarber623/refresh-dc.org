@@ -4,8 +4,7 @@ dtstart: 2007-07-19T19:00:00-05:00
 dtend: 2007-07-19T20:00:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: Jeremy Carbaugh
-    url: http://carbauja.com/
+  - Jeremy Carbaugh
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/215157/VA/Alexandria/Refresh-DC-July-meetup/The-Motley-Fool/

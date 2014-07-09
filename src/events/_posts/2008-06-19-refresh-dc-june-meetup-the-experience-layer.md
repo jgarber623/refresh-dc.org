@@ -4,8 +4,7 @@ dtstart: 2008-06-19T19:00:00-05:00
 dtend: 2008-06-19T20:00:00-05:00
 venue: RFD (Regional Food and Drink)
 speakers:
-  - name: Dan Mall
-    url: http://happycog.com/
+  - Dan Mall
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/684863/DC/Washington-DC/Refresh-DC-June-Meetup-The-Experience-Layer/RFD-Regional-Food-and-Drink-Washington-DC-BreweryBrewPub-RFD39s-Regional-Food-amp-Drink-BrewpubBrewery/

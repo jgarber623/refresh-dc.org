@@ -4,14 +4,10 @@ dtstart: 2006-12-07T19:00:00-05:00
 dtend: 2006-12-07T20:30:00-05:00
 venue: The Motley Fool
 speakers:
-  - name: Cindy Li
-    url: http://cindyli.com/
-  - name: Jeremy Carbaugh
-    url: http://carbauja.com/
-  - name: Jackson Wilkinson
-    url: http://jounce.net/
-  - name: Jason Garber
-    url: http://sixtwothree.org/
+  - Jeremy Carbaugh
+  - Jason Garber
+  - Cindy Li
+  - M. Jackson Wilkinson
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/126801/VA/Alexandria/Refresh-DC-December-Meetup/The-Motley-Fool/

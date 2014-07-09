@@ -4,8 +4,7 @@ dtstart: 2009-03-26T19:00:00-05:00
 dtend: 2009-03-26T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
-  - name: Jeffrey Brown
-    url: http://teachmetheweb.org/
+  - Jeffrey Brown
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/2166922/DC/Washington/Refresh-DC-March-Meetup-Web-Education-Breakthroughs-and-Roadblocks/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

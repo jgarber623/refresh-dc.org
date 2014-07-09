@@ -4,12 +4,9 @@ dtstart: 2011-05-19T18:30:00-05:00
 dtend: 2011-05-19T20:30:00-05:00
 venue: Viget Labs
 speakers:
-  - name: Craig Green
-    url: http://www.networksolutions.com/
-  - name: Jim Lane
-    url: http://www.addthis.com/
-  - name: Paul Koch
-    url: http://viget.com/
+  - Craig Green
+  - Jim Lane
+  - Paul Koch
 rsvp:
   name: Eventbrite
   url: http://refreshdc-may2011.eventbrite.com/

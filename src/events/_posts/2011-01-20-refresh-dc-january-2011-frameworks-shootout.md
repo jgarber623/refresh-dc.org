@@ -4,12 +4,9 @@ dtstart: 2011-01-20T19:00:00-05:00
 dtend: 2011-01-20T20:00:00-05:00
 venue: Fathom Creative
 speakers:
-  - name: Jeremy Carbaugh
-    url: http://sunlightfoundation.com/
-  - name: Shaun Farrell
-    url: http://www.caci.com/
-  - name: Tony Pitale
-    url: http://www.viget.com/
+  - Jeremy Carbaugh
+  - Shaun Farrell
+  - Tony Pitale
 rsvp:
   name: Eventbrite
   url: http://refreshdc-jan2011.eventbrite.com/
