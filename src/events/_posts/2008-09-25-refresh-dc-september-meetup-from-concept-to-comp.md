@@ -4,8 +4,8 @@ dtstart: 2008-09-25T19:00:00-05:00
 dtend: 2008-09-25T20:00:00-05:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
-  - name: Jason Garber
-    url: http://sixtwothree.org/
+  - name: Nguyet Vuong
+    url: http://newwaydesign.com/
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/1110333/DC/Washington/Refresh-DC-September-Meetup-From-Concept-to-Comp/The-Center-for-Digital-Imaging-Arts-at-Boston-University/
