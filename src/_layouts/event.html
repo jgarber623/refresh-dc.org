@@ -2,19 +2,19 @@
 layout: application
 ---
 
-<article class="h-event">
-	<h1><a href="{{ page.permalink }}" class="p-name u-url">{{ page.title }}</a></h1>
+<article>
+	<h1><a href="{{ page.permalink }}">{{ page.title }}</a></h1>
 
-	<blockquote class="p-description">
+	<div>
 		{{ content }}
-	</blockquote>
+	</div>
 
 	{% if page.speakers %}
 		<h2>Speaker(s)</h2>
 
 		<ol>
 			{% for speaker in page.speakers %}
-				<li><a href="{{ speaker.url }}" class="h-card">{{ speaker.name }}</a></li>
+				<li><a href="{{ speaker.url }}">{{ speaker.name }}</a></li>
 			{% endfor %}
 		</ol>
 	{% endif %}
@@ -24,13 +24,13 @@ layout: application
 	<dl>
 		<dt>Date</dt>
 		<dd>
-			<time class="dt-start">{{ page.dtstart | date: "%B %d, %Y %l:%M" }}</time>–<time class="dt-end">{{ page.dtend | date: "%l:%M %p" }}</time>
+			<time>{{ page.dtstart | date: "%B %d, %Y %l:%M" }}</time>–<time>{{ page.dtend | date: "%l:%M %p" }}</time>
 		</dd>
 		<dt>Venue</dt>
-		<dd class="p-location">
+		<dd>
 			{% for venue in site.data.venues %}
 				{% if venue.title == page.venue %}
-					<a href="{{ venue.url }}" class="h-card">{{ venue.title }}</a><br>
+					<a href="{{ venue.url }}">{{ venue.title }}</a><br>
 					{{ venue.address }}
 				{% endif %}
 			{% endfor %}
