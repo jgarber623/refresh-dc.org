@@ -14,7 +14,9 @@ layout: application
 
 		<ol>
 			{% for speaker in page.speakers %}
-				<li><a href="{{ speaker.url }}">{{ speaker.name }}</a></li>
+				{% if site.data.speakers[speaker] | length %}
+					<li><a href="{{ site.data.speakers[speaker].url }}">{{ speaker }}</a></li>
+				{% endif %}
 			{% endfor %}
 		</ol>
 	{% endif %}
@@ -24,16 +26,14 @@ layout: application
 	<dl>
 		<dt>Date</dt>
 		<dd>
-			<time>{{ page.dtstart | date: "%B %d, %Y %l:%M" }}</time>–<time>{{ page.dtend | date: "%l:%M %p" }}</time>
+			<time datetime="{{ page.dtstart | datetime_to_iso_string }}">{{ page.dtstart | date: "%B %-d, %Y %-I:%M" }}</time>–<time datetime="{{ page.dtend | datetime_to_iso_string }}">{{ page.dtend | date: "%-I:%M %p" }}</time>
 		</dd>
 		<dt>Venue</dt>
 		<dd>
-			{% for venue in site.data.venues %}
-				{% if venue.title == page.venue %}
-					<a href="{{ venue.url }}">{{ venue.title }}</a><br>
-					{{ venue.address }}
-				{% endif %}
-			{% endfor %}
+			{% assign venue = site.data.venues[page.venue] %}
+
+			<a href="{{ venue.url }}">{{ page.venue }}</a><br>
+			{{ venue.address }}
 		</dd>
 		<dt>RSVP</dt>
 		<dd>
