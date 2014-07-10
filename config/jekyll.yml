@@ -2,12 +2,20 @@
 source: ./src
 destination: ./public
 
+# Gems
+gems: ['jekyll-assets']
+
 # Site variables
 title: Refresh DC
 description: 'Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.'
 
 # Permalink settings
 permalink: /:categories/:year/:title
+
+# Assets
+assets:
+  css_compressor: sass
+  gzip: false
 
 # Defaults
 defaults:

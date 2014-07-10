@@ -1,0 +1,42 @@
+@-ms-viewport{
+	width: device-width;
+}
+
+*,
+*:before,
+*:after {
+	@include box-sizing(border-box);
+}
+
+html {
+	background: radial-gradient(50% 50%, #4a6da2, $blue) no-repeat fixed;
+	background-color: $blue;
+	@include text-size-adjust(100%);
+}
+
+body {
+	color: #fff;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	line-height: 1.5;
+	padding: 0 0 4em 0;
+
+	@include breakpoint($bp--medium) {
+		line-height: 1.8;
+	}
+}
+
+header,
+footer,
+main {
+	display: block;
+}
+
+a {
+	color: #fff;
+	color: rgba(#fff, 0.5);
+
+	&:focus,
+	&:hover {
+		color: rgba(#fff, 0.7);
+	}
+}

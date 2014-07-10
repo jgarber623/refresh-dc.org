@@ -1,0 +1,27 @@
+.global-header {
+	padding: 4em 0 1em 0;
+
+	@include breakpoint($bp--medium) {
+		padding-top: 8em;
+	}
+
+	h1 {
+		margin: 0 0 0 -1.0625em;
+	}
+
+	a {
+		@extend %image-replace;
+		background: image-url("logo.png") no-repeat 0 0;
+		background: none, image-url("logo.svg") no-repeat 0 0;
+		background-size: contain;
+		display: block;
+		height: 75px;
+		position: relative;
+		width: 300px;
+
+		&:focus,
+		&:hover {
+			opacity: 0.8;
+		}
+	}
+}

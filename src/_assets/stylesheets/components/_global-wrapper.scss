@@ -1,0 +1,10 @@
+.global-wrapper {
+	margin: 0 auto;
+	max-width: $bp--medium;
+	text-shadow: -1px 1px 0 rgba(#000, 0.1);
+	width: 90%;
+
+	@include breakpoint($bp--medium) {
+		text-align: left;
+	}
+}
