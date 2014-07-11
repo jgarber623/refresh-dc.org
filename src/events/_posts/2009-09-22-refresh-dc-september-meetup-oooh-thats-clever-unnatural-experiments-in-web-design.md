@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC September Meetup: Oooh, That’s Clever! (Unnatural Experiments in Web Design)'
-dtstart: 2009-09-22T19:00:00-05:00
-dtend: 2009-09-22T20:00:00-05:00
+dtstart: 2009-09-22T19:00:00-04:00
+dtend: 2009-09-22T20:00:00-04:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - Paul Annett

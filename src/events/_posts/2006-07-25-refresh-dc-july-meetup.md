@@ -1,7 +1,7 @@
 ---
 title: Refresh DC July Meetup
-dtstart: 2006-07-25T19:00:00-05:00
-dtend: 2006-07-25T20:30:00-05:00
+dtstart: 2006-07-25T19:00:00-04:00
+dtend: 2006-07-25T20:30:00-04:00
 venue: James Madison Memorial Building
 speakers:
   - Jason Garber

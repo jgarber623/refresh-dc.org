@@ -1,7 +1,7 @@
 ---
 title: Refresh DC March Happy Hour
-dtstart: 2008-03-27T19:00:00-05:00
-dtend: 2008-03-27T20:00:00-05:00
+dtstart: 2008-03-27T19:00:00-04:00
+dtend: 2008-03-27T20:00:00-04:00
 venue: Capitol City Brewery
 rsvp:
   name: Upcoming

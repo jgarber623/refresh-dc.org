@@ -1,7 +1,7 @@
 ---
 title: Refresh DC April Meetup
-dtstart: 2006-04-25T18:30:00-05:00
-dtend: 2006-04-25T20:00:00-05:00
+dtstart: 2006-04-25T18:30:00-04:00
+dtend: 2006-04-25T20:00:00-04:00
 venue: Elephant & Castle
 rsvp:
   name: Upcoming

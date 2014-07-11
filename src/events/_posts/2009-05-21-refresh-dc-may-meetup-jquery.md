@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC May Meetup: jQuery'
-dtstart: 2009-05-21T19:00:00-05:00
-dtend: 2009-05-21T20:00:00-05:00
+dtstart: 2009-05-21T19:00:00-04:00
+dtend: 2009-05-21T20:00:00-04:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - Benjamin Sterling

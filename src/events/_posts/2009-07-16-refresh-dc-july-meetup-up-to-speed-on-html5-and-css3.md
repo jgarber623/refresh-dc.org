@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC July Meetup: Up to Speed on HTML5 and CSS3'
-dtstart: 2009-07-16T19:00:00-05:00
-dtend: 2009-07-16T20:00:00-05:00
+dtstart: 2009-07-16T19:00:00-04:00
+dtend: 2009-07-16T20:00:00-04:00
 venue: AARP
 speakers:
   - Jason Garber

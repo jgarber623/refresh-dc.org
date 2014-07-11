@@ -1,7 +1,7 @@
 ---
 title: Refresh DC August Meetup
-dtstart: 2006-08-17T19:00:00-05:00
-dtend: 2006-08-17T20:30:00-05:00
+dtstart: 2006-08-17T19:00:00-04:00
+dtend: 2006-08-17T20:30:00-04:00
 venue: James Madison Memorial Building
 speakers:
   - M. Jackson Wilkinson

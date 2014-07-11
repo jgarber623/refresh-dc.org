@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC March Meetup: Web Education - Breakthroughs and Roadblocks'
-dtstart: 2009-03-26T19:00:00-05:00
-dtend: 2009-03-26T20:00:00-05:00
+dtstart: 2009-03-26T19:00:00-04:00
+dtend: 2009-03-26T20:00:00-04:00
 venue: The Center for Digital Imaging Arts at Boston University
 speakers:
   - Jeffrey Brown

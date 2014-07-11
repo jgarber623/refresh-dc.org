@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC, March 2011: Five Year Anniversary'
-dtstart: 2011-03-22T19:00:00-05:00
-dtend: 2011-03-22T20:00:00-05:00
+dtstart: 2011-03-22T19:00:00-04:00
+dtend: 2011-03-22T20:00:00-04:00
 venue: AARP
 speakers:
   - Jason Garber

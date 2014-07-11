@@ -1,7 +1,7 @@
 ---
 title: Data Visualization Strategies and Open Source Solutions
-dtstart: 2011-04-21T19:00:00-05:00
-dtend: 2011-04-21T20:00:00-05:00
+dtstart: 2011-04-21T19:00:00-04:00
+dtend: 2011-04-21T20:00:00-04:00
 venue: AARP
 speakers:
   - Dave Leonard

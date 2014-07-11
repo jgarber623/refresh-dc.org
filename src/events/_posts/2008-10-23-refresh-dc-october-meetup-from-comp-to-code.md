@@ -1,7 +1,7 @@
 ---
 title: 'Refresh DC October Meetup: From Comp to Code'
-dtstart: 2008-10-23T19:00:00-05:00
-dtend: 2008-10-23T20:00:00-05:00
+dtstart: 2008-10-23T19:00:00-04:00
+dtend: 2008-10-23T20:00:00-04:00
 venue: Fleishman-Hillard
 speakers:
   - Jason Garber
