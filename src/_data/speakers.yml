@@ -15,6 +15,10 @@
     url: 'http://www.pappasgroup.com/'
   },
 
+  'Ashish Jaiman': {
+    url: 'http://www.microsoft.com/'
+  },
+
   'Barbara Berschler': {
     url: 'http://www.presspotterlaw.com/'
   },
@@ -23,8 +27,16 @@
     url: 'http://www.informationexperts.com/'
   },
 
+  'Brandon Vaughan': {
+    url: 'http://cmdspace.com/bvon'
+  },
+
   'Brian Williams': {
     url: 'http://viget.com/'
+  },
+
+  'Chris Clarke': {
+    url: 'https://www.capitalone.com/'
   },
 
   'Cindy Blue': {
@@ -59,7 +71,7 @@
     url: 'http://www.phase2technology.com/'
   },
 
-  'David DeSandro': {
+  'Dave DeSandro': {
     url: 'http://desandro.com/'
   },
 
@@ -75,12 +87,20 @@
     url: 'http://elupton.com/'
   },
 
+  'Eric Mill': {
+    url: 'http://sunlightfoundation.com/'
+  },
+
   'Eric Rupert': {
     url: 'http://odeo.com/'
   },
 
   'Evan Samek': {
     url: 'http://about.me/evansamek'
+  },
+
+  'Garrett Miller': {
+    url: 'http://heyitsgarrett.com/'
   },
 
   'Jason Cranford Teague': {
@@ -179,12 +199,20 @@
     url: 'http://viget.com/'
   },
 
+  'Rosalyn Metz': {
+    url: 'http://www.rosalynmetz.com/'
+  },
+
   'Russell Heimlich': {
     url: 'http://www.russellheimlich.com/blog/'
   },
 
   'Sean Greene': {
     url: 'http://www.launchboxdigital.com/'
+  },
+
+  'Sean Soper': {
+    url: 'http://www.washingtonpost.com/'
   },
 
   'Shaun Farrell': {
@@ -199,8 +227,16 @@
     url: 'http://messagefirst.com/'
   },
 
+  'Tom Giannattasio': {
+    url: 'http://attasi.com/'
+  },
+
   'Tony Pitale': {
     url: 'http://www.viget.com/'
+  },
+
+  'Trevor Davis': {
+    url: 'http://trevordavis.net/'
   },
 
   'Wayan Vota': {

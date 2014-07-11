@@ -59,9 +59,19 @@
     url: 'http://www.loc.gov/loc/walls/madison.html'
   },
 
+  'LivingSocial': {
+    address: '1445 New York Ave. NW, #200, Washington, DC 20005',
+    url: 'http://www.livingsocial.com/'
+  },
+
   'Martin Luther King Jr. Memorial Library': {
     address: '901 G St. NW, Washington, DC 20001',
     url: 'http://www.dclibrary.org/mlk'
+  },
+
+  'Microsoft': {
+    address: '5404 Wisconsin Ave., Chevy Chase, MD 20815',
+    url: 'http://www.microsoft.com/'
   },
 
   'The Motley Fool': {
@@ -72,6 +82,11 @@
   'The Motley Fool (Ballenger Ave.)': {
     address: '1925 Ballenger Ave., 4th Floor, Alexandria, VA 22314',
     url: 'http://www.fool.com/'
+  },
+
+  'nclud': {
+    address: '1203 19th St. NW, Washington, DC 20036',
+    url: 'http://nclud.com/'
   },
 
   'Opower': {
