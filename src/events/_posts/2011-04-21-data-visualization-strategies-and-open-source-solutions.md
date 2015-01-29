@@ -7,7 +7,7 @@ speakers:
   - Dave Leonard
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-april2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/data-visualization-strategies-and-open-source-solutions-tickets-1541636075
 ---
 
 As the amount of data available for public consumption on the web continues to rise thanks to transparency initiatives, the need to effectively present that data has become more important than ever. Effective data visualization is achieved by defining a clear vision and executing that vision using the proper tools, many of which are open-source. **Dave Leonard from [Phase2 Technology](http://www.phase2technology.com/)** will walk through the process of defining meaningful data presentations of various types, and discuss real-world implementation strategies and examples associated with each.

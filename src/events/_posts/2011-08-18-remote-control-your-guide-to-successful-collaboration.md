@@ -7,7 +7,7 @@ speakers:
   - Jason Wishard
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-august2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/remote-control-your-guide-to-successful-collaboration-tickets-1997421341
 ---
 
 We work in an ever-changing business world that includes the introduction of new technologies and new techniques on a daily basis. Getting Things Done is not only a methodology, but a mindset. Contrary to common beliefs, this concept does not differ in remote work space than it does in the traditional office space. So while the corporate world adjusts to the new reality of remote working, there are things you can (and should) do to create a level of comfort with those stuck in a cube. Just try not to rub it in.

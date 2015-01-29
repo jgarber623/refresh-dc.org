@@ -9,7 +9,7 @@ speakers:
   - Brandon Vaughan
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-may2012.eventbrite.com/
+  url: http://www.eventbrite.com/e/the-nclud-redesign-our-site-will-crash-your-box-tickets-3323967075
 ---
 
 **Our site will crash your box.**

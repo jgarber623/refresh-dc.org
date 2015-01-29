@@ -7,7 +7,7 @@ speakers:
   - Evan Samek
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-sep2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/tales-from-the-internet-explorer-trenches-tickets-2185749636
 ---
 
 This month, [Evan Samek](http://about.me/evansamek), Lead Designer at local startup [Hello Wallet](https://www.hellowallet.com/), brings to us some serious tales from the Internet Explorer trenches. Focusing specifically on the beast that is IE6, Evan will cover common errors you might encounter when wrangling IE6. He'll also show off some tools that can be used to ease the pain and identify some hidden ways to replicate CSS3 support for versions of Internet Explorer that don't support it. In addition to the discussion about JavaScript polyfills, Evan will discuss how certain implementation practices can improve performance.

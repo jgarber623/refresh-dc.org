@@ -9,7 +9,7 @@ speakers:
   - Tony Pitale
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-jan2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/refresh-dc-january-2011-frameworks-shootout-tickets-1195049425
 ---
 
 We'll be kicking off the new year with a panel discussion about web application frameworks. The three frameworks on the chopping block are [Django](http://www.djangoproject.com/), [Ruby on Rails](http://rubyonrails.org/), and [Zend](http://www.zend.com/en/). Don't worry, though, we'll be keeping the discussion lively and topical to front end web developers and designers.

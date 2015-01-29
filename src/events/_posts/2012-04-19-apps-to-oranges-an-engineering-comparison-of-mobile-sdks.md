@@ -10,7 +10,7 @@ speakers:
   - Sean Soper
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-april2012.eventbrite.com/
+  url: http://www.eventbrite.com/e/apps-to-oranges-an-engineering-comparison-of-mobile-sdks-tickets-2829903317
 ---
 
 This month we'll be going beyond the basics and getting into mobile development with a panel discussion. The three areas we'll be "picking" from include iOS (insert apple tree reference), Android, and Windows Smartphones.

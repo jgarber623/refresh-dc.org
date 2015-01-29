@@ -7,7 +7,7 @@ speakers:
   - Dan Brown
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-feb2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/secrets-of-great-ux-documentation-tickets-1094494663
 ---
 
 Documentation is a cornerstone of the web design process. It helps move the design process forward, capturing decisions made or requirements learned. It allows the team to move onto the next set of decisions. Great documentation establishes a comfort level with team members, telling them, **"We have the same idea about where this project is going."**

@@ -7,7 +7,7 @@ speakers:
   - Stephanie Hay
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-aug2012.eventbrite.com/
+  url: http://www.eventbrite.com/e/make-users-happy-tickets-3973195936
 ---
 
 Can we gain a foothold in users' brains and make them feel awesome?

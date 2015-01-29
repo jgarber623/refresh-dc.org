@@ -5,7 +5,7 @@ dtend: 2011-12-14T20:00:00-05:00
 venue: Bread & Brew
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-dec2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/refresh-dc-holiday-happy-hour-tickets-2586393974
 ---
 
 We're closing out another great year with our annual Holiday Happy Hour! This year, we'll be gathering at **[Bread & Brew](http://breadandbrew.com/)** located at **1247 20th St. NW**. They have a fantastic selection of drinks and amazing food.

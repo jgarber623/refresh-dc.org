@@ -7,7 +7,7 @@ speakers:
   - Jason Garber
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-march2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/refresh-dc-march-2011-five-year-anniversary-tickets-1401476855
 ---
 
 **This month, Refresh DC turns five years old!**

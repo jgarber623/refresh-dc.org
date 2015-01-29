@@ -5,7 +5,7 @@ dtend: 2011-07-21T20:00:00-04:00
 venue: Poste Moderne Brasserie
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-july2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/refresh-dc-summer-happy-hour-tickets-1782642933
 ---
 
 This month we're beating the heat by having a mid-summer happy hour. Come on out, grab a drink or two, and talk design, code, and more!

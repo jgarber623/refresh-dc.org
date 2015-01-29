@@ -7,7 +7,7 @@ speakers:
   - Jim Lane
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-nov2010.eventbrite.com/
+  url: http://www.eventbrite.com/e/refresh-dc-november-2010-designing-for-1-billion-people-tickets-992868697
 ---
 
 That's right Refresh DC is BACK! We have a really fantastic set of upcoming speakers.

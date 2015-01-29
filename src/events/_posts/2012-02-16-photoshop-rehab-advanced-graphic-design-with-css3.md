@@ -7,7 +7,7 @@ speakers:
   - Tom Giannattasio
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-feb2012.eventbrite.com/
+  url: http://www.eventbrite.com/e/photoshop-rehab-advanced-graphic-design-with-css3-tickets-2821062875
 ---
 
 This month, _slash_, week full of social media*, [Tom Giannattasio](http://attasi.com/), Senior Art Director at nclud and Editor at _Smashing Magazine_ discusses how to create eye candy without the use of images, focusing on pure CSS3 techniques with clean and semantic markup. He’ll talk about the benefits and pitfalls of runtime rendering on both mobile & desktop browsers, while covering practical to-do's and redonkulous do-not's.

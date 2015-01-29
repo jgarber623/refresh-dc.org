@@ -9,7 +9,7 @@ speakers:
   - Paul Koch
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-may2011.eventbrite.com/
+  url: http://www.eventbrite.com/e/data-driven-design-tickets-1686822331
 ---
 
 This month's event focuses on the science of making data-driven design decisions and the art of knowing when to listen and when to ignore the numbers. Join us **this upcoming Thursday at [Viget Labs](http://www.viget.com/)** for a panel discussion with seasoned experts in design, development and strategy as we discuss techniques, tips, and helpful tools for making calculated design decisions.

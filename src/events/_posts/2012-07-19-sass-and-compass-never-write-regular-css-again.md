@@ -7,7 +7,7 @@ speakers:
   - Trevor Davis
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-july2012.eventbrite.com/
+  url: http://www.eventbrite.com/e/sass-compass-never-write-regular-css-again-tickets-3894366154
 ---
 
 It's time to find out about the hype behind SASS and Compass. Don't write plain old boring CSS when you can be using mixins, variables, and automatically-generated sprites.

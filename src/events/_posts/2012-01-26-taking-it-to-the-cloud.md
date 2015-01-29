@@ -7,7 +7,7 @@ speakers:
   - Rosalyn Metz
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-jan2012.eventbrite.com/
+  url: http://www.eventbrite.com/e/taking-it-to-the-cloud-tickets-2809528375
 ---
 
 This month, [Rosalyn Metz](http://www.rosalynmetz.com/), a Digital Project Manager at [The George Washington University](http://www.gwu.edu/), will give us a brief introduction to the cloud. Additionally, she'll talk about some of the services that are currently available and about ways that your organization can use the cloud for deployment, testing, and development.

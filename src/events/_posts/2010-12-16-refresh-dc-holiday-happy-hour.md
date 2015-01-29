@@ -5,7 +5,7 @@ dtend: 2010-12-16T22:00:00-05:00
 venue: Capitol City Brewery
 rsvp:
   name: Eventbrite
-  url: http://refreshdc-dec-2010.eventbrite.com/
+  url: http://www.eventbrite.com/e/holiday-happy-hour-tickets-1026641713
 ---
 
 It's that time of the year again where the holidays are upon us. Instead of not doing anything this month, we've decided to host a happy hour just before people leave town. Unlike Most Holiday Parties, This One Will Be Free!
