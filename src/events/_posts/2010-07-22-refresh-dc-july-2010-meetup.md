@@ -18,12 +18,13 @@ Since designers and developers have been busy creating standards-based work, it'
 
 In this talk, she'll discuss ways in which web folks can write compelling, credible content that piques interest and encourages action from readers. Refreshees will leave with tips to elevate their content game -- whether they're aiming to more successfully write dynamic résumés and cover letters, describe their work in creative portfolios, or convey value to gain one more paying subscriber.
 
---------------------
+---
+
 About Steph Hay
 
 After nearly 10 years writing and project managing for companies including Viget Labs and NBC Universal Sports, Steph struck out on her own to write AWESOME content for clients' websites, blogs, résumés, contracts, and marketing collateral. She also specializes in information architecture, marketing, drinking Counter Culture coffee, and laughing.
 
---------------------
+---
 
 Closest Metro stop is Foggy Bottom on the Orange and Blue lines. There are several paid parking garages close by
 
