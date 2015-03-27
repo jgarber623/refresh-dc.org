@@ -3,8 +3,16 @@
     url: 'http://www.cssbeauty.com/'
   },
 
+  'Ally Fouts': {
+    url: 'http://www.allyfouts.com/'
+  },
+
   'Andrew Lee': {
     url: 'http://publi.us/'
+  },
+
+  'Andres Quesada': {
+    url: 'https://twitter.com/zenmasterfoo'
   },
 
   'Andrew Turner': {
@@ -27,6 +35,10 @@
     url: 'http://www.informationexperts.com/'
   },
 
+  'Brandon Gray': {
+    url: 'https://twitter.com/brandongray'
+  },
+
   'Brandon Vaughan': {
     url: 'http://cmdspace.com/bvon'
   },
@@ -35,20 +47,32 @@
     url: 'http://viget.com/'
   },
 
+  'Cap Watkins': {
+    url: 'http://capwatkins.com/'
+  },
+
   'Chris Clarke': {
     url: 'https://www.capitalone.com/'
   },
 
+  'Chuck Borowicz': {
+    url: 'http://chuckborowicz.com/'
+  },
+
   'Cindy Blue': {
-    url: 'http://www.roundarch.com/'
+    url: 'https://twitter.com/cindyblue'
   },
 
   'Cindy Li': {
     url: 'http://cindyli.com/'
   },
 
+  'Clarissa Peterson': {
+    url: 'http://clarissapeterson.com/'
+  },
+
   'Corey Greeneltch': {
-    url: 'http://www.ironworks.com/'
+    url: 'http://whois.blanksky.com/'
   },
 
   'Craig Green': {
@@ -56,15 +80,15 @@
   },
 
   'Dan Brown': {
-    url: 'http://www.eightshapes.com/'
+    url: 'https://about.me/brownorama'
   },
 
   'Dan Mall': {
-    url: 'http://happycog.com/'
+    url: 'http://danielmall.com/'
   },
 
   'Dan Rubin': {
-    url: 'http://superfluousbanter.org/'
+    url: 'http://danrubin.is/'
   },
 
   'Dave Leonard': {
@@ -79,6 +103,10 @@
     url: 'http://www.onelittlewindow.org/'
   },
 
+  'Eamonn Bourke': {
+    url: 'http://designyourlifeaway.com/'
+  },
+
   'Eddie Frederick': {
     url: 'http://hungrymachine.com/'
   },
@@ -88,19 +116,35 @@
   },
 
   'Eric Mill': {
-    url: 'http://sunlightfoundation.com/'
+    url: 'https://konklone.com/'
   },
 
   'Eric Rupert': {
     url: 'http://odeo.com/'
   },
 
+  'Erik Kallevig': {
+    url: 'http://www.ekallevig.com/'
+  },
+
   'Evan Samek': {
     url: 'http://about.me/evansamek'
   },
 
+  'Gabriel Walsh': {
+    url: 'https://www.linkedin.com/in/gabrielwalsh'
+  },
+
   'Garrett Miller': {
     url: 'http://heyitsgarrett.com/'
+  },
+
+  'Gene Crawford': {
+    url: 'http://unmatchedstyle.com'
+  },
+
+  'Giovanni DiFeterici': {
+    url: 'http://www.gdifeterici.com/'
   },
 
   'Jason Cranford Teague': {
@@ -112,7 +156,15 @@
   },
 
   'Jason Wishard': {
-    url: 'http://www.eightshapes.com/'
+    url: 'https://about.me/periodicdesign'
+  },
+
+  'Jay Merrifield': {
+    url: 'https://enhancedjs.wordpress.com/'
+  },
+
+  'JC Grubbs': {
+    url: 'http://thegrubbsian.com/'
   },
 
   'Jeff Gates': {
@@ -136,27 +188,51 @@
   },
 
   'Jim Lane': {
-    url: 'http://www.addthis.com/'
+    url: 'https://about.me/jimlane'
   },
 
   'John F. Croston III': {
     url: 'http://www.jfciii.com/blog/'
   },
 
+  'John Salmon': {
+    url: 'https://twitter.com/johnmarksalmon'
+  },
+
   'John Stuppy': {
-    url: 'http://www.roundarch.com/'
+    url: 'http://johnstuppy.com/'
   },
 
   'John Sutton': {
     url: 'http://www.navigationarts.com/'
   },
 
+  'Jon Buda': {
+    url: 'http://jonbuda.com/'
+  },
+
+  'Justin Secor': {
+    url: 'https://twitter.com/secor'
+  },
+
   'Justin Thorp': {
     url: 'http://www.undercovergeek.net/'
   },
 
+  'Karl Kaufmann': {
+    url: 'http://www.karlkaufmann.com/'
+  },
+
+  'Kaytee Nesmith': {
+    url: 'http://www.kayteenesmith.com/'
+  },
+
   'Kevin Lawver': {
     url: 'http://lawver.net/'
+  },
+
+  'Kim Bieler': {
+    url: 'https://twitter.com/feadog'
   },
 
   'Leslie Bradshaw': {
@@ -171,12 +247,44 @@
     url: 'http://jounce.net/'
   },
 
+  'Maggie Winters': {
+    url: 'https://twitter.com/moonstompmaggie'
+  },
+
+  'Margaret Haag': {
+    url: 'https://twitter.com/mhstudios'
+  },
+
   'Mark Bristow': {
     url: 'http://www.onelittlewindow.org/'
   },
 
   'Martin Ringlein': {
     url: 'http://nclud.com/'
+  },
+
+  'Matt Yoho': {
+    url: 'http://mattyoho.com/'
+  },
+
+  'Maxim Leyzerovich': {
+    url: 'https://twitter.com/duqe'
+  },
+
+  'Megan Zlock': {
+    url: 'http://www.zlockart.com/'
+  },
+
+  'Michelle Olenoski': {
+    url: 'https://twitter.com/molenoski'
+  },
+
+  'Mike Morris': {
+    url: 'https://twitter.com/mmorri'
+  },
+
+  'Mike O’Brien': {
+    url: 'https://twitter.com/redtablepress'
   },
 
   'Nathan Curtis': {
@@ -191,16 +299,24 @@
     url: 'http://newwaydesign.com/'
   },
 
+  'Patrick Peak': {
+    url: 'https://www.linkedin.com/pub/patrick-peak/5/147/18'
+  },
+
   'Paul Annett': {
-    url: 'http://clearleft.com/'
+    url: 'https://twitter.com/PaulAnnett'
   },
 
   'Paul Koch': {
-    url: 'http://viget.com/'
+    url: 'https://twitter.com/paulmkoch'
   },
 
   'Rosalyn Metz': {
     url: 'http://www.rosalynmetz.com/'
+  },
+
+  'Ross Nover': {
+    url: 'http://www.friendlydesign.co/'
   },
 
   'Russell Heimlich': {
@@ -212,15 +328,27 @@
   },
 
   'Sean Soper': {
-    url: 'http://www.washingtonpost.com/'
+    url: 'http://seansoper.com/'
+  },
+
+  'Seth Blanchard': {
+    url: 'https://twitter.com/SethBlanchard'
   },
 
   'Shaun Farrell': {
-    url: 'http://www.caci.com/'
+    url: 'https://twitter.com/farrelley'
+  },
+
+  'Shay Howe': {
+    url: 'http://www.shayhowe.com/'
   },
 
   'Stephanie Hay': {
     url: 'http://stephaniehay.com/'
+  },
+
+  'Steve Wendel': {
+    url: 'https://twitter.com/sawendel'
   },
 
   'Todd Zaki Warfel': {
@@ -232,7 +360,7 @@
   },
 
   'Tony Pitale': {
-    url: 'http://www.viget.com/'
+    url: 'http://tpitale.com/'
   },
 
   'Trevor Davis': {
@@ -249,5 +377,9 @@
 
   'Will Meyer': {
     url: 'http://www.willmeyer.com/'
+  },
+
+  'Zach Goodwin': {
+    url: 'https://twitter.com/zbgoodwin'
   }
 }

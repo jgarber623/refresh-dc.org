@@ -19,6 +19,16 @@
     url: 'http://breadandbrew.com/'
   },
 
+  'canvas': {
+    address: '1203 19th St. NW, 3rd Floor, Washington, DC 20036',
+    url: 'http://canvas.co/work'
+  },
+
+  'Capital One Labs': {
+    address: '3030 Clarendon Blvd., Arlington, VA 22201',
+    url: 'https://capitalonelabs.com/'
+  },
+
   'Capitol City Brewery': {
     address: '1100 New York Ave. NW, Washington, DC 20005',
     url: 'http://www.capcitybrew.com/'
@@ -27,6 +37,11 @@
   'The Center for Digital Imaging Arts at Boston University': {
     address: '1055 Thomas Jefferson St. NW, Washington, DC 20007',
     url: 'http://www.cdiabu.com/washington-campus/'
+  },
+
+  'CHIEF': {
+    address: '1900 M St. NW, Washington, DC 20036',
+    url: 'http://www.mybigchief.com/'
   },
 
   'Elephant & Castle': {
@@ -54,6 +69,15 @@
     url: 'http://www.bot.org/'
   },
 
+  'iStrategyLabs': {
+    address: '1630 Connecticut Ave. NW, Washington, DC 20009',
+    url: 'http://istrategylabs.com/'
+  },
+
+  'iStrategyLabs (S St. NW)': {
+    address: '641 S St. NW, Floor 1, Washington, DC 20001'
+  },
+
   'James Madison Memorial Building': {
     address: '101 Independence Ave. SE, Washington, DC 20003',
     url: 'http://www.loc.gov/loc/walls/madison.html'
@@ -62,6 +86,11 @@
   'LivingSocial': {
     address: '1445 New York Ave. NW, #200, Washington, DC 20005',
     url: 'http://www.livingsocial.com/'
+  },
+
+  'LMO Advertising': {
+    address: '1776 Wilson Blvd., 5th Floor, Arlington, VA 22209',
+    url: 'http://www.lmo.com/'
   },
 
   'Martin Luther King Jr. Memorial Library': {
@@ -89,9 +118,19 @@
     url: 'http://nclud.com/'
   },
 
+  'nclud (K St. NW)': {
+    address: '1424 K St. NW, Washington, 20005',
+    url: 'http://nclud.com/'
+  },
+
   'Opower': {
     address: '1515 North Courthouse Rd., 8th Floor, Arlington, VA 22201',
     url: 'http://opower.com/'
+  },
+
+  'Personal': {
+    address: '1010 Wisconsin Ave. NW #150, Washington, DC 20007',
+    url: 'http://www.personal.com/'
   },
 
   'Poste Moderne Brasserie': {
