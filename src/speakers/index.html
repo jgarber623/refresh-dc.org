@@ -1,0 +1,9 @@
+---
+layout: application
+---
+
+<ol>
+	{% for speaker in site.data.speakers %}
+		<li><a href="{{ speaker[1].url }}">{{ speaker[0] }}</a></li>
+	{% endfor %}
+</ol>
