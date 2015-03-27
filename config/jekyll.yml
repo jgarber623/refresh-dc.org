@@ -8,6 +8,7 @@ gems: ['jekyll-assets']
 # Site variables
 title: Refresh DC
 description: 'Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.'
+repository_url: https://github.com/jgarber623/refresh-dc.org
 
 # Permalink settings
 permalink: /:categories/:year/:title
@@ -21,12 +22,12 @@ assets:
 defaults:
   -
     scope:
-      path: 'events'
-      type: 'post'
+      path: events
+      type: posts
     values:
-      layout: 'event'
+      layout: event
 
 # License
 license:
-  title: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
-  url: http://creativecommons.org/licenses/by-nc-sa/3.0/
+  title: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+  url: http://creativecommons.org/licenses/by-nc-sa/4.0/
