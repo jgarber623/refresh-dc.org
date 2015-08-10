@@ -9,6 +9,11 @@
     url: 'http://www.apcoworldwide.com/'
   },
 
+  'Atlantic Media Strategies': {
+    address: '600 New Hampshire Ave. NW, 8th Floor, Washington, DC 20037',
+    url: 'http://atlanticmediastrategies.com/'
+  },
+
   'BlackFinn DC': {
     address: '1620 I St. NW, Washington, DC 20006',
     url: 'http://www.blackfinndc.com/'

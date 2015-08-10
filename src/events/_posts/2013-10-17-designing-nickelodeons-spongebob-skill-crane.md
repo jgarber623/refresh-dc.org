@@ -5,7 +5,7 @@ dtend: 2013-10-17T21:00:00-04:00
 venue: iStrategyLabs
 speakers:
   - Mike O'Brien
-  - Maggie Winters
+  - Maggie Gaudaen
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/designing-nickelodeons-spongebob-skill-crane-tickets-8612136131

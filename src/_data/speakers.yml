@@ -115,6 +115,10 @@
     url: 'http://elupton.com/'
   },
 
+  'Eli Fitch': {
+    url: 'http://www.elifitch.com/'
+  },
+
   'Eric Mill': {
     url: 'https://konklone.com/'
   },
@@ -227,6 +231,10 @@
     url: 'http://www.kayteenesmith.com/'
   },
 
+  'Katerina Martchouk': {
+    url: 'https://twitter.com/bukvaK'
+  },
+
   'Kevin Lawver': {
     url: 'http://lawver.net/'
   },
@@ -247,12 +255,16 @@
     url: 'http://jounce.net/'
   },
 
-  'Maggie Winters': {
-    url: 'https://twitter.com/moonstompmaggie'
+  'Maggie Gaudaen': {
+    url: 'http://maggie.is/'
   },
 
   'Margaret Haag': {
     url: 'https://twitter.com/mhstudios'
+  },
+
+  'Mariesa Dale': {
+    url: 'https://twitter.com/mariesakdale'
   },
 
   'Mark Bristow': {
@@ -321,6 +333,10 @@
 
   'Russell Heimlich': {
     url: 'http://www.russellheimlich.com/blog/'
+  },
+
+  'Sarah Mills': {
+    url: 'https://twitter.com/starsoup7'
   },
 
   'Sean Greene': {
