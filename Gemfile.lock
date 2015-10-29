@@ -110,7 +110,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  capistrano (~> 2.15.5)
-  foreman
-  jekyll
-  jekyll-assets
+  capistrano (~> 2.15.5)!
+  foreman!
+  jekyll!
+  jekyll-assets!
+
+BUNDLED WITH
+   1.10.6
