@@ -7,13 +7,13 @@ require 'capistrano/ext/multistage'
 set :application, 'refresh-dc.org'
 
 set :repository, 'git@github.com:jgarber623/refresh-dc.org.git'
-set :deploy_to, '/var/www/refresh-dc.org'
+set :deploy_to, '/var/www/refresh-dc-org'
 set :user, 'www-data'
 set :deploy_via, :remote_cache
-set :ssh_options, {forward_agent: true}
+set :ssh_options, { forward_agent: true }
 set :use_sudo, false
 
-set :ruby_version, '2.1.1'
+set :ruby_version, '2.2.3'
 set :bundle_cmd, "chruby-exec #{ruby_version} -- bundle"
 
 default_run_options[:shell] = '/bin/bash'
