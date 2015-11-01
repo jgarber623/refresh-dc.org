@@ -13,11 +13,6 @@ repository_url: https://github.com/jgarber623/refresh-dc.org
 # Permalink settings
 permalink: /:categories/:year/:title
 
-# Assets
-assets:
-  css_compressor: sass
-  gzip: false
-
 # Defaults
 defaults:
   -
