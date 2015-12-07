@@ -10,13 +10,16 @@
 	}
 
 	a {
-		@extend %image-replace;
 		background: image-url("logo.png") no-repeat 0 0;
 		background: none, image-url("logo.svg") no-repeat 0 0;
 		background-size: contain;
 		display: block;
 		height: 75px;
+		overflow: hidden;
 		position: relative;
+		text-indent: 100%;
+		text-shadow: none;
+		white-space: nowrap;
 		width: 300px;
 
 		&:focus,
