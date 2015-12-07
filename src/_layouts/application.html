@@ -1,5 +1,5 @@
 <!doctype html>
-<html id="refresh-dc-org" itemscope itemtype="http://schema.org/WebPage" lang="en-US">
+<html id="refresh-dc-org" lang="en-US">
 <head>
 	<meta charset="utf-8">
 
@@ -14,16 +14,16 @@
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="application-name" content="Refresh DC">
 	<meta name="description" content="{{ site.description }}">
-	<meta name="mobile-web-app-capable" content="yes">
-	<meta name="og:description" itemprop="description" content="{{ site.description }}">
-	<meta name="og:image" itemprop="image" content="/refreshdc.png">
-	<meta name="og:title" itemprop="name" content="{{ site.title }}">
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@refreshdc">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="apple-touch-icon" href="/refreshdc.png">
-	<link rel="shortcut icon" href="/refreshdc.png">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@refreshdc">
+	<meta property="og:description" content="{{ site.description }}">
+	<meta property="og:image" content="https://refresh-dc.org/{% asset_path refreshdc.png %}">
+	<meta property="og:title" content="{{ site.title }}">
+
+	<link rel="apple-touch-icon" href="{% asset_path refreshdc.png %}">
+	<link rel="shortcut icon" href="{% asset_path refreshdc.png %}">
 	{% stylesheet application %}
 </head>
 <body>
