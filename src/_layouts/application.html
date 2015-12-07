@@ -3,13 +3,9 @@
 <head>
 	<meta charset="utf-8">
 
-	<title>
-		{% if page.title %}
-			{{ page.title }} – {{ site.title }}
-		{% else %}
-			{{ site.title }} – The best and brightest new media professionals in the DC metro area
-		{% endif %}
-	</title>
+	{% capture page_title %}{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}{{ site.title }} – The best and brightest new media professionals in the DC metro area{% endif %}{% endcapture %}
+
+	<title>{{ page_title }}</title>
 
 	<meta name="apple-mobile-web-app-title" content="Refresh DC">
 	<meta name="application-name" content="Refresh DC">
@@ -20,7 +16,7 @@
 	<meta name="twitter:site" content="@refreshdc">
 	<meta property="og:description" content="{{ site.description }}">
 	<meta property="og:image" content="https://refresh-dc.org/{% asset_path refreshdc.png %}">
-	<meta property="og:title" content="{{ site.title }}">
+	<meta property="og:title" content="{{ page_title }}">
 
 	<link rel="apple-touch-icon" href="{% asset_path refreshdc.png %}">
 	<link rel="shortcut icon" href="{% asset_path refreshdc.png %}">
