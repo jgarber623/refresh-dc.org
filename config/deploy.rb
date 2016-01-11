@@ -9,6 +9,7 @@ set :application, 'refresh-dc.org'
 set :repository, 'git@github.com:jgarber623/refresh-dc.org.git'
 set :deploy_to, '/var/www/refresh-dc-org'
 set :user, 'www-data'
+set :default_environment, { JEKYLL_ENV: 'production' }
 set :deploy_via, :remote_cache
 set :ssh_options, { forward_agent: true }
 set :use_sudo, false
@@ -21,15 +22,13 @@ default_run_options[:shell] = '/bin/bash'
 after :deploy, 'deploy:build_site', 'deploy:cleanup'
 
 namespace :deploy do
-  task :finalize_update do
-    # Override default deploy:finalize_update task
-  end
-
   task :build_site do
     run "cd #{release_path} && #{bundle_cmd} exec jekyll build --config config/jekyll.yml"
   end
 
-  task :restart do
-    # Override default deploy:restart task
+  %w{finalize_update restart}.each do |cmd|
+    task cmd do
+      # Override default deploy tasks
+    end
   end
 end
