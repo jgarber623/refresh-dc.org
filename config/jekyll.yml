@@ -1,26 +1,20 @@
 source: ./src
 destination: ./public
 
-gems:
+plugins:
   - jekyll-assets
   - sass-globbing
 
 host: 0.0.0.0
 
 title: Refresh DC
-description: 'Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.'
-repository_url: https://github.com/jgarber623/refresh-dc.org
+description: Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.
 
 permalink: /:categories/:year/:title
 
 defaults:
-  -
-    scope:
+  - scope:
       path: events
       type: posts
     values:
       layout: event
-
-license:
-  title: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-  url: http://creativecommons.org/licenses/by-nc-sa/4.0/
