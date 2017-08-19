@@ -10,8 +10,8 @@
 	}
 
 	a {
-		background: image-url("logo.png") no-repeat 0 0;
-		background: none, image-url("logo.svg") no-repeat 0 0;
+		background: asset-url("logo.png") no-repeat 0 0;
+		background: none, asset-url("logo.svg") no-repeat 0 0;
 		background-size: contain;
 		display: block;
 		height: 75px;
