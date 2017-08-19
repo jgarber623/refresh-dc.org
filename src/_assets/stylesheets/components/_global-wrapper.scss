@@ -3,8 +3,4 @@
 	max-width: $bp-medium;
 	text-shadow: -1px 1px 0 rgba($color-black, 0.1);
 	width: 90%;
-
-	@include breakpoint($bp-medium) {
-		text-align: left;
-	}
 }
