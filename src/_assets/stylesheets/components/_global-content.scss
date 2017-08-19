@@ -1,13 +1,18 @@
 .global-content {
+	@include breakpoint($bp-medium) {
+		line-height: 1.8;
+	}
+
 	p + p {
-		margin-top: 1.5em;
+		margin-top: 1.5rem;
 	}
 
 	.highlight {
-		background: rgba($color-white, 0.15);
+		background-color: $color-white;
+		background-color: rgba($color-white, 0.15);
 		border-radius: 3px;
 		font-style: normal;
-		margin-right: 0.25em;
-		padding: 0.25em 0.4em;
+		margin-right: 0.25rem;
+		padding: 0.25rem 0.4rem;
 	}
 }

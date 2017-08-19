@@ -1,17 +1,19 @@
 .global-header {
-	padding: 4em 0 1em 0;
+	padding: 4rem 0 1rem 0;
 
 	@include breakpoint($bp-medium) {
-		padding-top: 8em;
+		padding-top: 8rem;
 	}
 
 	h1 {
-		margin: 0 0 0 -1.0625em;
+		margin: 0 0 0 -2.125rem;
 	}
 
 	a {
-		background: asset-url("logo.png") no-repeat 0 0;
-		background: none, asset-url("logo.svg") no-repeat 0 0;
+		background: asset-url("logo.png");
+		background: none, asset-url("logo.svg");
+		background-position: 0 0;
+		background-repeat: no-repeat;
 		background-size: contain;
 		display: block;
 		height: 75px;
