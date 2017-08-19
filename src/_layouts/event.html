@@ -32,7 +32,7 @@ layout: application
 		<dd>
 			{% assign venue = site.data.venues[page.venue] %}
 
-			<a href="{{ venue.url }}">{{ page.venue }}</a><br>
+			<a href="{{ venue.url }}">{{ venue.name }}</a><br>
 			{{ venue.address }}
 		</dd>
 		<dt>RSVP</dt>
