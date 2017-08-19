@@ -14,9 +14,7 @@ layout: application
 
 		<ol>
 			{% for speaker in page.speakers %}
-				{% if site.data.speakers[speaker] | length %}
-					<li><a href="{{ site.data.speakers[speaker].url }}">{{ speaker }}</a></li>
-				{% endif %}
+				<li><a href="{{ site.data.speakers[speaker].url }}">{{ site.data.speakers[speaker].name }}</a></li>
 			{% endfor %}
 		</ol>
 	{% endif %}
