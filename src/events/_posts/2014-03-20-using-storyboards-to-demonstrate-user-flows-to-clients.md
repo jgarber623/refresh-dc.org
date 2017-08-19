@@ -2,7 +2,7 @@
 title: Using Storyboards to Demonstrate User Flows to Clients
 dtstart: 2014-03-20T19:00:00-04:00
 dtend: 2014-03-20T20:30:00-04:00
-venue: Opower
+venue: opower
 speakers:
   - Karl Kaufmann
 rsvp:

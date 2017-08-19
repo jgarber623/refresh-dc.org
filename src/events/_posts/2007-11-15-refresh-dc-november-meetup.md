@@ -2,7 +2,7 @@
 title: Refresh DC November Meetup
 dtstart: 2007-11-15T19:00:00-05:00
 dtend: 2007-11-15T20:00:00-05:00
-venue: Fleishman-Hillard
+venue: fleishmanhillard
 speakers:
   - Mark Bristow
   - Doug Wilson

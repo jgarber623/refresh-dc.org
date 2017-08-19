@@ -2,7 +2,7 @@
 title: 'Refresh DC May Meetup: Prototyping'
 dtstart: 2008-05-15T19:00:00-04:00
 dtend: 2008-05-15T20:00:00-04:00
-venue: Strategic Analysis, Inc.
+venue: strategic_analysis_inc
 speakers:
   - Todd Zaki Warfel
 rsvp:

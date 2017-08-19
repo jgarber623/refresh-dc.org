@@ -2,7 +2,7 @@
 title: Refresh DC Holiday Happy Hour
 dtstart: 2011-12-14T18:30:00-05:00
 dtend: 2011-12-14T20:00:00-05:00
-venue: Bread & Brew
+venue: bread_and_brew
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/refresh-dc-holiday-happy-hour-tickets-2586393974

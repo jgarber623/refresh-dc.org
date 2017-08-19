@@ -2,7 +2,7 @@
 title: 'Refresh DC April Meetup: Starting Up'
 dtstart: 2008-04-23T19:00:00-04:00
 dtend: 2008-04-23T20:00:00-04:00
-venue: Strategic Analysis, Inc.
+venue: strategic_analysis_inc
 speakers:
   - Eddie Frederick
   - Sean Greene

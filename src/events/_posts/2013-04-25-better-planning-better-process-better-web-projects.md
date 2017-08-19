@@ -2,7 +2,7 @@
 title: Better Planning, Better Process, Better (Web) Projects
 dtstart: 2013-04-25T19:00:00-04:00
 dtend: 2013-04-25T21:00:00-04:00
-venue: iStrategyLabs
+venue: istrategylabs
 speakers:
   - Zach Goodwin
 rsvp:

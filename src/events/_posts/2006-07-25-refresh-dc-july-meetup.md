@@ -2,7 +2,7 @@
 title: Refresh DC July Meetup
 dtstart: 2006-07-25T19:00:00-04:00
 dtend: 2006-07-25T20:30:00-04:00
-venue: James Madison Memorial Building
+venue: james_madison_memorial_building
 speakers:
   - Jason Garber
   - Cindy Li

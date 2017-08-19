@@ -2,7 +2,7 @@
 title: Up the UX Cypherpunks! Making Digital Privacy Usable
 dtstart: 2015-02-19T19:00:00-05:00
 dtend: 2015-02-19T20:30:00-05:00
-venue: nclud (K St. NW)
+venue: nclud_k_st_nw
 speakers:
   - Kaytee Nesmith
 rsvp:

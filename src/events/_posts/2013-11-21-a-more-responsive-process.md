@@ -2,7 +2,7 @@
 title: A More Responsive Process
 dtstart: 2013-11-21T18:30:00-05:00
 dtend: 2013-11-21T20:30:00-05:00
-venue: CHIEF
+venue: chief
 speakers:
   - Brandon Gray
 rsvp:

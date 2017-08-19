@@ -2,7 +2,7 @@
 title: 'Craft vs. WordPress: The Good, the Bad, and the Ugly'
 dtstart: 2015-01-29T19:00:00-05:00
 dtend: 2015-01-29T20:30:00-05:00
-venue: nclud (K St. NW)
+venue: nclud_k_st_nw
 speakers:
   - Megan Zlock
 rsvp:

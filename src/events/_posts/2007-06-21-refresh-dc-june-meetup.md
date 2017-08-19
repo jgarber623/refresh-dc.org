@@ -2,7 +2,7 @@
 title: Refresh DC June Meetup
 dtstart: 2007-06-21T19:00:00-04:00
 dtend: 2007-06-21T20:00:00-04:00
-venue: The Motley Fool
+venue: the_motley_fool
 speakers:
   - M. Jackson Wilkinson
 rsvp:

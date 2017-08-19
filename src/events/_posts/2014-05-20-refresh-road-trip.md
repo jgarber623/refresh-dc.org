@@ -2,7 +2,7 @@
 title: Refresh Road Trip
 dtstart: 2014-05-20T19:00:00-04:00
 dtend: 2014-05-20T20:30:00-04:00
-venue: nclud (K St. NW)
+venue: nclud_k_st_nw
 speakers:
   - JC Grubbs
   - Jon Buda

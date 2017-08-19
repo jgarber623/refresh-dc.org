@@ -2,7 +2,7 @@
 title: 'D3.js: An Introduction and Survival Guide'
 dtstart: 2014-08-21T19:00:00-04:00
 dtend: 2014-08-21T20:30:00-04:00
-venue: LMO Advertising
+venue: lmo_advertising
 speakers:
   - Seth Blanchard
 rsvp:

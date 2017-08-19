@@ -2,7 +2,7 @@
 title: 'UX: Are We Making This Better?'
 dtstart: 2014-01-16T18:30:00-05:00
 dtend: 2014-01-16T20:30:00-05:00
-venue: nclud (K St. NW)
+venue: nclud_k_st_nw
 speakers:
   - Gabriel Walsh
 rsvp:

@@ -2,7 +2,7 @@
 title: 'Dimensional Shift: Embracing WebGL 3D in Interactive Design'
 dtstart: 2015-04-23T19:00:00-04:00
 dtend: 2015-04-23T20:30:00-04:00
-venue: iStrategyLabs (S St. NW)
+venue: istrategylabs_s_st_nw
 speakers:
   - Eli Fitch
   - Maggie Gaudaen

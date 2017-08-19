@@ -2,7 +2,7 @@
 title: 'Refresh DC June Meetup: UX Deliverables with EightShapes Unify'
 dtstart: 2009-06-18T19:00:00-04:00
 dtend: 2009-06-18T20:00:00-04:00
-venue: AARP
+venue: aarp
 speakers:
   - Nathan Curtis
 rsvp:

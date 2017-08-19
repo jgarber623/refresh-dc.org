@@ -2,7 +2,7 @@
 title: Taking It To The Cloud
 dtstart: 2012-01-26T19:00:00-05:00
 dtend: 2012-01-26T20:30:00-05:00
-venue: Viget Labs
+venue: viget_labs
 speakers:
   - Rosalyn Metz
 rsvp:

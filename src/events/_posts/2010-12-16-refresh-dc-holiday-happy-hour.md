@@ -2,7 +2,7 @@
 title: Refresh DC Holiday Happy Hour
 dtstart: 2010-12-16T19:00:00-05:00
 dtend: 2010-12-16T22:00:00-05:00
-venue: Capitol City Brewery
+venue: capitol_city_brewery
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/holiday-happy-hour-tickets-1026641713

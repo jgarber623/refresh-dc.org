@@ -2,7 +2,7 @@
 title: Refresh DC January Meetup
 dtstart: 2008-01-17T19:00:00-05:00
 dtend: 2008-01-17T20:00:00-05:00
-venue: Greater Washington Board of Trade
+venue: greater_washington_board_of_trade
 speakers:
   - John F. Croston III
 rsvp:

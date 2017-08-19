@@ -2,7 +2,7 @@
 title: Refresh DC Summer Happy Hour
 dtstart: 2011-07-21T19:00:00-04:00
 dtend: 2011-07-21T20:00:00-04:00
-venue: Poste Moderne Brasserie
+venue: poste_moderne_brasserie
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/refresh-dc-summer-happy-hour-tickets-1782642933

@@ -2,7 +2,7 @@
 title: The Value of Illustration in Mobile Interface Design
 dtstart: 2014-09-18T19:00:00-04:00
 dtend: 2014-09-18T20:30:00-04:00
-venue: LMO Advertising
+venue: lmo_advertising
 speakers:
   - Margaret Haag
 rsvp:

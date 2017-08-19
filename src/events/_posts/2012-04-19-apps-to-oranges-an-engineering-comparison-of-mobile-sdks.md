@@ -2,7 +2,7 @@
 title: 'Apps to Oranges: An Engineering Comparison of Mobile SDKs'
 dtstart: 2012-04-19T19:00:00-05:00
 dtend: 2012-04-19T20:30:00-05:00
-venue: Microsoft
+venue: microsoft
 speakers:
   - Chris Clarke
   - Ashish Jaiman

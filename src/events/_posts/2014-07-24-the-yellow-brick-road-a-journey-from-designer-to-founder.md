@@ -2,7 +2,7 @@
 title: 'The Yellow Brick Road: A Journey from Designer to Founder'
 dtstart: 2014-07-24T19:00:00-04:00
 dtend: 2014-07-24T20:30:00-04:00
-venue: nclud (K St. NW)
+venue: nclud_k_st_nw
 speakers:
   - Tom Giannattasio
 rsvp:

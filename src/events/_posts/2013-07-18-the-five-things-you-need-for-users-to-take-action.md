@@ -2,7 +2,7 @@
 title: The Five Things You Need for Users to Take Action
 dtstart: 2013-07-18T19:00:00-04:00
 dtend: 2013-07-18T20:30:00-04:00
-venue: nclud (K St. NW)
+venue: nclud_k_st_nw
 speakers:
   - Steve Wendel
 rsvp:

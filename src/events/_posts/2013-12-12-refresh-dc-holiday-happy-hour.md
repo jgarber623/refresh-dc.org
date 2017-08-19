@@ -2,7 +2,7 @@
 title: Refresh DC Holiday Happy Hour
 dtstart: 2013-12-12T18:30:00-05:00
 dtend: 2013-12-12T22:00:00-05:00
-venue: nclud (K St. NW)
+venue: nclud_k_st_nw
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/refresh-dc-holiday-happy-hour-tickets-9504232415

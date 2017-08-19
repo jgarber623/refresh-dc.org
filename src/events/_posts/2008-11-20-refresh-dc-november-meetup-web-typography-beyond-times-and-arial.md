@@ -2,7 +2,7 @@
 title: 'Refresh DC November Meetup: Web Typography Beyond Times & Arial'
 dtstart: 2008-11-20T19:00:00-05:00
 dtend: 2008-11-20T20:00:00-05:00
-venue: Viget Labs
+venue: viget_labs
 speakers:
   - Jason Cranford Teague
 rsvp:

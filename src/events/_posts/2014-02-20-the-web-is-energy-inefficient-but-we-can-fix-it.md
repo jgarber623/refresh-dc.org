@@ -2,7 +2,7 @@
 title: The web is energy-inefficient, but we can fix it!
 dtstart: 2014-02-20T19:00:00-05:00
 dtend: 2014-02-20T20:30:00-05:00
-venue: Opower
+venue: opower
 speakers:
   - Justin Secor
 rsvp:

@@ -2,7 +2,7 @@
 title: Designing Nickelodeon's SpongeBob Skill Crane
 dtstart: 2013-10-17T19:00:00-04:00
 dtend: 2013-10-17T21:00:00-04:00
-venue: iStrategyLabs
+venue: istrategylabs
 speakers:
   - Mike O'Brien
   - Maggie Gaudaen

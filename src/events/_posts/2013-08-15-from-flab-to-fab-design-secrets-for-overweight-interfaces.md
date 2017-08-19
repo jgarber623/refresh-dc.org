@@ -2,7 +2,7 @@
 title: From flab to fab! Design secrets for overweight interfaces
 dtstart: 2013-08-15T19:00:00-04:00
 dtend: 2013-08-15T21:00:00-04:00
-venue: iStrategyLabs
+venue: istrategylabs
 speakers:
   - Kim Bieler
 rsvp:

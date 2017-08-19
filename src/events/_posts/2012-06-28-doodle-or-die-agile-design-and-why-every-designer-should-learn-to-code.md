@@ -2,7 +2,7 @@
 title: Doodle or Die, Agile Design, and Why Every Designer Should Learn to Code
 dtstart: 2012-06-28T19:00:00-05:00
 dtend: 2012-06-28T20:30:00-05:00
-venue: LivingSocial
+venue: livingsocial
 speakers:
   - Garrett Miller
 rsvp:

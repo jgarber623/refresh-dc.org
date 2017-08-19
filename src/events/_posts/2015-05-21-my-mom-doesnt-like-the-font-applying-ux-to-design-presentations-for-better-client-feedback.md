@@ -2,7 +2,7 @@
 title: “My Mom Doesn't Like the Font” – Applying UX to Design Presentations for Better Client Feedback
 dtstart: 2015-05-21T19:00:00-04:00
 dtend: 2015-05-21T20:30:00-04:00
-venue: Atlantic Media Strategies
+venue: atlantic_media_strategies
 speakers:
   - Sarah Mills
 rsvp:

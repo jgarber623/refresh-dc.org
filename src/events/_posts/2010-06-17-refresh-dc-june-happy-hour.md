@@ -2,7 +2,7 @@
 title: Refresh DC June Happy Hour
 dtstart: 2010-06-17T19:00:00-04:00
 dtend: 2010-06-17T20:00:00-04:00
-venue: BlackFinn DC
+venue: blackfinn_dc
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/6556252/DC/Washington/Refresh-DC-June-Happy-Hour/BlackFinn-DC/

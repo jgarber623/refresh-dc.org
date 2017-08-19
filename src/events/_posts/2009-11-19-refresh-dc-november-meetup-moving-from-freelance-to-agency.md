@@ -2,7 +2,7 @@
 title: 'Refresh DC November Meetup: Moving from Freelance to Agency'
 dtstart: 2009-11-19T19:00:00-05:00
 dtend: 2009-11-19T20:00:00-05:00
-venue: Viget Labs
+venue: viget_labs
 speakers:
   - Anthony Pappas
   - Martin Ringlein

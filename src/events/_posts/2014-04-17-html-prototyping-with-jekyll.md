@@ -2,7 +2,7 @@
 title: HTML Prototyping with Jekyll
 dtstart: 2014-04-17T19:00:00-04:00
 dtend: 2014-04-17T20:30:00-04:00
-venue: Opower
+venue: opower
 speakers:
   - Tony Pitale
 rsvp:

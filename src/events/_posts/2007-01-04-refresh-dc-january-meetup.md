@@ -2,7 +2,7 @@
 title: Refresh DC January Meetup
 dtstart: 2007-01-04T19:00:00-05:00
 dtend: 2007-01-04T20:30:00-05:00
-venue: The Motley Fool
+venue: the_motley_fool
 speakers:
   - Dan Rubin
 rsvp:

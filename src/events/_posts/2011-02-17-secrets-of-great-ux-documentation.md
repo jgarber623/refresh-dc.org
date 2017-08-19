@@ -2,7 +2,7 @@
 title: Secrets of Great UX Documentation
 dtstart: 2011-02-17T19:00:00-05:00
 dtend: 2011-02-17T20:00:00-05:00
-venue: AARP
+venue: aarp
 speakers:
   - Dan Brown
 rsvp:

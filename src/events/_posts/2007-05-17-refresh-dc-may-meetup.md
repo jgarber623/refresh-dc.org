@@ -2,7 +2,7 @@
 title: Refresh DC May Meetup
 dtstart: 2007-05-17T19:00:00-04:00
 dtend: 2007-05-17T20:00:00-04:00
-venue: The Motley Fool
+venue: the_motley_fool
 speakers:
   - Jeff Gates
 rsvp:

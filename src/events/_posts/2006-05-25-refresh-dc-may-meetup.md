@@ -2,7 +2,7 @@
 title: Refresh DC May Meetup
 dtstart: 2006-05-25T19:00:00-04:00
 dtend: 2006-05-25T20:00:00-04:00
-venue: Martin Luther King Jr. Memorial Library
+venue: martin_luther_king_jr_memorial_library
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/78710/DC/Washington-DC/Refresh-DC-May-Meetup/MLK-Jr-Memorial-Public-Library/

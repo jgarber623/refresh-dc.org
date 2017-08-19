@@ -2,7 +2,7 @@
 title: USA TODAY Redesign - Viva la Applicación! Goodbye Website, Hello Web App
 dtstart: 2013-02-21T18:30:00-05:00
 dtend: 2013-02-21T21:00:00-05:00
-venue: Capital One Labs
+venue: capital_one_labs
 speakers:
   - Andres Quesada
   - Eamonn Bourke

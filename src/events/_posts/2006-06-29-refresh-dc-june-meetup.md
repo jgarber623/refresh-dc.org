@@ -2,7 +2,7 @@
 title: Refresh DC June Meetup
 dtstart: 2006-06-29T18:45:00-04:00
 dtend: 2006-06-29T20:30:00-04:00
-venue: James Madison Memorial Building
+venue: james_madison_memorial_building
 speakers:
   - Jeremy Carbaugh
   - Jason Garber

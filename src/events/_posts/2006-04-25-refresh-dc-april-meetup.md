@@ -2,7 +2,7 @@
 title: Refresh DC April Meetup
 dtstart: 2006-04-25T18:30:00-04:00
 dtend: 2006-04-25T20:00:00-04:00
-venue: Elephant & Castle
+venue: elephant_and_castle
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/71752/DC/Washington-DC/Refresh-DC-April-Meetup/Elephant-amp-Castle/

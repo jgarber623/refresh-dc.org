@@ -2,7 +2,7 @@
 title: 'Refresh DC June Meetup: The Experience Layer'
 dtstart: 2008-06-19T19:00:00-04:00
 dtend: 2008-06-19T20:00:00-04:00
-venue: RFD (Regional Food and Drink)
+venue: rfd_regional_food_and_drink
 speakers:
   - Dan Mall
 rsvp:

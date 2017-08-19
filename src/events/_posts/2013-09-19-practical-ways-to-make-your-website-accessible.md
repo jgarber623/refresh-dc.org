@@ -2,7 +2,7 @@
 title: Practical Ways to Make Your Website Accessible
 dtstart: 2013-09-19T19:00:00-04:00
 dtend: 2013-09-19T21:00:00-04:00
-venue: iStrategyLabs
+venue: istrategylabs
 speakers:
   - John F. Croston III
 rsvp:

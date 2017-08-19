@@ -2,7 +2,7 @@
 title: Refresh DC October Meetup
 dtstart: 2006-10-19T19:00:00-04:00
 dtend: 2006-10-19T20:30:00-04:00
-venue: The Motley Fool
+venue: the_motley_fool
 speakers:
   - Alex Giron
 rsvp:

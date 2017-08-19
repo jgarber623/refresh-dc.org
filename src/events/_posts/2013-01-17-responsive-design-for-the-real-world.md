@@ -2,7 +2,7 @@
 title: Responsive Design For The Real World
 dtstart: 2013-01-17T18:30:00-05:00
 dtend: 2013-01-17T20:30:00-05:00
-venue: Capital One Labs
+venue: capital_one_labs
 speakers:
   - Clarissa Peterson
 rsvp:

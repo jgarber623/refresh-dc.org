@@ -2,7 +2,7 @@
 title: A design talk double header!
 dtstart: 2012-09-20T18:30:00-04:00
 dtend: 2012-09-20T21:30:00-04:00
-venue: Personal
+venue: personal
 speakers:
   - Giovanni DiFeterici
   - Gene Crawford

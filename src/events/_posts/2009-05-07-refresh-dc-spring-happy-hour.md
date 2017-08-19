@@ -2,7 +2,7 @@
 title: Refresh DC Spring Happy Hour
 dtstart: 2009-05-07T18:30:00-04:00
 dtend: 2009-05-07T20:00:00-04:00
-venue: Rocketbar
+venue: rocketbar
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/2566385/DC/Washington/Refresh-DC-Spring-Happy-Hour/Rocketbar/

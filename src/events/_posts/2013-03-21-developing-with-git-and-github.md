@@ -2,7 +2,7 @@
 title: Developing with Git and Github
 dtstart: 2013-03-21T18:30:00-04:00
 dtend: 2013-03-21T21:00:00-04:00
-venue: Capital One Labs
+venue: capital_one_labs
 speakers:
   - Matt Yoho
 rsvp:

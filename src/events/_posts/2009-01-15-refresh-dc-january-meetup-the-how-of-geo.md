@@ -2,7 +2,7 @@
 title: 'Refresh DC January Meetup: The How of Geo'
 dtstart: 2009-01-15T19:00:00-05:00
 dtend: 2009-01-15T20:00:00-05:00
-venue: Strategic Analysis, Inc.
+venue: strategic_analysis_inc
 speakers:
   - Andrew Turner
 rsvp:

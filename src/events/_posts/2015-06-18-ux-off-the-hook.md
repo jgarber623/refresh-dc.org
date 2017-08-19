@@ -2,7 +2,7 @@
 title: UX, Off the Hook
 dtstart: 2015-06-18T19:00:00-04:00
 dtend: 2015-06-18T20:30:00-04:00
-venue: Atlantic Media Strategies
+venue: atlantic_media_strategies
 speakers:
   - Mariesa Dale
 rsvp:

@@ -2,7 +2,7 @@
 title: 'Refresh DC September Meetup: From Concept to Comp'
 dtstart: 2008-09-25T19:00:00-04:00
 dtend: 2008-09-25T20:00:00-04:00
-venue: The Center for Digital Imaging Arts at Boston University
+venue: the_center_for_digital_imaging_arts_at_boston_university
 speakers:
   - Nguyet Vuong
 rsvp:

@@ -2,7 +2,7 @@
 title: Move Up or Move Out
 dtstart: 2015-07-16T19:00:00-04:00
 dtend: 2015-07-16T20:30:00-04:00
-venue: Atlantic Media Strategies
+venue: atlantic_media_strategies
 speakers:
   - Katerina Martchouk
 rsvp:

@@ -2,7 +2,7 @@
 title: 'Crazy Idea to Collaborative Execution: Building Beercamp'
 dtstart: 2013-05-30T18:30:00-04:00
 dtend: 2013-05-30T20:30:00-04:00
-venue: nclud (K St. NW)
+venue: nclud_k_st_nw
 speakers:
   - John Salmon
   - Maxim Leyzerovich

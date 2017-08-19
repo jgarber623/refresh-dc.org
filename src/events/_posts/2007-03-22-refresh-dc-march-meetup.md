@@ -2,7 +2,7 @@
 title: Refresh DC March Meetup
 dtstart: 2007-03-22T19:00:00-04:00
 dtend: 2007-03-22T20:00:00-04:00
-venue: The Motley Fool
+venue: the_motley_fool
 speakers:
   - Wayan Vota
 rsvp:
