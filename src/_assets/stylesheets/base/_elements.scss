@@ -9,19 +9,19 @@
 }
 
 html {
-	background: radial-gradient(50% 50%, #4a6da2, #324b83) no-repeat fixed;
-	background-color: #324b83;
+	background: radial-gradient(50% 50%, $color-blue-light, $color-blue-dark) no-repeat fixed;
+	background-color: $color-blue-dark;
 	box-sizing: border-box;
 	-webkit-text-size-adjust: 100%;
 }
 
 body {
-	color: #fff;
+	color: $color-white;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	line-height: 1.5;
 	padding: 0 0 4em 0;
 
-	@include breakpoint($bp--medium) {
+	@include breakpoint($bp-medium) {
 		line-height: 1.8;
 	}
 }
@@ -33,17 +33,17 @@ main {
 }
 
 a {
-	color: #fff;
-	color: rgba(#fff, 0.5);
+	color: $color-white;
+	color: rgba($color-white, 0.5);
 
 	&:focus,
 	&:hover {
-		color: rgba(#fff, 0.7);
+		color: rgba($color-white, 0.7);
 	}
 }
 
 hr {
-	background: rgba(#fff, 0.15);
+	background: rgba($color-white, 0.15);
 	border: 0;
 	display: block;
 	height: 0.125em;

@@ -1,7 +1,7 @@
 .global-header {
 	padding: 4em 0 1em 0;
 
-	@include breakpoint($bp--medium) {
+	@include breakpoint($bp-medium) {
 		padding-top: 8em;
 	}
 
