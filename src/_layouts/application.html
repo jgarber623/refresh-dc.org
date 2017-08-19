@@ -3,7 +3,13 @@
 <head>
 	<meta charset="utf-8">
 
-	{% capture page_title %}{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}{{ site.title }} – The best and brightest new media professionals in the DC metro area{% endif %}{% endcapture %}
+	{% capture page_title -%}
+		{%- if page.title -%}
+			{{ page.title }} – {{ site.title }}
+		{%- else -%}
+			{{ site.title }} – The best and brightest new media professionals in the DC metro area
+		{%- endif -%}
+	{% endcapture -%}
 
 	<title>{{ page_title }}</title>
 
@@ -20,8 +26,7 @@
 
 	<link rel="apple-touch-icon" href="{% asset_path refreshdc.png %}">
 	<link rel="shortcut icon" href="{% asset_path refreshdc.png %}">
-
-	<style>{% asset application.css %}</style>
+	<link rel="stylesheet" href="{% asset_path application.css %}">
 </head>
 <body>
 

@@ -9,15 +9,17 @@ layout: application
 		{{ content }}
 	</div>
 
-	{% if page.speakers %}
+	{% if page.speakers -%}
 		<h2>Speaker(s)</h2>
 
 		<ol>
-			{% for speaker in page.speakers %}
-				<li><a href="{{ site.data.speakers[speaker].url }}">{{ site.data.speakers[speaker].name }}</a></li>
-			{% endfor %}
+			{% for speaker in page.speakers -%}
+				{% assign person = site.data.speakers[speaker] -%}
+
+				<li><a href="{{ person.url }}">{{ person.name }}</a></li>
+			{% endfor -%}
 		</ol>
-	{% endif %}
+	{% endif -%}
 
 	<h2>Details</h2>
 
@@ -28,7 +30,7 @@ layout: application
 		</dd>
 		<dt>Venue</dt>
 		<dd>
-			{% assign venue = site.data.venues[page.venue] %}
+			{% assign venue = site.data.venues[page.venue] -%}
 
 			<a href="{{ venue.url }}">{{ venue.name }}</a><br>
 			{{ venue.address }}
