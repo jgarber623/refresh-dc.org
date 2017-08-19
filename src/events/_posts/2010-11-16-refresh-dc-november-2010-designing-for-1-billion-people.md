@@ -4,7 +4,7 @@ dtstart: 2010-11-16T19:00:00-05:00
 dtend: 2010-11-16T21:00:00-05:00
 venue: the_motley_fool_ballenger_ave
 speakers:
-  - Jim Lane
+  - jim_lane
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/refresh-dc-november-2010-designing-for-1-billion-people-tickets-992868697

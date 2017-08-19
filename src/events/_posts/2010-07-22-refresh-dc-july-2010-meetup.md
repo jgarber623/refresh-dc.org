@@ -4,7 +4,7 @@ dtstart: 2010-07-22T19:00:00-04:00
 dtend: 2010-07-22T20:00:00-04:00
 venue: the_center_for_digital_imaging_arts_at_boston_university
 speakers:
-  - Stephanie Hay
+  - stephanie_hay
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/6589164/DC/Washington/Refresh-DC-July-2010-Meetup/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

@@ -4,9 +4,9 @@ dtstart: 2012-05-17T19:00:00-05:00
 dtend: 2012-05-17T20:30:00-05:00
 venue: nclud
 speakers:
-  - Dave DeSandro
-  - Alex Giron
-  - Brandon Vaughan
+  - dave_desandro
+  - alex_giron
+  - brandon_vaughan
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/the-nclud-redesign-our-site-will-crash-your-box-tickets-3323967075

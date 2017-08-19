@@ -4,7 +4,7 @@ dtstart: 2012-08-16T19:00:00-05:00
 dtend: 2012-08-16T20:30:00-05:00
 venue: nclud
 speakers:
-  - Stephanie Hay
+  - stephanie_hay
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/make-users-happy-tickets-3973195936

@@ -4,7 +4,7 @@ dtstart: 2012-10-23T19:00:00-04:00
 dtend: 2012-10-23T20:30:00-04:00
 venue: nclud
 speakers:
-  - Ross Nover
+  - ross_nover
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/a-dose-of-design-inspiration-from-comic-strips-tickets-4440768458

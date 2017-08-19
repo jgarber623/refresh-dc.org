@@ -4,7 +4,7 @@ dtstart: 2015-01-29T19:00:00-05:00
 dtend: 2015-01-29T20:30:00-05:00
 venue: nclud_k_st_nw
 speakers:
-  - Megan Zlock
+  - megan_zlock
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/craft-vs-wordpress-the-good-the-bad-and-the-ugly-tickets-15420172150

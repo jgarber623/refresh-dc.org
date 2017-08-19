@@ -4,7 +4,7 @@ dtstart: 2015-05-21T19:00:00-04:00
 dtend: 2015-05-21T20:30:00-04:00
 venue: atlantic_media_strategies
 speakers:
-  - Sarah Mills
+  - sarah_mills
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/my-mom-doesnt-like-the-font-applying-ux-to-design-presentations-for-better-client-feedback-tickets-16965272587

@@ -4,11 +4,11 @@ dtstart: 2008-04-23T19:00:00-04:00
 dtend: 2008-04-23T20:00:00-04:00
 venue: strategic_analysis_inc
 speakers:
-  - Eddie Frederick
-  - Sean Greene
-  - Andrew Lee
-  - Eric Rupert
-  - Brian Williams
+  - eddie_frederick
+  - sean_greene
+  - andrew_lee
+  - eric_rupert
+  - brian_williams
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/473721/DC/Arlington/Refresh-DC-April-Meetup-Starting-Up/Strategic-Analysis-Inc/

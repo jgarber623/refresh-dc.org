@@ -4,7 +4,7 @@ dtstart: 2006-08-17T19:00:00-04:00
 dtend: 2006-08-17T20:30:00-04:00
 venue: james_madison_memorial_building
 speakers:
-  - M. Jackson Wilkinson
+  - m_jackson_wilkinson
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/94256/DC/Washington-DC/Refresh-DC-August-Meetup/James-Madison-Memorial-Building/

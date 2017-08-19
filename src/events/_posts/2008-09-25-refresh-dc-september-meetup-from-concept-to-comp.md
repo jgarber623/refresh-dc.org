@@ -4,7 +4,7 @@ dtstart: 2008-09-25T19:00:00-04:00
 dtend: 2008-09-25T20:00:00-04:00
 venue: the_center_for_digital_imaging_arts_at_boston_university
 speakers:
-  - Nguyet Vuong
+  - nguyet_vuong
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/1110333/DC/Washington/Refresh-DC-September-Meetup-From-Concept-to-Comp/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

@@ -4,7 +4,7 @@ dtstart: 2006-09-19T19:00:00-04:00
 dtend: 2006-09-19T20:30:00-04:00
 venue: the_motley_fool
 speakers:
-  - Kevin Lawver
+  - kevin_lawver
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/103981/VA/Alexandria/Refresh-DC-September-Meetup/The-Motley-Fool/

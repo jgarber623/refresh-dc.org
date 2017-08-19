@@ -4,7 +4,7 @@ dtstart: 2007-07-19T19:00:00-04:00
 dtend: 2007-07-19T20:00:00-04:00
 venue: the_motley_fool
 speakers:
-  - Jeremy Carbaugh
+  - jeremy_carbaugh
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/215157/VA/Alexandria/Refresh-DC-July-meetup/The-Motley-Fool/

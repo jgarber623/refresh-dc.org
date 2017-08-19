@@ -4,7 +4,7 @@ dtstart: 2012-01-26T19:00:00-05:00
 dtend: 2012-01-26T20:30:00-05:00
 venue: viget_labs
 speakers:
-  - Rosalyn Metz
+  - rosalyn_metz
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/taking-it-to-the-cloud-tickets-2809528375

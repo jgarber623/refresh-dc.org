@@ -4,10 +4,10 @@ dtstart: 2013-05-30T18:30:00-04:00
 dtend: 2013-05-30T20:30:00-04:00
 venue: nclud_k_st_nw
 speakers:
-  - John Salmon
-  - Maxim Leyzerovich
-  - Patrick Peak
-  - Mike Morris
+  - john_salmon
+  - maxim_leyzerovich
+  - patrick_peak
+  - mike_morris
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/crazy-idea-to-collaborative-execution-building-beercamp-tickets-6779119529

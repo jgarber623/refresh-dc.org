@@ -4,7 +4,7 @@ dtstart: 2014-11-20T19:00:00-05:00
 dtend: 2014-11-20T21:00:00-05:00
 venue: canvas
 speakers:
-  - Cap Watkins
+  - cap_watkins
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/etsys-product-design-principles-tickets-13886329385

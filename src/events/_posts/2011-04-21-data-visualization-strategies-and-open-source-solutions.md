@@ -4,7 +4,7 @@ dtstart: 2011-04-21T19:00:00-04:00
 dtend: 2011-04-21T20:00:00-04:00
 venue: aarp
 speakers:
-  - Dave Leonard
+  - dave_leonard
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/data-visualization-strategies-and-open-source-solutions-tickets-1541636075

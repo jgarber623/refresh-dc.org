@@ -4,7 +4,7 @@ dtstart: 2015-03-26T19:00:00-04:00
 dtend: 2015-03-26T20:30:00-04:00
 venue: istrategylabs_s_st_nw
 speakers:
-  - Ally Fouts
+  - ally_fouts
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/formal-vs-informal-language-how-written-english-got-so-weird-tickets-16182120157

@@ -4,7 +4,7 @@ dtstart: 2008-06-19T19:00:00-04:00
 dtend: 2008-06-19T20:00:00-04:00
 venue: rfd_regional_food_and_drink
 speakers:
-  - Dan Mall
+  - dan_mall
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/684863/DC/Washington-DC/Refresh-DC-June-Meetup-The-Experience-Layer/RFD-Regional-Food-and-Drink-Washington-DC-BreweryBrewPub-RFD39s-Regional-Food-amp-Drink-BrewpubBrewery/

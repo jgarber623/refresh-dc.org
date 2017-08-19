@@ -4,7 +4,7 @@ dtstart: 2014-03-20T19:00:00-04:00
 dtend: 2014-03-20T20:30:00-04:00
 venue: opower
 speakers:
-  - Karl Kaufmann
+  - karl_kaufmann
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/using-storyboards-to-demonstrate-user-flows-to-clients-tickets-10962074861

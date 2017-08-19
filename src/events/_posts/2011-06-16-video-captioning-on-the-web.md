@@ -4,7 +4,7 @@ dtstart: 2011-06-16T19:00:00-04:00
 dtend: 2011-06-16T20:00:00-04:00
 venue: aarp
 speakers:
-  - Russell Heimlich
+  - russell_heimlich
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/video-captioning-on-the-web-tickets-1771066307

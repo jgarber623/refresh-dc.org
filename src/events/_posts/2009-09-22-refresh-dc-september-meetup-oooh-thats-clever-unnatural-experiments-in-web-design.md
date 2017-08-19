@@ -4,7 +4,7 @@ dtstart: 2009-09-22T19:00:00-04:00
 dtend: 2009-09-22T20:00:00-04:00
 venue: the_center_for_digital_imaging_arts_at_boston_university
 speakers:
-  - Paul Annett
+  - paul_annett
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/4420870/DC/Washington/Refresh-DC-September-Meetup-Oooh-That39s-Clever-Unnatural-Experiments-in-Web-Design/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

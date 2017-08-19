@@ -4,8 +4,8 @@ dtstart: 2009-07-16T19:00:00-04:00
 dtend: 2009-07-16T20:00:00-04:00
 venue: aarp
 speakers:
-  - Jason Garber
-  - M. Jackson Wilkinson
+  - jason_garber
+  - m_jackson_wilkinson
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/3068983/DC/Washington/Refresh-DC-July-Meetup-Up-to-Speed-on-HTML5-and-CSS3/AARP/

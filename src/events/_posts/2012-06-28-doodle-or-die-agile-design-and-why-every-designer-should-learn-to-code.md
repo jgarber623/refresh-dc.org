@@ -4,7 +4,7 @@ dtstart: 2012-06-28T19:00:00-05:00
 dtend: 2012-06-28T20:30:00-05:00
 venue: livingsocial
 speakers:
-  - Garrett Miller
+  - garrett_miller
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/doodle-or-die-agile-design-and-why-every-designer-should-learn-to-code-tickets-3517895119

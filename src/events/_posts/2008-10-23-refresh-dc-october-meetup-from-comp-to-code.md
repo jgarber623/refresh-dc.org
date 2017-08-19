@@ -4,7 +4,7 @@ dtstart: 2008-10-23T19:00:00-04:00
 dtend: 2008-10-23T20:00:00-04:00
 venue: fleishmanhillard
 speakers:
-  - Jason Garber
+  - jason_garber
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/1242483/DC/Washington/Refresh-DC-October-Meetup-From-Comp-to-Code/Fleishman-Hillard-DC/

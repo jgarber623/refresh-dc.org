@@ -4,8 +4,8 @@ dtstart: 2007-11-15T19:00:00-05:00
 dtend: 2007-11-15T20:00:00-05:00
 venue: fleishmanhillard
 speakers:
-  - Mark Bristow
-  - Doug Wilson
+  - mark_bristow
+  - doug_wilson
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/307392/DC/Washington/Refresh-DC-November-meetup/Fleishman-Hillard-DC/

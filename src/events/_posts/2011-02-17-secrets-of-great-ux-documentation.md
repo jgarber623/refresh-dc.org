@@ -4,7 +4,7 @@ dtstart: 2011-02-17T19:00:00-05:00
 dtend: 2011-02-17T20:00:00-05:00
 venue: aarp
 speakers:
-  - Dan Brown
+  - dan_brown
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/secrets-of-great-ux-documentation-tickets-1094494663

@@ -4,7 +4,7 @@ dtstart: 2014-08-21T19:00:00-04:00
 dtend: 2014-08-21T20:30:00-04:00
 venue: lmo_advertising
 speakers:
-  - Seth Blanchard
+  - seth_blanchard
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/d3js-an-introduction-and-survival-guide-tickets-12509565447

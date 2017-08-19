@@ -4,7 +4,7 @@ dtstart: 2013-04-25T19:00:00-04:00
 dtend: 2013-04-25T21:00:00-04:00
 venue: istrategylabs
 speakers:
-  - Zach Goodwin
+  - zach_goodwin
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/better-planning-better-process-better-web-projects-tickets-6294397713

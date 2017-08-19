@@ -4,10 +4,10 @@ dtstart: 2013-02-21T18:30:00-05:00
 dtend: 2013-02-21T21:00:00-05:00
 venue: capital_one_labs
 speakers:
-  - Andres Quesada
-  - Eamonn Bourke
-  - Erik Kallevig
-  - Jay Merrifield
+  - andres_quesada
+  - eamonn_bourke
+  - erik_kallevig
+  - jay_merrifield
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/usa-today-redesign-viva-la-applicacion-goodbye-website-hello-web-app-tickets-5232161536

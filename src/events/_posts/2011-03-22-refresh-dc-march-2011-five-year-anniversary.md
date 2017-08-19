@@ -4,7 +4,7 @@ dtstart: 2011-03-22T19:00:00-04:00
 dtend: 2011-03-22T20:00:00-04:00
 venue: aarp
 speakers:
-  - Jason Garber
+  - jason_garber
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/refresh-dc-march-2011-five-year-anniversary-tickets-1401476855

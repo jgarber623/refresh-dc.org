@@ -4,7 +4,7 @@ dtstart: 2011-09-22T19:00:00-04:00
 dtend: 2011-09-22T20:30:00-04:00
 venue: apco_worldwide
 speakers:
-  - Evan Samek
+  - evan_samek
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/tales-from-the-internet-explorer-trenches-tickets-2185749636

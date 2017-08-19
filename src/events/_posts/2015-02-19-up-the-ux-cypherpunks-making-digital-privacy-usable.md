@@ -4,7 +4,7 @@ dtstart: 2015-02-19T19:00:00-05:00
 dtend: 2015-02-19T20:30:00-05:00
 venue: nclud_k_st_nw
 speakers:
-  - Kaytee Nesmith
+  - kaytee_nesmith
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/up-the-ux-cypherpunks-making-digital-privacy-usable-tickets-15714757262

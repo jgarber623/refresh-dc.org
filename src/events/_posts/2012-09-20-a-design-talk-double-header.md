@@ -4,8 +4,8 @@ dtstart: 2012-09-20T18:30:00-04:00
 dtend: 2012-09-20T21:30:00-04:00
 venue: personal
 speakers:
-  - Giovanni DiFeterici
-  - Gene Crawford
+  - giovanni_difeterici
+  - gene_crawford
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/a-design-talk-double-header-tickets-3995743376

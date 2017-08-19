@@ -4,7 +4,7 @@ dtstart: 2014-06-19T19:00:00-04:00
 dtend: 2014-06-19T20:30:00-04:00
 venue: nclud_k_st_nw
 speakers:
-  - Chuck Borowicz
+  - chuck_borowicz
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/the-elements-principles-of-visual-design-tickets-11728990727

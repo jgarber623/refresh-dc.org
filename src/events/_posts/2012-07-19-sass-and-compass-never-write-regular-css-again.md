@@ -4,7 +4,7 @@ dtstart: 2012-07-19T19:00:00-05:00
 dtend: 2012-07-19T20:30:00-05:00
 venue: nclud
 speakers:
-  - Trevor Davis
+  - trevor_davis
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/sass-compass-never-write-regular-css-again-tickets-3894366154

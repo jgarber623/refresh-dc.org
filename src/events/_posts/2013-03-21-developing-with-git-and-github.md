@@ -4,7 +4,7 @@ dtstart: 2013-03-21T18:30:00-04:00
 dtend: 2013-03-21T21:00:00-04:00
 venue: capital_one_labs
 speakers:
-  - Matt Yoho
+  - matt_yoho
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/developing-with-git-and-github-tickets-5816967707

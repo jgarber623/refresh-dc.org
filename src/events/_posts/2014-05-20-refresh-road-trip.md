@@ -4,9 +4,9 @@ dtstart: 2014-05-20T19:00:00-04:00
 dtend: 2014-05-20T20:30:00-04:00
 venue: nclud_k_st_nw
 speakers:
-  - JC Grubbs
-  - Jon Buda
-  - Shay Howe
+  - jc_grubbs
+  - jon_buda
+  - shay_howe
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/refresh-road-trip-tickets-11447857851

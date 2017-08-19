@@ -4,7 +4,7 @@ dtstart: 2015-07-16T19:00:00-04:00
 dtend: 2015-07-16T20:30:00-04:00
 venue: atlantic_media_strategies
 speakers:
-  - Katerina Martchouk
+  - katerina_martchouk
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/move-up-or-move-out-tickets-17711265873

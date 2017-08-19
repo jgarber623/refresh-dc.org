@@ -4,7 +4,7 @@ dtstart: 2012-02-16T19:00:00-05:00
 dtend: 2012-02-16T20:30:00-05:00
 venue: nclud
 speakers:
-  - Tom Giannattasio
+  - tom_giannattasio
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/photoshop-rehab-advanced-graphic-design-with-css3-tickets-2821062875

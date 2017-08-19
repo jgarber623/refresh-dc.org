@@ -4,7 +4,7 @@ dtstart: 2015-06-18T19:00:00-04:00
 dtend: 2015-06-18T20:30:00-04:00
 venue: atlantic_media_strategies
 speakers:
-  - Mariesa Dale
+  - mariesa_dale
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/ux-off-the-hook-tickets-17356448605

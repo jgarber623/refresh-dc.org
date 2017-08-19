@@ -4,7 +4,7 @@ dtstart: 2013-11-21T18:30:00-05:00
 dtend: 2013-11-21T20:30:00-05:00
 venue: chief
 speakers:
-  - Brandon Gray
+  - brandon_gray
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/a-more-responsive-process-tickets-9152452231

@@ -4,10 +4,10 @@ dtstart: 2006-12-07T19:00:00-05:00
 dtend: 2006-12-07T20:30:00-05:00
 venue: the_motley_fool
 speakers:
-  - Jeremy Carbaugh
-  - Jason Garber
-  - Cindy Li
-  - M. Jackson Wilkinson
+  - jeremy_carbaugh
+  - jason_garber
+  - cindy_li
+  - m_jackson_wilkinson
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/126801/VA/Alexandria/Refresh-DC-December-Meetup/The-Motley-Fool/

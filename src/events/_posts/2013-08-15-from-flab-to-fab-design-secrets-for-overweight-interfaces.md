@@ -4,7 +4,7 @@ dtstart: 2013-08-15T19:00:00-04:00
 dtend: 2013-08-15T21:00:00-04:00
 venue: istrategylabs
 speakers:
-  - Kim Bieler
+  - kim_bieler
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/from-flab-to-fab-design-secrets-for-overweight-interfaces-tickets-7122009121

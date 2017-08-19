@@ -4,7 +4,7 @@ dtstart: 2009-05-21T19:00:00-04:00
 dtend: 2009-05-21T20:00:00-04:00
 venue: the_center_for_digital_imaging_arts_at_boston_university
 speakers:
-  - Benjamin Sterling
+  - benjamin_sterling
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/2707220/DC/Washington/Refresh-DC-May-Meetup-jQuery/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

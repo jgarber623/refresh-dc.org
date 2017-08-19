@@ -4,7 +4,7 @@ dtstart: 2007-01-04T19:00:00-05:00
 dtend: 2007-01-04T20:30:00-05:00
 venue: the_motley_fool
 speakers:
-  - Dan Rubin
+  - dan_rubin
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/134804/VA/Alexandria/Refresh-DC-January-Meetup/The-Motley-Fool/

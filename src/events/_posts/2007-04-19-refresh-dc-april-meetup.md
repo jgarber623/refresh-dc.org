@@ -4,7 +4,7 @@ dtstart: 2007-04-19T19:00:00-04:00
 dtend: 2007-04-19T20:00:00-04:00
 venue: the_motley_fool
 speakers:
-  - John Sutton
+  - john_sutton
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/170597/VA/Alexandria/Refresh-DC-April-meetup/The-Motley-Fool/

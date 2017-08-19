@@ -4,7 +4,7 @@ dtstart: 2008-08-21T19:00:00-04:00
 dtend: 2008-08-21T20:00:00-04:00
 venue: strategic_analysis_inc
 speakers:
-  - Lorelei Brown
+  - lorelei_brown
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/1011881/DC/Arlington/Refresh-DC-August-Meetup-User-Research-and-Personas/Strategic-Analysis-Inc/

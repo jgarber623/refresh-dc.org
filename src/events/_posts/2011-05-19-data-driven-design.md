@@ -4,9 +4,9 @@ dtstart: 2011-05-19T18:30:00-04:00
 dtend: 2011-05-19T20:30:00-04:00
 venue: viget_labs
 speakers:
-  - Craig Green
-  - Jim Lane
-  - Paul Koch
+  - craig_green
+  - jim_lane
+  - paul_koch
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/data-driven-design-tickets-1686822331

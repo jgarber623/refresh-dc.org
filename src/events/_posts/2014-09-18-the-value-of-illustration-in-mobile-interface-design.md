@@ -4,7 +4,7 @@ dtstart: 2014-09-18T19:00:00-04:00
 dtend: 2014-09-18T20:30:00-04:00
 venue: lmo_advertising
 speakers:
-  - Margaret Haag
+  - margaret_haag
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/the-value-of-illustration-in-mobile-interface-design-tickets-12975266371

@@ -4,7 +4,7 @@ dtstart: 2014-04-17T19:00:00-04:00
 dtend: 2014-04-17T20:30:00-04:00
 venue: opower
 speakers:
-  - Tony Pitale
+  - tony_pitale
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/html-prototyping-with-jekyll-tickets-11213095671

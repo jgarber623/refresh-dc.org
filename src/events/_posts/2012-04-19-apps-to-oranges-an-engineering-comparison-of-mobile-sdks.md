@@ -4,10 +4,10 @@ dtstart: 2012-04-19T19:00:00-05:00
 dtend: 2012-04-19T20:30:00-05:00
 venue: microsoft
 speakers:
-  - Chris Clarke
-  - Ashish Jaiman
-  - Eric Mill
-  - Sean Soper
+  - chris_clarke
+  - ashish_jaiman
+  - eric_mill
+  - sean_soper
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/apps-to-oranges-an-engineering-comparison-of-mobile-sdks-tickets-2829903317

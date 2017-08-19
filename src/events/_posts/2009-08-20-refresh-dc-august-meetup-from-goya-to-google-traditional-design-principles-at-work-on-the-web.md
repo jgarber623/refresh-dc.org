@@ -4,7 +4,7 @@ dtstart: 2009-08-20T19:00:00-04:00
 dtend: 2009-08-20T20:00:00-04:00
 venue: aarp
 speakers:
-  - Corey Greeneltch
+  - corey_greeneltch
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/4228574/DC/Washington/Refresh-DC-August-Meetup-From-Goya-to-Google-Traditional-Design-Principles-at-Work-on-the-Web/AARP/

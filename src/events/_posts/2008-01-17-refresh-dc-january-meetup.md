@@ -4,7 +4,7 @@ dtstart: 2008-01-17T19:00:00-05:00
 dtend: 2008-01-17T20:00:00-05:00
 venue: greater_washington_board_of_trade
 speakers:
-  - John F. Croston III
+  - john_f_croston_iii
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/396176/DC/Washington/Refresh-DC-January-meetup/Greater-Washington-Board-of-Trade/

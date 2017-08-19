@@ -4,7 +4,7 @@ dtstart: 2013-07-18T19:00:00-04:00
 dtend: 2013-07-18T20:30:00-04:00
 venue: nclud_k_st_nw
 speakers:
-  - Steve Wendel
+  - steve_wendel
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/the-five-things-you-need-for-users-to-take-action-tickets-7387310645

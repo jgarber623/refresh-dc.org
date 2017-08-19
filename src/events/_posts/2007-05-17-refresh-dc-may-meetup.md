@@ -4,7 +4,7 @@ dtstart: 2007-05-17T19:00:00-04:00
 dtend: 2007-05-17T20:00:00-04:00
 venue: the_motley_fool
 speakers:
-  - Jeff Gates
+  - jeff_gates
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/188402/VA/Alexandria/Refresh-DC-May-meetup/The-Motley-Fool/

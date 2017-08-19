@@ -4,8 +4,8 @@ dtstart: 2015-04-23T19:00:00-04:00
 dtend: 2015-04-23T20:30:00-04:00
 venue: istrategylabs_s_st_nw
 speakers:
-  - Eli Fitch
-  - Maggie Gaudaen
+  - eli_fitch
+  - maggie_gaudaen
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/dimensional-shift-embracing-webgl-3d-in-interactive-design-tickets-16580468628

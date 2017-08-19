@@ -4,7 +4,7 @@ dtstart: 2011-08-18T18:30:00-04:00
 dtend: 2011-08-18T20:00:00-04:00
 venue: opower
 speakers:
-  - Jason Wishard
+  - jason_wishard
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/remote-control-your-guide-to-successful-collaboration-tickets-1997421341

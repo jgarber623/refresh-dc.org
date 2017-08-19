@@ -4,9 +4,9 @@ dtstart: 2011-01-20T19:00:00-05:00
 dtend: 2011-01-20T20:00:00-05:00
 venue: fathom_creative
 speakers:
-  - Jeremy Carbaugh
-  - Shaun Farrell
-  - Tony Pitale
+  - jeremy_carbaugh
+  - shaun_farrell
+  - tony_pitale
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/refresh-dc-january-2011-frameworks-shootout-tickets-1195049425

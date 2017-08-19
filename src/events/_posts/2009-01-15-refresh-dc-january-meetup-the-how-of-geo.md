@@ -4,7 +4,7 @@ dtstart: 2009-01-15T19:00:00-05:00
 dtend: 2009-01-15T20:00:00-05:00
 venue: strategic_analysis_inc
 speakers:
-  - Andrew Turner
+  - andrew_turner
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/1489914/DC/Arlington/Refresh-DC-January-Meetup-The-How-of-Geo/Strategic-Analysis-Inc/

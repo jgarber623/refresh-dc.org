@@ -4,7 +4,7 @@ dtstart: 2009-02-25T19:00:00-05:00
 dtend: 2009-02-25T20:00:00-05:00
 venue: the_center_for_digital_imaging_arts_at_boston_university
 speakers:
-  - Will Evans
+  - will_evans
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/1853128/DC/Washington/Refresh-DC-February-Meetup-Designing-Human-and-Social-Interactions/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

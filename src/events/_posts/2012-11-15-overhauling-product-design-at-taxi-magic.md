@@ -4,7 +4,7 @@ dtstart: 2012-11-15T19:00:00-05:00
 dtend: 2012-11-15T20:30:00-05:00
 venue: nclud
 speakers:
-  - Michelle Olenoski
+  - michelle_olenoski
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/overhauling-product-design-at-taxi-magic-tickets-4804036001

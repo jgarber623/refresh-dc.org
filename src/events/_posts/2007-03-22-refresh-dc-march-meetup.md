@@ -4,7 +4,7 @@ dtstart: 2007-03-22T19:00:00-04:00
 dtend: 2007-03-22T20:00:00-04:00
 venue: the_motley_fool
 speakers:
-  - Wayan Vota
+  - wayan_vota
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/160354/VA/Alexandria/Refresh-DC-March-meetup/The-Motley-Fool/

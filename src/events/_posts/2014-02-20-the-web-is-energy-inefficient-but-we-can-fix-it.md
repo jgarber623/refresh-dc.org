@@ -4,7 +4,7 @@ dtstart: 2014-02-20T19:00:00-05:00
 dtend: 2014-02-20T20:30:00-05:00
 venue: opower
 speakers:
-  - Justin Secor
+  - justin_secor
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/the-web-is-energy-inefficient-but-we-can-fix-it-tickets-10653485863

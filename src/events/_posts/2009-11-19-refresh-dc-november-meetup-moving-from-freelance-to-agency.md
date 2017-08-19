@@ -4,11 +4,11 @@ dtstart: 2009-11-19T19:00:00-05:00
 dtend: 2009-11-19T20:00:00-05:00
 venue: viget_labs
 speakers:
-  - Anthony Pappas
-  - Martin Ringlein
-  - Jen Sterling
-  - Jeff Walpole
-  - Brian Williams
+  - anthony_pappas
+  - martin_ringlein
+  - jen_sterling
+  - jeff_walpole
+  - brian_williams
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/4882604/DC/Falls-Church/Refresh-DC-November-Meetup-Moving-from-Freelance-to-Agency/Viget-Labs/

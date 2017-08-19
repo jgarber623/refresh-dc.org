@@ -4,7 +4,7 @@ dtstart: 2014-07-24T19:00:00-04:00
 dtend: 2014-07-24T20:30:00-04:00
 venue: nclud_k_st_nw
 speakers:
-  - Tom Giannattasio
+  - tom_giannattasio
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/the-yellow-brick-road-a-journey-from-designer-to-founder-tickets-11728992733

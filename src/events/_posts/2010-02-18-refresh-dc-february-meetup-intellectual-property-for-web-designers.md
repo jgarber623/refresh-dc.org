@@ -4,7 +4,7 @@ dtstart: 2010-02-18T19:00:00-05:00
 dtend: 2010-02-18T20:00:00-05:00
 venue: the_motley_fool
 speakers:
-  - Barbara Berschler
+  - barbara_berschler
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/5398195/DC/Alexandria/Refresh-DC-February-Meetup-Intellectual-Property-for-Web-Designers/The-Motley-Fool/

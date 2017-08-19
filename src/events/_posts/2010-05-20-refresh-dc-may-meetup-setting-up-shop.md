@@ -4,7 +4,7 @@ dtstart: 2010-05-20T19:00:00-04:00
 dtend: 2010-05-20T20:00:00-04:00
 venue: aarp
 speakers:
-  - Nick Whitmoyer
+  - nick_whitmoyer
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/5930661/DC/Washington/Refresh-DC-May-Meetup-Setting-Up-Shop/AARP/

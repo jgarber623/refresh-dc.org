@@ -4,7 +4,7 @@ dtstart: 2014-01-16T18:30:00-05:00
 dtend: 2014-01-16T20:30:00-05:00
 venue: nclud_k_st_nw
 speakers:
-  - Gabriel Walsh
+  - gabriel_walsh
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/ux-are-we-making-this-better-tickets-10119282045

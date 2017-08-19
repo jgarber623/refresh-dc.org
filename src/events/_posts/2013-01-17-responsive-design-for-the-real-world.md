@@ -4,7 +4,7 @@ dtstart: 2013-01-17T18:30:00-05:00
 dtend: 2013-01-17T20:30:00-05:00
 venue: capital_one_labs
 speakers:
-  - Clarissa Peterson
+  - clarissa_peterson
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/responsive-design-for-the-real-world-tickets-5130457336

@@ -4,7 +4,7 @@ dtstart: 2009-03-26T19:00:00-04:00
 dtend: 2009-03-26T20:00:00-04:00
 venue: the_center_for_digital_imaging_arts_at_boston_university
 speakers:
-  - Jeffrey Brown
+  - jeffrey_brown
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/2166922/DC/Washington/Refresh-DC-March-Meetup-Web-Education-Breakthroughs-and-Roadblocks/The-Center-for-Digital-Imaging-Arts-at-Boston-University/

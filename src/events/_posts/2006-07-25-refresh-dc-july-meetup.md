@@ -4,8 +4,8 @@ dtstart: 2006-07-25T19:00:00-04:00
 dtend: 2006-07-25T20:30:00-04:00
 venue: james_madison_memorial_building
 speakers:
-  - Jason Garber
-  - Cindy Li
+  - jason_garber
+  - cindy_li
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/90361/DC/Washington-DC/Refresh-DC-July-Meetup/James-Madison-Memorial-Building/

@@ -4,8 +4,8 @@ dtstart: 2006-06-29T18:45:00-04:00
 dtend: 2006-06-29T20:30:00-04:00
 venue: james_madison_memorial_building
 speakers:
-  - Jeremy Carbaugh
-  - Jason Garber
+  - jeremy_carbaugh
+  - jason_garber
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/84632/DC/Washington-DC/Refresh-DC-June-Meetup/James-Madison-Memorial-Building/

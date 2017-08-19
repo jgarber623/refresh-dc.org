@@ -4,7 +4,7 @@ dtstart: 2013-09-19T19:00:00-04:00
 dtend: 2013-09-19T21:00:00-04:00
 venue: istrategylabs
 speakers:
-  - John F. Croston III
+  - john_f_croston_iii
 rsvp:
   name: Eventbrite
   url: http://www.eventbrite.com/e/practical-ways-to-make-your-website-accessible-tickets-8241918801

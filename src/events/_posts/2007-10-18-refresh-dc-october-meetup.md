@@ -4,7 +4,7 @@ dtstart: 2007-10-18T19:00:00-04:00
 dtend: 2007-10-18T20:00:00-04:00
 venue: the_motley_fool
 speakers:
-  - Alex Giron
+  - alex_giron
 rsvp:
   name: Upcoming
   url: http://upcoming.yahoo.com/event/290343/VA/Alexandria/Refresh-DC-October-meetup/The-Motley-Fool/
