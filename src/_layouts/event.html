@@ -9,35 +9,33 @@ layout: application
 		{{ content }}
 	</div>
 
-	{% if page.speakers -%}
-		<h2>Speaker(s)</h2>
-
-		<ol>
-			{% for speaker in page.speakers -%}
-				{% assign person = site.data.speakers[speaker] -%}
-
-				<li><a href="{{ person.url }}">{{ person.name }}</a></li>
-			{% endfor -%}
-		</ol>
-	{% endif -%}
-
-	<h2>Details</h2>
+	<hr>
 
 	<dl>
-		<dt>Date</dt>
+		<dt>Date and Time</dt>
 		<dd>
-			<time datetime="{{ page.dtstart | datetime_to_iso_string }}">{{ page.dtstart | date: "%B %-d, %Y %-I:%M" }}</time>–<time datetime="{{ page.dtend | datetime_to_iso_string }}">{{ page.dtend | date: "%-I:%M %p" }}</time>
+			<time datetime="{{ page.dtstart | datetime_to_iso_string }}">{{ page.dtstart | datetime_to_string }} from {{ page.dtstart | date: "%-I:%M %p" }}</time> to
+			<time datetime="{{ page.dtend | datetime_to_iso_string }}">{{ page.dtend | date: "%-I:%M %p" }}</time>
 		</dd>
-		<dt>Venue</dt>
+
+		<dt>Location</dt>
 		<dd>
 			{% assign venue = site.data.venues[page.venue] -%}
 
 			<a href="{{ venue.url }}">{{ venue.name }}</a><br>
 			{{ venue.address }}
 		</dd>
-		<dt>RSVP</dt>
-		<dd>
-			<a href="{{ page.rsvp.url }}">{{ page.rsvp.name }}</a>
-		</dd>
+
+		{% if page.speakers -%}
+			<dt>Speaker(s)</dt>
+			{% for speaker in page.speakers -%}
+				{% assign person = site.data.speakers[speaker] -%}
+
+				<dd><a href="{{ person.url }}">{{ person.name }}</a></dd>
+			{% endfor -%}
+		{% endif -%}
+
+		<dt><abbr lang="fr" title="Répondez s'il vous plaît">RSVP</abbr></dt>
+		<dd><a href="{{ page.rsvp.url }}">{{ page.rsvp.name }}</a></dd>
 	</dl>
 </article>
