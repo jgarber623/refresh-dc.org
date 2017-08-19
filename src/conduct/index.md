@@ -7,7 +7,7 @@ title: Code of Conduct
 
 Refresh DC is an inclusive community based on treating all individuals respectfully, regardless of age, gender, sexual orientation, disability, ethnicity, or religion (or lack thereof). As a participant at one of our events, you agree to be nice, considerate, and civil toward other participants. Do not be mean or nasty. Pretty easy, right?
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the organizers immediately. Refresh DC is currently organized by [Jason Garber](https://twitter.com/jgarber) and [Rochelle Pennington](https://twitter.com/rochellefp).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the organizers immediately. Refresh DC is currently organized by [Jason Garber](https://twitter.com/jgarber), [Rochelle Pennington](https://twitter.com/rochellefp), and [Matt Camp](https://twitter.com/mattcampux).
 
 Harassment includes offensive verbal comments related to age, gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
