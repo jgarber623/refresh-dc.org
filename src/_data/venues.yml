@@ -13,6 +13,11 @@ atlantic_media_strategies:
   address: 600 New Hampshire Ave. NW, 8th Floor, Washington, DC 20037
   url: http://atlanticmediastrategies.com
 
+black_whiskey:
+  name: Black Whiskey
+  address: http://www.blackwhiskeydc.com
+  url: 1410 14th St. NW, Washington, DC 20005
+
 blackfinn_dc:
   name: BlackFinn DC
   address: 1620 I St. NW, Washington, DC 20006
@@ -161,4 +166,9 @@ strategic_analysis_inc:
 viget_labs:
   name: Viget Labs
   address: 400 South Maple Ave., Suite 200, Falls Church, VA 22046
-  url: http://viget.com
+  url: https://www.viget.com
+
+viget_west_broad_st:
+  name: Viget
+  address: 105 West Broad St., 4th Floor, Falls Church, VA 22046
+  url: https://www.viget.com

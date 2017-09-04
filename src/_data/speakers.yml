@@ -6,6 +6,10 @@ ally_fouts:
   name: Ally Fouts
   url: http://www.allyfouts.com
 
+andrew_krawchyk:
+  name: Andrew Krawchyk
+  url: https://twitter.com/krawchyk
+
 andrew_lee:
   name: Andrew Lee
   url: http://publi.us
@@ -242,6 +246,14 @@ kim_bieler:
   name: Kim Bieler
   url: https://twitter.com/feadog
 
+kit_oliynyk:
+  name: Kit Oliynyk
+  url: http://letsdesign.it
+
+laura_mcguigan:
+  name: Laura McGuigan
+  url: http://www.lauramcguigan.com
+
 leslie_bradshaw:
   name: Leslie Bradshaw
   url: http://blogs.forbes.com/lesliebradshaw
@@ -273,6 +285,10 @@ mark_bristow:
 martin_ringlein:
   name: Martin Ringlein
   url: http://nclud.com
+
+matt_camp:
+  name: Matt Camp
+  url: https://twitter.com/mattcampux
 
 matt_yoho:
   name: Matt Yoho
@@ -321,6 +337,10 @@ paul_annett:
 paul_koch:
   name: Paul Koch
   url: https://twitter.com/paulmkoch
+
+paul_pechin:
+  name: Paul Pechin
+  url: https://twitter.com/thepechinator
 
 rosalyn_metz:
   name: Rosalyn Metz
@@ -373,6 +393,10 @@ todd_zaki_warfel:
 tom_giannattasio:
   name: Tom Giannattasio
   url: http://attasi.com
+
+tommy_okeefe:
+  name: Tommy O’Keefe
+  url: https://twitter.com/tommyokeefe
 
 tony_pitale:
   name: Tony Pitale
