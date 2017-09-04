@@ -10,7 +10,7 @@ rsvp:
   url: http://www.eventbrite.com/e/the-elements-principles-of-visual-design-tickets-11728990727
 ---
 
-Visual design feedback can be challenging. How do you elaborate on, “This looks bad?” Regardless of your discipline, critiques can always be improved. By utilizing a language construct built on the elements and principles of visual design, everyone has the ability to focus on problem-solving while staving off subjective remarks.
+Visual design feedback can be challenging. How do you elaborate on, "This looks bad?" Regardless of your discipline, critiques can always be improved. By utilizing a language construct built on the elements and principles of visual design, everyone has the ability to focus on problem-solving while staving off subjective remarks.
 
 At this month's meeting, [EightShapes](http://eightshapes.com/)' [Chuck Borowicz](http://chuckborowicz.com/) will walk you through the elements and principles used by visual designers to frame reviews, explore design system directions with Style Tiles, and create visual inventories to study current design systems with.
 

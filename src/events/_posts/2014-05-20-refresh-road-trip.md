@@ -16,7 +16,7 @@ Our friends at Refresh Chicago are taking Refresh on the road as part of their [
 
 **JC Grubbs - Check & Balance**
 
-In any product construction effort there are many processes: ideation and product definition, design, user testing, software engineering, operations, etc. Healthy product ecosystems employ checks and balances to ensure that good communication and coordination are occurring. In this talk we’ll explore some of the ways these constraints can be applied throughout a team to increase overall effectiveness and happiness.
+In any product construction effort there are many processes: ideation and product definition, design, user testing, software engineering, operations, etc. Healthy product ecosystems employ checks and balances to ensure that good communication and coordination are occurring. In this talk we'll explore some of the ways these constraints can be applied throughout a team to increase overall effectiveness and happiness.
 
 **Jon Buda - Design Your Way Out of a Hole Using Constraints**
 
@@ -24,4 +24,4 @@ A blank slate can be an inimidating and overwhelming place to be when designing 
 
 **Shay Howe - How Constraints Cultivate Growth**
 
-By setting constraints, we force ourselves to be more productive. They help us make decisions, creating focus around the problem we are trying to solve. They improve our consistency, which provides a better experience for our users. And they help us grow, a valuable asset in times of innovation. We’ll discuss constraints and ways we can embrace them.
+By setting constraints, we force ourselves to be more productive. They help us make decisions, creating focus around the problem we are trying to solve. They improve our consistency, which provides a better experience for our users. And they help us grow, a valuable asset in times of innovation. We'll discuss constraints and ways we can embrace them.

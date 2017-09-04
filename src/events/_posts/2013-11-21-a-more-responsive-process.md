@@ -10,7 +10,7 @@ rsvp:
   url: http://www.eventbrite.com/e/a-more-responsive-process-tickets-9152452231
 ---
 
-It wasn’t all that long ago that we made a giant shift in how we design and develop for the web. We slowly stopped using table-based layouts and switched to semantic markup and CSS.
+It wasn't all that long ago that we made a giant shift in how we design and develop for the web. We slowly stopped using table-based layouts and switched to semantic markup and CSS.
 
 Today we're facing another shift; making our websites responsive. Our processes, workflows, and tools break down when faced with an infinite array of devices, resolutions, and feature sets.
 

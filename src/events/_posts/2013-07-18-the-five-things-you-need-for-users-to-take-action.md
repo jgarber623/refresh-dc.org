@@ -10,7 +10,7 @@ rsvp:
   url: http://www.eventbrite.com/e/the-five-things-you-need-for-users-to-take-action-tickets-7387310645
 ---
 
-When you ask users to take action—from logging in, to clicking on a link, to exercising more—the application or website must pass five mental tests in a blink of an eye. If it fails any one of them, the user will get distracted or discouraged and you’ll lose them.
+When you ask users to take action—from logging in, to clicking on a link, to exercising more—the application or website must pass five mental tests in a blink of an eye. If it fails any one of them, the user will get distracted or discouraged and you'll lose them.
 
 [HelloWallet](http://www.hellowallet.com/)'s Principal Scientist Steve Wendel will give you practical guidelines for designing intentional action into a product, building on research in behavioral economics and psychology and the practical experiences of HelloWallet.
 

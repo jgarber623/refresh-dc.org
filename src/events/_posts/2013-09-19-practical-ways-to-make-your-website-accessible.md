@@ -20,7 +20,7 @@ Today people get their information by using desktops (with one or more monitors)
 
 This session will be run by John F. Croston III, who is a web developer and accessibility advocate from the Washington, DC area. John is the Web Accessibility Manager for the United States Department of Labor Office of Public Affairs and is well known for his work in organizing Accessibility Camp DC, as well as participating many other DC Tech Events.
 
-This presentation will be a 60-minute lecture introducing several techniques that you can take advantage of to build an accessible website using a variety of ideas and code samples. During this session, John will provide some easy-to-remember ways that you can use to improve the accessibility of your website, but that won’t take a lot of effort on your part.
+This presentation will be a 60-minute lecture introducing several techniques that you can take advantage of to build an accessible website using a variety of ideas and code samples. During this session, John will provide some easy-to-remember ways that you can use to improve the accessibility of your website, but that won't take a lot of effort on your part.
 
 Drawing from his 18+ years of experience of mainframe programming (COBOL) and seven years of web programming experience, John will cover the following areas to help you make your website more accessible:
 
@@ -30,9 +30,9 @@ Drawing from his 18+ years of experience of mainframe programming (COBOL) and se
 - Should you validate your pages?
 - Should you use semantic HTML?
 - Is "skip" navigation helpful?
-- Do color and contrast improve your website’s readability?
+- Do color and contrast improve your website's readability?
 - Do you really need both hover and focus on your links?
 - Are "click here" and "read more" links easy to understand? What about when someone reads them out of context?
 - Are headings (h1, h2, h3, etc.) an easy way to navigate a website?
 - What does it take to make an accessible form?
-- Can ARIA landmark roles, like “banner”, improve a website’s accessibility?
+- Can ARIA landmark roles, like "banner," improve a website's accessibility?

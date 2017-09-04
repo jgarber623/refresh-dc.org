@@ -16,9 +16,9 @@ The editors of [UnmatchedStyle.com](http://UnmatchedStyle.com) will be here to d
 **Conceptual Design**
 _by Giovanni DiFeterici_
 
-A central conceptual idea can act as the glue that ties together content, tone, language, layout, art, typography, brand, message, and technology into an intuitive whole and can become the central vehicle for communicating the design’s intent.
+A central conceptual idea can act as the glue that ties together content, tone, language, layout, art, typography, brand, message, and technology into an intuitive whole and can become the central vehicle for communicating the design's intent.
 
-In his talk, Giovanni will explain how he goes about conceptualizing an idea for a design and how that influences the decisions that he makes when deciding how to implement that design. There’s more to web design than perfect mark up and standards. He will present on how to try to give design a soul that is greater than the sum of its parts.
+In his talk, Giovanni will explain how he goes about conceptualizing an idea for a design and how that influences the decisions that he makes when deciding how to implement that design. There's more to web design than perfect mark up and standards. He will present on how to try to give design a soul that is greater than the sum of its parts.
 
 **Sign Up UX Design**
 _by Gene Crawford_

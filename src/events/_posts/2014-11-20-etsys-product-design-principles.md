@@ -10,7 +10,7 @@ rsvp:
   url: http://www.eventbrite.com/e/etsys-product-design-principles-tickets-13886329385
 ---
 
-Behind the scenes, [Etsy](http://www.etsy.com/) is a company obsessed with moving fast and breaking things. But how do you balance a culture of continuous deployment with a quality-obsessed design team? This talk will encompass Etsy’s product design principles, illustrated with a variety of stories from inside the company. Peer into teeny-tiny feature design, successful (and unsuccessful) launches and how Etsy tackles design problems every day.
+Behind the scenes, [Etsy](http://www.etsy.com/) is a company obsessed with moving fast and breaking things. But how do you balance a culture of continuous deployment with a quality-obsessed design team? This talk will encompass Etsy's product design principles, illustrated with a variety of stories from inside the company. Peer into teeny-tiny feature design, successful (and unsuccessful) launches and how Etsy tackles design problems every day.
 
 [Cap Watkins](http://capwatkins.com/) is a Sr. Design Manager at Etsy. He's previously worked on hush-hush stuff at Amazon and led design for a number of startups, including Formspring and Zoosk. You can find him as [@cap](https://twitter.com/cap) on Twitter.
 

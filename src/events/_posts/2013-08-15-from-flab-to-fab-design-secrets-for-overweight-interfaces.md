@@ -10,7 +10,7 @@ rsvp:
   url: http://www.eventbrite.com/e/from-flab-to-fab-design-secrets-for-overweight-interfaces-tickets-7122009121
 ---
 
-We’ve all seen them: data-heavy websites and gnarly back-office apps that are so cramped and complex even the wireframes make your eyes water. Believe it or not, big can be beautiful!
+We've all seen them: data-heavy websites and gnarly back-office apps that are so cramped and complex even the wireframes make your eyes water. Believe it or not, big can be beautiful!
 
 Join us this month as Kim Bieler ([@feadog](https://twitter.com/feadog)), UX manager at Mandiant, shows us how a handful of simple design principles can tame even the most dense and intimidating interfaces and make them understandable—even enjoyable—for users. Each principle is illustrated with step-by-step makeovers of real interfaces. You'll leave this talk understanding not only how to apply these techniques to new designs and existing products, but more importantly, WHY they work.
 
