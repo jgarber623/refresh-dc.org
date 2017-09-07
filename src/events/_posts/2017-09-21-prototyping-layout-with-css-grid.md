@@ -14,4 +14,12 @@ rsvp:
 
 In this talk, Jess will walk through a case study building a responsive layout with CSS Grid using Glitch as a platform for collaboration. She'll cover the implementation process from wireframe to working prototype and address challenges and lessons learned along the way. This talk will feature practical code examples using CSS Grid, [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), and fallback strategies for older browsers.
 
+## About the Speaker
+
 [Jess Eldredge](http://jessica-eldredge.com) is a senior web developer at [Slate Magazine](http://www.slate.com) where she's developing a design system and building out a content management system. Previously, she's worked on building awesome products at [Shopify](https://www.shopify.com) and LivingSocial. In the past, she's been involved in organizing Refresh DC and Refresh Ottawa. She loves sketchnoting, refactoring code, and the cascade.
+
+## Getting to ISL
+
+[ISL](https://isl.co) is located at 641 S St. NW in the historic Shaw neighborhood of Washington, DC. The closest Metro station is Shaw–Howard University on the green and yellow lines.
+
+We'll kick things off promptly at 7:00 PM, but come by a bit early to grab a seat and meet other Refreshers!
