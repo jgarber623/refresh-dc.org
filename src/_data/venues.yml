@@ -78,15 +78,15 @@ greater_washington_board_of_trade:
   address: 1725 I St. NW, Suite 200, Washington, DC 20006
   url: http://www.bot.org
 
+isl:
+  name: ISL
+  address: 641 S St. NW, Floor 1, Washington, DC 20001
+  url: https://isl.co
+
 istrategylabs:
   name: iStrategyLabs
   address: 1630 Connecticut Ave. NW, Washington, DC 20009
   url: http://istrategylabs.com
-
-istrategylabs_s_st_nw:
-  name: iStrategyLabs (S St. NW)
-  address: 641 S St. NW, Floor 1, Washington, DC 20001
-  url:
 
 james_madison_memorial_building:
   name: James Madison Memorial Building

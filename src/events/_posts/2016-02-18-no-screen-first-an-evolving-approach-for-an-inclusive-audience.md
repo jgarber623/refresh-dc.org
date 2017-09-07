@@ -2,7 +2,7 @@
 title: 'No-Screen-First: An Evolving Approach for an Inclusive Audience'
 dtstart: 2016-02-18T19:00:00-05:00
 dtend: 2016-02-18T20:30:00-05:00
-venue: istrategylabs_s_st_nw
+venue: isl
 speakers:
   - nguyet_vuong
   - tommy_okeefe

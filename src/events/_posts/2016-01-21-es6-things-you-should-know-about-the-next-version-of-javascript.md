@@ -2,7 +2,7 @@
 title: 'ES6: Things You Should Know About the Next Version of JavaScript'
 dtstart: 2016-01-21T19:00:00-05:00
 dtend: 2016-01-21T20:30:00-05:00
-venue: istrategylabs_s_st_nw
+venue: isl
 speakers:
   - paul_pechin
 rsvp:

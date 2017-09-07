@@ -8,6 +8,8 @@ plugins:
 
 host: 0.0.0.0
 
+future: true
+
 title: Refresh DC
 description: Refresh DC is a group of Web Designers, Web Developers, and other New Media Professionals gathering to create a community based in Washington, DC.
 

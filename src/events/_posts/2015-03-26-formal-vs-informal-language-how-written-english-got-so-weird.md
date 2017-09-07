@@ -2,7 +2,7 @@
 title: 'Formal vs. Informal Language: How Written English Got So Weird'
 dtstart: 2015-03-26T19:00:00-04:00
 dtend: 2015-03-26T20:30:00-04:00
-venue: istrategylabs_s_st_nw
+venue: isl
 speakers:
   - ally_fouts
 rsvp:
