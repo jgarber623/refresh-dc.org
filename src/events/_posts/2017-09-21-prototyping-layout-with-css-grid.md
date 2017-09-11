@@ -22,4 +22,4 @@ In this talk, Jess will walk through a case study building a responsive layout w
 
 [ISL](https://isl.co) is located at 641 S St. NW in the historic Shaw neighborhood of Washington, DC. The closest Metro station is Shaw–Howard University on the green and yellow lines.
 
-We'll kick things off promptly at 7:00 PM, but come by a bit early to grab a seat and meet other Refreshers!
+We'll kick things off promptly at 7:00 PM, but come by a bit early and enjoy food and drinks provided by our wonderful hosts!
