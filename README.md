@@ -4,6 +4,9 @@ Love the [Refresh DC website](http://refresh-dc.org/)? Cool!
 
 Hate the Refresh DC website? Help us make it better. Fork this repository and get to work!
 
-## Requirements
+[![Build Status](https://img.shields.io/travis/jgarber623/refresh-dc.org/master.svg?label=build%20status)](https://travis-ci.org/jgarber623/refresh-dc.org)
+[![Known Vulnerabilities](https://snyk.io/test/github/jgarber623/refresh-dc.org/badge.svg)](https://snyk.io/test/github/jgarber623/refresh-dc.org)
 
-We're only limited by our hosting environment (which is running on the LAMP stack). If you've done work on the site and want us to fold it into the official website, send us a pull request and we'll take a look.
+## License
+
+The source code for the Refresh DC website is freely available under the [MIT License](http://opensource.org/licenses/MIT). Use it, learn from it, fork it, improve it, change it, tailor it to your needs.
