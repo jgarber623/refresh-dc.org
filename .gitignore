@@ -1,5 +1,6 @@
-.asset-cache
-.DS_Store
-.jekyll-metadata
 config/deploy/*.rb
+log/
 public/
+.asset-cache/
+.sass-cache/
+.jekyll-metadata
