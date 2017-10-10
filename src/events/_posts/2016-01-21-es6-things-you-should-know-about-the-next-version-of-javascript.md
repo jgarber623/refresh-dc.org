@@ -12,7 +12,7 @@ rsvp:
 
 Despite JavaScript's steady march toward worldwide dominance, there hasn't been a major update to the language until relatively recently. ES6, the latest version of JavaScript, has landed and is quickly being adopted by the browsers of today. Front-End Developer [Paul Pechin](https://twitter.com/thepechinator) will show you all the new things you need to know in a real-time interactive demonstration of all the key features.
 
-At [U.S. News and World Report](http://www.usnews.com), Paul leads the effort to modernize their front-end workflow and building tools to make developers' lives easier, including implementing a complex dependency system, migrating to ES6, and being the lead developer of a cool "immortal style guide" application. Over the years, he has worked for companies in the Midwest and on the West Coast, acquiring a skill set ranging from Ruby and Python to ActionScript, JavaScript, and CSS.
+At [U.S. News and World Report](https://www.usnews.com), Paul leads the effort to modernize their front-end workflow and building tools to make developers' lives easier, including implementing a complex dependency system, migrating to ES6, and being the lead developer of a cool "immortal style guide" application. Over the years, he has worked for companies in the Midwest and on the West Coast, acquiring a skill set ranging from Ruby and Python to ActionScript, JavaScript, and CSS.
 
 ## Getting to ISL
 

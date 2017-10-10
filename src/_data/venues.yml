@@ -15,8 +15,8 @@ atlantic_media_strategies:
 
 black_whiskey:
   name: Black Whiskey
-  address: http://www.blackwhiskeydc.com
-  url: 1410 14th St. NW, Washington, DC 20005
+  address: 1410 14th St. NW, Washington, DC 20005
+  url: http://www.blackwhiskeydc.com
 
 blackfinn_dc:
   name: BlackFinn DC
