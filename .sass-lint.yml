@@ -11,6 +11,7 @@ rules:
     - 2
     - include: true
   no-color-literals: 0
+  no-duplicate-properties: 0
   quotes:
     - 2
     - style: double
