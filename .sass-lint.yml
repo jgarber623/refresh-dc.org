@@ -1,0 +1,17 @@
+files:
+  include: 'src/_assets/stylesheets/**/*.scss'
+rules:
+  force-attribute-nesting: 0
+  force-element-nesting: 0
+  force-pseudo-nesting: 0
+  indentation:
+    - 2
+    - size: 'tab'
+  leading-zero:
+    - 2
+    - include: true
+  no-color-literals: 0
+  quotes:
+    - 2
+    - style: double
+  shorthand-values: 0
