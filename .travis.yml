@@ -1,10 +1,16 @@
+dist: trusty
+sudo: false
 language: ruby
 cache: bundler
 rvm:
   - 2.4.2
 before_install:
+  - gem update --system
+  - gem update bundler
   - nvm install node
   - npm install -g sass-lint
 notifications:
   email: false
-  slack: sixtwothree:yATLmjTW15443qR7jbCWr3RO
+  slack:
+    rooms:
+      secure: 1YZXi6JalsGPWbKfzjBhcJ6Cq1kCtXfnTDOn0AC95DMieBLlFGRWpzkAEX/V4Vv333l6JeerbU4f+o+Vjjna2XYf5yX7DLT/4RjtRse+CwO5aupAtHwjAYhT1qXHJtlse3ImRTrzcq7FTN0bHI/SlhIfa9XVAHqHf+o4uR64YhW0tPm4M0GB4ZcIwp9sTl33xw+5piX4U4y4TlWdpBXhWpuI90aZN32jzIwUXo+b3N2SWzVzwX+hfGvUTHlWx+9IcqLZTLU2ftRi+jKcuygVB59GW49RErB6T1KFqb1NUjsZxlY4HTP5N4JVL6Y4tCQ9c3sFakDKnwsYZ0ZHAiTEz3EoaQa0nS3v2QWagm1snm5uMoVNSWkDWPrqjIlN8sLg+lTuEPXKn7r6LwIq6YSTeUD2wRgdkth3hb0rUweiVyHvhHTg53ncfur7J1Ios3UU7Ix5AwcQNE5mq5gB/EPMjUlA/K1vKr/xfbTfqgcz3B5ImCn23RMceJgKfiD9Eo0qXoewCafrdEL4MoVjhoz8V0+uSaeq2GmX5K1ufQPHKyol2lKYL+EnWqpOJMqTNNLERQjKpJR/KqAcj60aOBKB4E/1DcbJo8run7enUslLyvkOBwCEetpPii6lSMtYjKvRRYM/DiRhZM9mFEmz7x/QBDa2MLJZkpT3RlzqHYS5wvY=
