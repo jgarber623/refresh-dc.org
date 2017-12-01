@@ -172,3 +172,13 @@ viget_west_broad_st:
   name: Viget
   address: 105 West Broad St., 4th Floor, Falls Church, VA 22046
   url: https://www.viget.com
+
+wework_crystal_city:
+  name: WeWork Crystal City
+  address: 2221 South Clark St., Arlington, VA 22202
+  url: https://www.wework.com/locations/washington-d-c/crystal-city
+
+wework_dupont_circle:
+  name: WeWork Dupont Circle
+  address: 1875 Connecticut Ave. NW, 10th Floor, Washington, DC 20008
+  url: https://www.wework.com/buildings/dupont-circle--washington-DC

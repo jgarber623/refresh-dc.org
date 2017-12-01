@@ -6,6 +6,10 @@ ally_fouts:
   name: Ally Fouts
   url: http://www.allyfouts.com
 
+ally_palanzi:
+  name: Ally Palanzi
+  url: http://allypalanzi.com
+
 andrew_krawchyk:
   name: Andrew Krawchyk
   url: https://twitter.com/krawchyk
@@ -38,6 +42,10 @@ benjamin_sterling:
   name: Benjamin Sterling
   url: http://www.informationexperts.com
 
+benno_schmidt:
+  name: Benno Schmidt
+  url: https://twitter.com/abennoschmidt
+
 brandon_gray:
   name: Brandon Gray
   url: https://twitter.com/brandongray
@@ -53,6 +61,10 @@ brian_williams:
 cap_watkins:
   name: Cap Watkins
   url: http://capwatkins.com
+
+carrie_hane:
+  name: Carrie Hane
+  url: https://twitter.com/carriehd
 
 chris_clarke:
   name: Chris Clarke
