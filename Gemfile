@@ -10,10 +10,10 @@ source 'https://rubygems.org' do
     gem 'capistrano', '~> 3.10'
     gem 'capistrano-bundler', '~> 1.3'
     gem 'capistrano-chruby', '~> 0.1.2'
-    gem 'rake', '~> 12.2', '>= 12.2.1'
+    gem 'rake', '~> 12.3'
   end
 
   group :test do
-    gem 'html-proofer', '~> 3.7', '>= 3.7.4'
+    gem 'html-proofer', '~> 3.7', '>= 3.7.5'
   end
 end
