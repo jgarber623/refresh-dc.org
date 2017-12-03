@@ -18,4 +18,4 @@ Healthcare in the United States is a complex system of interrelated services. Su
 
 [WeWork Dupont Circle](https://www.wework.com/buildings/dupont-circle--washington-DC) is located at 1875 Connecticut Ave NW, 10th Floor, Washington, DC 20008, located a few blocks away from Dupont Circle Metro Station (red line).
 
-We’ll kick things off promptly at 7pm, but come by a bit early to meet other awesome Refreshers like you!
+We'll kick things off promptly at 7pm, but come by a bit early to meet other awesome Refreshers like you!

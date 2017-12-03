@@ -94,6 +94,10 @@ craig_green:
   name: Craig Green
   url: http://www.networksolutions.com
 
+crystal_yan:
+  name: Crystal Yan
+  url: http://crystalcyan.github.io
+
 dan_brown:
   name: Dan Brown
   url: https://about.me/brownorama
@@ -172,7 +176,7 @@ jason_cranford_teague:
 
 jason_garber:
   name: Jason Garber
-  url: http://sixtwothree.org
+  url: https://sixtwothree.org
 
 jason_wishard:
   name: Jason Wishard
@@ -214,6 +218,10 @@ jim_lane:
   name: Jim Lane
   url: https://about.me/jimlane
 
+jo_golden:
+  name: Dr. Jo Golden
+  url: https://twitter.com/jogolden
+
 john_f_croston_iii:
   name: John F. Croston III
   url: http://www.jfciii.com/blog
@@ -234,6 +242,10 @@ jon_buda:
   name: Jon Buda
   url: http://jonbuda.com
 
+joseph_price:
+  name: Joseph Price
+  url: https://twitter.com/josephprice
+
 justin_secor:
   name: Justin Secor
   url: https://twitter.com/secor
@@ -246,13 +258,17 @@ karl_kaufmann:
   name: Karl Kaufmann
   url: http://www.karlkaufmann.com
 
-kaytee_nesmith:
-  name: Kaytee Nesmith
-  url: http://www.kayteenesmith.com
-
 katerina_martchouk:
   name: Katerina Martchouk
   url: https://twitter.com/bukvaK
+
+katie_myer:
+  name: Katie Myer
+  url: https://twitter.com/katiemyerdc
+
+kaytee_nesmith:
+  name: Kaytee Nesmith
+  url: http://www.kayteenesmith.com
 
 kevin_lawver:
   name: Kevin Lawver
@@ -357,6 +373,10 @@ paul_koch:
 paul_pechin:
   name: Paul Pechin
   url: https://twitter.com/thepechinator
+
+robert_generette_iii:
+  name: Robert Generette III
+  url: http://rob-zilla.tumblr.com
 
 rosalyn_metz:
   name: Rosalyn Metz

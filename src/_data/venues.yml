@@ -3,6 +3,11 @@ aarp:
   address: 601 E St. NW, Washington, DC 20049
   url: http://www.aarp.org
 
+alley:
+  name: Alley
+  address: 2055 L St. NW, 4th Floor, Washington DC, 20036
+  url: https://youralley.com
+
 apco_worldwide:
   name: APCO Worldwide
   address: 700 12th St. NW, Suite 800, Washington, DC 20005
@@ -51,7 +56,7 @@ the_center_for_digital_imaging_arts_at_boston_university:
 chief:
   name: CHIEF
   address: 1900 M St. NW, Washington, DC 20036
-  url: http://www.mybigchief.com
+  url: https://agencychief.com
 
 elephant_and_castle:
   name: Elephant & Castle
@@ -72,6 +77,11 @@ fleishman_hillard:
   name: Fleishman-Hillard
   address: 1615 L St. NW, Suite 1000, Washington, DC 20036
   url: http://fleishmanhillard.com
+
+gmmb:
+  name: GMMB
+  address: 3050 K St. NW, Suite 100, Washington, DC 20007
+  url: https://gmmb.com
 
 greater_washington_board_of_trade:
   name: Greater Washington Board of Trade
@@ -173,12 +183,22 @@ viget_west_broad_st:
   address: 105 West Broad St., 4th Floor, Falls Church, VA 22046
   url: https://www.viget.com
 
+washington_post:
+  name: The Washington Post
+  address: 1301 K St. NW, Washington, DC 20071
+  url: https://www.washingtonpost.com
+
 wework_crystal_city:
   name: WeWork Crystal City
   address: 2221 South Clark St., Arlington, VA 22202
-  url: https://www.wework.com/locations/washington-d-c/crystal-city
+  url: https://www.wework.com/buildings/crystal-city--washington-DC
 
 wework_dupont_circle:
   name: WeWork Dupont Circle
   address: 1875 Connecticut Ave. NW, 10th Floor, Washington, DC 20008
   url: https://www.wework.com/buildings/dupont-circle--washington-DC
+
+wework_k_street:
+  name: WeWork K Street
+  address: 1875 K St, NW, Washington, DC 20006
+  url: https://www.wework.com/buildings/k-street--washington-DC
