@@ -1,7 +1,5 @@
-.asset-cache/
 .bundle/
-.jekyll-metadata
-.sass-cache/
+.jekyll-cache/
 config/deploy/*.rb
 log/
 public/

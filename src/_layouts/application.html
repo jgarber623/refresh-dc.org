@@ -21,12 +21,12 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@refreshdc">
 	<meta property="og:description" content="{{ site.description }}">
-	<meta property="og:image" content="https://refresh-dc.org{% asset_path refreshdc.png %}">
+	<meta property="og:image" content="https://refresh-dc.org{% asset refreshdc.png @path %}">
 	<meta property="og:title" content="{{ page_title }}">
 
-	<link rel="apple-touch-icon" href="{% asset_path refreshdc.png %}">
-	<link rel="shortcut icon" href="{% asset_path refreshdc.png %}">
-	<link rel="stylesheet" href="{% asset_path application.css %}">
+	<link rel="apple-touch-icon" href="{% asset refreshdc.png @path %}">
+	<link rel="shortcut icon" href="{% asset refreshdc.png @path %}">
+	{% asset application.css !type %}
 </head>
 <body>
 

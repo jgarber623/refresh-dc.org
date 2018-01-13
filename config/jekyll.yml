@@ -1,11 +1,6 @@
 source: ./src
 destination: ./public
 
-plugins:
-  - breakpoint
-  - jekyll-assets
-  - sass-globbing
-
 host: 0.0.0.0
 
 future: true
@@ -21,3 +16,14 @@ defaults:
       type: posts
     values:
       layout: event
+
+assets:
+  defaults:
+    css:
+      integrity: false
+    img:
+      integrity: false
+    js:
+      integrity: false
+  sources:
+    - _assets/stylesheets

@@ -9,6 +9,8 @@ task :serve do
     watch: true
   }
 
+  Jekyll::PluginManager.require_from_bundler
+
   Jekyll::Commands::Build.process(options)
   Jekyll::Commands::Serve.process(options)
 end
