@@ -1,11 +1,11 @@
 # Refresh DC
 
-Love the [Refresh DC website](http://refresh-dc.org/)? Cool!
+Love the [Refresh DC website](https://refresh-dc.org)? Cool!
 
 Hate the Refresh DC website? Help us make it better. Fork this repository and get to work!
 
-[![Travis CI: Build Status](https://travis-ci.org/jgarber623/refresh-dc.org.svg?branch=master)](https://travis-ci.org/jgarber623/refresh-dc.org)
-[![Snyk: Known Vulnerabilities](https://snyk.io/test/github/jgarber623/refresh-dc.org/badge.svg)](https://snyk.io/test/github/jgarber623/refresh-dc.org)
+[![Travis CI: Build Status](https://img.shields.io/travis/jgarber623/refresh-dc.org/master.svg?style=flat-square)](https://travis-ci.org/jgarber623/refresh-dc.org)
+[![Snyk: Known Vulnerabilities](https://snyk.io/test/github/jgarber623/refresh-dc.org/badge.svg?style=flat-square)](https://snyk.io/test/github/jgarber623/refresh-dc.org)
 
 ## License
 

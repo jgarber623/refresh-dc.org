@@ -16,4 +16,4 @@ Megan is a front-end developer at [Viget](http://viget.com/) by day and a hobbyi
 
 This month, we'll be returning to [nclud](http://nclud.com/), located at 1424 K Street NW. near the McPherson Square Metro station. We'll start promptly at 7:00pm, so show up early to grab a seat!
 
-_Please take a moment to read through our [Code of Conduct](http://refresh-dc.org/conduct). By registering and attending Refresh DC, you acknowledge that you have read and agree to abide by our Code of Conduct._
+_Please take a moment to read through our [Code of Conduct](https://refresh-dc.org/conduct). By registering and attending Refresh DC, you acknowledge that you have read and agree to abide by our Code of Conduct._
