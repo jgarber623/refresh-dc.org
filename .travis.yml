@@ -9,6 +9,9 @@ before_install:
   - gem update bundler
   - nvm install node
   - npm install -g sass-lint
+script:
+  - bin/rake test:html
+  - bin/rake test:sass
 notifications:
   email: false
   slack:
