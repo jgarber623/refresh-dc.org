@@ -1,6 +1,10 @@
 source: ./src
 destination: ./public
 
+include:
+  - _headers
+  - _redirects
+
 host: 0.0.0.0
 
 future: true
@@ -20,10 +24,10 @@ defaults:
 assets:
   defaults:
     css:
-      integrity: false
+      integrity: true
     img:
       integrity: false
     js:
-      integrity: false
+      integrity: true
   sources:
     - _assets/stylesheets

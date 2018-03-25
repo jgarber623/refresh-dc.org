@@ -5,7 +5,7 @@ task :build do
   Jekyll::PluginManager.require_from_bundler
 
   Jekyll::Commands::Build.process(
-    config: 'config/jekyll.yml',
+    config: 'jekyll.yml',
     profile: true,
     trace: true
   )

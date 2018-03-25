@@ -3,7 +3,7 @@ require 'jekyll'
 desc 'Serve the site at `http://localhost:4000`'
 task :serve do
   options = {
-    config: 'config/jekyll.yml',
+    config: 'jekyll.yml',
     serving: true,
     trace: true,
     watch: true
