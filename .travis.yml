@@ -1,13 +1,13 @@
 dist: trusty
 sudo: false
 language: ruby
-cache: bundler
+cache:
+  bundler: true
+  directories:
+    - "$(npm config get prefix)/lib/node_modules"
 rvm:
-  - 2.4.2
+  - 2.4.3
 before_install:
-  - gem update --system
-  - gem update bundler
-  - nvm install node
   - npm install -g sass-lint
 script:
   - bin/rake test:html
@@ -16,4 +16,4 @@ notifications:
   email: false
   slack:
     rooms:
-      secure: 1YZXi6JalsGPWbKfzjBhcJ6Cq1kCtXfnTDOn0AC95DMieBLlFGRWpzkAEX/V4Vv333l6JeerbU4f+o+Vjjna2XYf5yX7DLT/4RjtRse+CwO5aupAtHwjAYhT1qXHJtlse3ImRTrzcq7FTN0bHI/SlhIfa9XVAHqHf+o4uR64YhW0tPm4M0GB4ZcIwp9sTl33xw+5piX4U4y4TlWdpBXhWpuI90aZN32jzIwUXo+b3N2SWzVzwX+hfGvUTHlWx+9IcqLZTLU2ftRi+jKcuygVB59GW49RErB6T1KFqb1NUjsZxlY4HTP5N4JVL6Y4tCQ9c3sFakDKnwsYZ0ZHAiTEz3EoaQa0nS3v2QWagm1snm5uMoVNSWkDWPrqjIlN8sLg+lTuEPXKn7r6LwIq6YSTeUD2wRgdkth3hb0rUweiVyHvhHTg53ncfur7J1Ios3UU7Ix5AwcQNE5mq5gB/EPMjUlA/K1vKr/xfbTfqgcz3B5ImCn23RMceJgKfiD9Eo0qXoewCafrdEL4MoVjhoz8V0+uSaeq2GmX5K1ufQPHKyol2lKYL+EnWqpOJMqTNNLERQjKpJR/KqAcj60aOBKB4E/1DcbJo8run7enUslLyvkOBwCEetpPii6lSMtYjKvRRYM/DiRhZM9mFEmz7x/QBDa2MLJZkpT3RlzqHYS5wvY=
+      secure: pJI2ZucPoCDfJJYMJAs+1jI+UAvZtiZM31f+ygMHZ9s+qF4dh87Zr2nB3SbKUSGuMjQNkwEkWZQp1mZtLFFTGPrVQDW3gGlQwdXJK2PhgSBLQI4xvXBdRDvsDDFkT5smD+H+ltNB5DOj7fFRA++kcNjppVl7Q22Fp3bdlZUioceA+N7VMIEkpCB1GOEMMIOeGiCFvEi3h/DewP1b05XNuPs6xn/LwNDqB7PUPQiWTVgKDcE+6Nz0EAsMLhT7M8tP6x3t/NYd/bojruLKUZ1numGrINImjx4/xC5GHkETu4KEJTUdta0djH2ZJkUy6U9bKaJFzKlxFsmqYuM3m5fcHVeiAJ6WXbC7orTk9ustdWJBGTn/to7XldR5fmqAkO0taMhiCApVtGEOltRCJyb6Tb1k0Qb5kM4H0gtaqruf5T0Tk0564XiFxWKDMZVa82kPVFYjIOQymUtcRKDxiOf59lo2JE0IRqgvx6a9RQuQcep2rihUIFoc4933xwxcB1oMgmHMgsd6+W+Nvk8f2JWRuscxxu48IMMCV+A96Vgk6i3yUG8Q8l+SEhFJM5cJzj/5bdif9NcgeNGelMI1XqU7JN4sg160ng8g09nGiocHv62fHj9L0N9G+Z/Eewu8qm9KOTGYQTnav98kzpIr9h2pt3zJibTMx7c/zY+WClWLxHw=
