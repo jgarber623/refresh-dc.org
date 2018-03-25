@@ -1,5 +1,3 @@
 .bundle/
 .jekyll-cache/
-config/deploy/*.rb
-log/
 public/
