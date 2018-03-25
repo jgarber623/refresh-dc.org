@@ -1,0 +1,3 @@
+/conduct          /conduct/index.html     200!
+/events/:slug     /events/:slug.html      200!
+/events           /events/index.html      200!
