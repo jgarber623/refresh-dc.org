@@ -188,6 +188,11 @@ washington_post:
   address: 1301 K St. NW, Washington, DC 20071
   url: https://www.washingtonpost.com
 
+wdg:
+  name: WDG
+  address: 3100 Clarendon Blvd., Suite 510, Arlington, VA 22201
+  url: https://www.webdevelopmentgroup.com
+
 wework_crystal_city:
   name: WeWork Crystal City
   address: 2221 South Clark St., Arlington, VA 22202
