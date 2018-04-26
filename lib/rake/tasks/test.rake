@@ -19,7 +19,7 @@ namespace :test do
   desc 'Lint stylesheets with Sass Lint'
   task :sass do
     puts '=> Linting stylesheets with Sass Lint...'
-    system 'sass-lint --no-exit --verbose' or raise
+    system '$(npm bin)/sass-lint --no-exit --verbose' or raise
   end
 end
 

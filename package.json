@@ -1,0 +1,7 @@
+{
+  "name": "refresh-dc.org",
+  "private": true,
+  "devDependencies": {
+    "sass-lint": "^1.12.1"
+  }
+}

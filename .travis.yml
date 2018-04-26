@@ -8,7 +8,7 @@ cache:
 rvm:
   - 2.4.3
 before_install:
-  - npm install -g sass-lint
+  - npm install
 script:
   - bin/rake test:html
   - bin/rake test:sass
