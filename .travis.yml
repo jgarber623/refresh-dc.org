@@ -4,7 +4,7 @@ language: ruby
 cache:
   bundler: true
   directories:
-    - "$(npm config get prefix)/lib/node_modules"
+    - node_modules
 rvm:
   - 2.4.3
 before_install:
