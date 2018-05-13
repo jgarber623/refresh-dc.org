@@ -1,6 +1,13 @@
 {
   "name": "refresh-dc.org",
   "private": true,
+  "scripts": {
+    "build": "bundle exec jekyll build --config jekyll.yml --profile --trace",
+    "start": "bundle exec jekyll serve --config jekyll.yml --trace",
+    "test": "npm run test:html && npm run test:sass",
+    "test:html": "bundle exec htmlproofer ./public --assume-extension --disable-external --only-4xx",
+    "test:sass": "$(npm bin)/sass-lint --no-exit --verbose"
+  },
   "devDependencies": {
     "sass-lint": "^1.12.1"
   }

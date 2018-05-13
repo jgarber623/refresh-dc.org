@@ -7,11 +7,14 @@ cache:
     - node_modules
 rvm:
   - 2.4.3
-before_install:
+install:
+  - bundle install --path vendor/bundle
   - npm install
+before_script:
+  - npm run build
 script:
-  - bin/rake test:html
-  - bin/rake test:sass
+  - npm run test:html
+  - npm run test:sass
 notifications:
   email: false
   slack:
