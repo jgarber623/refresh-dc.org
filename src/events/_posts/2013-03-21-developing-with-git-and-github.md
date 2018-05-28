@@ -18,4 +18,4 @@ This month, GitHub's Matt Yoho will discuss the fundamentals of using Git and Gi
 
 Matt Yoho is a Ruby and Javascript-loving web developer, freelance karaoke operative, and comic book guy. He spends his time building tools to make GitHub's Supportocats lives warmer and fuzzier.
 
-_**We're meeting this month at [Capital One Labs](https://capitalonelabs.com/)in Clarendon. The meeting kicks off promptly at 7pm, but come by early for food and drinks sponsored by our gracious hosts!**_
+_**We're meeting this month at [Capital One Labs](https://capitalonelabs.com)in Clarendon. The meeting kicks off promptly at 7pm, but come by early for food and drinks sponsored by our gracious hosts!**_

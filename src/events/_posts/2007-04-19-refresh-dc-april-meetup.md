@@ -10,7 +10,7 @@ rsvp:
   url: http://upcoming.yahoo.com/event/170597/VA/Alexandria/Refresh-DC-April-meetup/The-Motley-Fool/
 ---
 
-John Sutton, a Senior Information Architect (IA) and Interaction Designer (IxD) at [NavigationArts](http://www.navigationarts.com/), will be presenting an overview of Information Architecture and Interaction Design practices, and he will introduce some concepts that are in play today within the conversation circles of the practice.
+John Sutton, a Senior Information Architect (IA) and Interaction Designer (IxD) at [NavigationArts](http://www.navigationarts.com), will be presenting an overview of Information Architecture and Interaction Design practices, and he will introduce some concepts that are in play today within the conversation circles of the practice.
 
 Join us for what should be a fantastic discussion. Come early (~6:45pm) for food and drink, meeting starts at 7:00pm sharp!
 

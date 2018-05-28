@@ -12,8 +12,8 @@ We're closing out another great year with our annual Holiday Happy Hour! This ye
 
 **Sponsors**
 
-- [nclud](http://nclud.com/)
-- [Whitmoyer](http://whitmoyer.com/)
-- [TrackMaven](http://trackmaven.com/)
-- [limina](http://limina-ao.com/)
-- [Viget](http://viget.com/)
+- [nclud](http://nclud.com)
+- [Whitmoyer](http://whitmoyer.com)
+- [TrackMaven](http://trackmaven.com)
+- [limina](http://limina-ao.com)
+- [Viget](http://viget.com)

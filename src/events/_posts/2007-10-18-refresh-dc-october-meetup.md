@@ -12,6 +12,6 @@ rsvp:
 
 **Web Building: All it takes is passion**
 
-Everyone has ideas, but do you have the follow thru to take an idea and make it into a successful website? [Alex Giron](http://www.cssbeauty.com/) from [nclud](http://nclud.com/) discusses ways in which you can take a website idea and bring it into fruition, from concept, to design, to code and anything in between.
+Everyone has ideas, but do you have the follow thru to take an idea and make it into a successful website? [Alex Giron](http://www.cssbeauty.com) from [nclud](http://nclud.com) discusses ways in which you can take a website idea and bring it into fruition, from concept, to design, to code and anything in between.
 
 Can't make it to the meeting? Meet us over at the Hilton across from the Metro for drinks!

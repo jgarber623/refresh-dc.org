@@ -27,4 +27,4 @@ Your fearless speakers:
 
 **Jay Merrifield** is a _Senior UX Developer for Gannett Digital_ who has 10 years of experience building enterprise level interactive websites, including building the CMS that runs Fox New's mobile website, and building a geo exploitation web application for the military. At Gannett he spends most of his days focusing on the glue that holds the web application together, managing the comings and goings of resources and making certain the user doesn't accidentally go spinning off into the sun, or a black hole never to be heard from again.
 
-_**We're meeting this month at [Capital One Labs](https://capitalonelabs.com/) in Clarendon. The meeting kicks off promptly at 7pm, but come by early for food and drinks sponsored by our gracious hosts!**_
+_**We're meeting this month at [Capital One Labs](https://capitalonelabs.com) in Clarendon. The meeting kicks off promptly at 7pm, but come by early for food and drinks sponsored by our gracious hosts!**_

@@ -14,4 +14,4 @@ Designers are often faced with the tough task of presenting their work to client
 
 First of all, don't panic. Senior designer [Sarah Mills](https://twitter.com/starsoup7), from Atlantic Media Strategies, has been in this situation before, and will share her personal experience and tips for applying UX thinking to getting meaningful feedback from stakeholders. Sign up to learn how to make the most of your client presentations and not get bummed out by comments from your client's mom.
 
-[Atlantic Media Strategies](http://atlanticmediastrategies.com/) has offered to host this month's meeting. Join us Thursday evening, May 21st at the Watergate Office Building just a short walk from the Foggy Bottom Metro stop. We'll kick things off promptly at 7:00pm, but come out early to socialize and grab a bit to eat!
+[Atlantic Media Strategies](http://atlanticmediastrategies.com) has offered to host this month's meeting. Join us Thursday evening, May 21st at the Watergate Office Building just a short walk from the Foggy Bottom Metro stop. We'll kick things off promptly at 7:00pm, but come out early to socialize and grab a bit to eat!

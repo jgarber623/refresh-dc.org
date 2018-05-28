@@ -10,9 +10,9 @@ rsvp:
   url: https://nvite.com/refreshdc/x1e3ye
 ---
 
-[CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/) is here! With browser makers rapdily adopting this new spec, how do we transition from using traditional grid frameworks to embracing a bold new era of layout on the web? The only way to find out is to get started and the time is now.
+[CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid) is here! With browser makers rapdily adopting this new spec, how do we transition from using traditional grid frameworks to embracing a bold new era of layout on the web? The only way to find out is to get started and the time is now.
 
-In this talk, Jess will walk through a case study building a responsive layout with CSS Grid using Glitch as a platform for collaboration. She'll cover the implementation process from wireframe to working prototype and address challenges and lessons learned along the way. This talk will feature practical code examples using CSS Grid, [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), and fallback strategies for older browsers.
+In this talk, Jess will walk through a case study building a responsive layout with CSS Grid using Glitch as a platform for collaboration. She'll cover the implementation process from wireframe to working prototype and address challenges and lessons learned along the way. This talk will feature practical code examples using CSS Grid, [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox), and fallback strategies for older browsers.
 
 ## About the Speaker
 

@@ -10,7 +10,7 @@ rsvp:
   url: http://upcoming.yahoo.com/event/197916/VA/Alexandria/Refresh-DC-June-meetup/The-Motley-Fool/
 ---
 
-[M. Jackson Wilkinson](http://jounce.net/), technologist at [Grassroots Enterprise](http://www.grassroots.com/), will be giving a Crash Course on the Mobile Web — when it matters, why it's different, and how to use it. Learn about Web Standards' next frontier and how to leverage the potential of the mobile platform's billions of users.
+[M. Jackson Wilkinson](http://jounce.net), technologist at [Grassroots Enterprise](http://www.grassroots.com), will be giving a Crash Course on the Mobile Web — when it matters, why it's different, and how to use it. Learn about Web Standards' next frontier and how to leverage the potential of the mobile platform's billions of users.
 
 Join us for what should be a fantastic discussion. Come early (~6:45pm) for food and drink, meeting starts at 7:00pm sharp!
 

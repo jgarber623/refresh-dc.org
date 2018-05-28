@@ -10,7 +10,7 @@ rsvp:
   url: http://www.eventbrite.com/e/a-dose-of-design-inspiration-from-comic-strips-tickets-4440768458
 ---
 
-Designers and comics share a long love affair that dates back pretty darn far. As two disciplines that share the integration of typography and images, there are many problems that both comickers and designers have had to solve. In this (hopefully) fun talk, [Ross Nover](http://www.friendlydesign.co/) will be reviewing the comics medium and various points of inspiration that designers can learn from their long-lost cousins the comic artists.
+Designers and comics share a long love affair that dates back pretty darn far. As two disciplines that share the integration of typography and images, there are many problems that both comickers and designers have had to solve. In this (hopefully) fun talk, [Ross Nover](http://www.friendlydesign.co) will be reviewing the comics medium and various points of inspiration that designers can learn from their long-lost cousins the comic artists.
 
 Ross is a former (and hopefully future) professor of graphic design at American University and is the co-host of Super Art Fight, a touring action-packed art performance competition. We're excited to have him bring his unique perspective on design to this month's Refresh!
 

@@ -13,4 +13,4 @@ Harassment includes offensive verbal comments related to age, gender, sexual ori
 
 Participants asked to stop any harassing behavior must immediately comply. If a participant engages in any of the aforementioned behavior, we may take any action we deem appropriate, from warning the offender to immediately expelling the offender from the venue. Participants engaging in the aforementioned behavior may also be barred from attending future Refresh DC events.
 
-This document is based on [confcodeofconduct.com](http://confcodeofconduct.com/).
+This document is based on [confcodeofconduct.com](http://confcodeofconduct.com).

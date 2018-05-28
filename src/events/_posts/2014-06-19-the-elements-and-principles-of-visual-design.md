@@ -12,6 +12,6 @@ rsvp:
 
 Visual design feedback can be challenging. How do you elaborate on, "This looks bad?" Regardless of your discipline, critiques can always be improved. By utilizing a language construct built on the elements and principles of visual design, everyone has the ability to focus on problem-solving while staving off subjective remarks.
 
-At this month's meeting, [EightShapes](http://eightshapes.com/)' [Chuck Borowicz](http://chuckborowicz.com/) will walk you through the elements and principles used by visual designers to frame reviews, explore design system directions with Style Tiles, and create visual inventories to study current design systems with.
+At this month's meeting, [EightShapes](http://eightshapes.com)' [Chuck Borowicz](http://chuckborowicz.com) will walk you through the elements and principles used by visual designers to frame reviews, explore design system directions with Style Tiles, and create visual inventories to study current design systems with.
 
-Join us on Thursday, June 19th at [nclud](http://nclud.com/) on K Street NW for Chuck's presentation. We'll be starting promptly at 7:00pm but show up early for food and drinks kindly provided by our host. You won't want to miss this one!
+Join us on Thursday, June 19th at [nclud](http://nclud.com) on K Street NW for Chuck's presentation. We'll be starting promptly at 7:00pm but show up early for food and drinks kindly provided by our host. You won't want to miss this one!

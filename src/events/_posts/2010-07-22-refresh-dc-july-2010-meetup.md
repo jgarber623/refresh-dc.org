@@ -14,7 +14,7 @@ NO BORING CONTENT ALLOWED!
 
 Since designers and developers have been busy creating standards-based work, it's understandable that they haven't necessarily kept sharp on their written word. But are we so focused on conceiving, designing, developing, and marketing the most mind-blowing ideas that we're apathetic to (correctly) adding a space between "log" and "in?"
 
-[Steph Hay](http://stephaniehay.com/) says, no way José! (The question is, do you? And who is José, anyway?)
+[Steph Hay](http://stephaniehay.com) says, no way José! (The question is, do you? And who is José, anyway?)
 
 In this talk, she'll discuss ways in which web folks can write compelling, credible content that piques interest and encourages action from readers. Refreshees will leave with tips to elevate their content game -- whether they're aiming to more successfully write dynamic résumés and cover letters, describe their work in creative portfolios, or convey value to gain one more paying subscriber.
 

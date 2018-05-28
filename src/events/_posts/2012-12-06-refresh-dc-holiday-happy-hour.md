@@ -14,12 +14,12 @@ Thanks again for making 2012 a great year and we're looking forward to seeing yo
 
 **Sponsors**
 
-- [Chief](http://www.mybigchief.com/)
-- [BrowserMedia](http://www.browsermedia.com/)
-- [Rockcreek](http://www.rockcreeksm.com/)
-- [nclud](http://nclud.com/)
+- [Chief](http://www.mybigchief.com)
+- [BrowserMedia](http://www.browsermedia.com)
+- [Rockcreek](http://www.rockcreeksm.com)
+- [nclud](http://nclud.com)
 - [Whitmoyer](http://twitter.com/whistle)
-- [Viget](http://viget.com/)
+- [Viget](http://viget.com)
 - [Canvas](http://canvas.co/work)
-- [myTaxi](http://washington.mytaxi.com/)
-- [livingsocial](http://www.livingsocial.com/)
+- [myTaxi](http://washington.mytaxi.com)
+- [livingsocial](http://www.livingsocial.com)

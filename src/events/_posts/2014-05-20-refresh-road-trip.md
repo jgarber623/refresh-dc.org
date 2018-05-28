@@ -12,7 +12,7 @@ rsvp:
   url: http://www.eventbrite.com/e/refresh-road-trip-tickets-11447857851
 ---
 
-Our friends at Refresh Chicago are taking Refresh on the road as part of their [2nd Annual Road Trip](http://refreshroadtrip.com/).
+Our friends at Refresh Chicago are taking Refresh on the road as part of their [2nd Annual Road Trip](http://refreshroadtrip.com).
 
 **JC Grubbs - Check & Balance**
 

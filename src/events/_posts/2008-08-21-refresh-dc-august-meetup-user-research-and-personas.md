@@ -19,4 +19,4 @@ We'll cover:
 - the seven types of user behaviors that everyone needs to consider
 - tips and tricks to keep your design meetings on track
 
-Lorelei Brown is her 13th year of making the Internet. She's been an information architect, user experience designer, content strategist, project manager, html jockey, and problem ninja for agencies, associations, non-profits, media companies and ISPs. Lorelei's specialty is doing a lot with a little and making it stick. She's currently thinking about how to measure and manipulate user behavior for maximum profit. You can read more about her at [http://marriedias.blogspot.com/](http://marriedias.blogspot.com/).
+Lorelei Brown is her 13th year of making the Internet. She's been an information architect, user experience designer, content strategist, project manager, html jockey, and problem ninja for agencies, associations, non-profits, media companies and ISPs. Lorelei's specialty is doing a lot with a little and making it stick. She's currently thinking about how to measure and manipulate user behavior for maximum profit. You can read more about her at [http://marriedias.blogspot.com/](http://marriedias.blogspot.com).

@@ -10,7 +10,7 @@ rsvp:
   url: http://upcoming.yahoo.com/event/160354/VA/Alexandria/Refresh-DC-March-meetup/The-Motley-Fool/
 ---
 
-Wayan Vota, of [One Laptop Per Child News](http://www.olpcnews.com/), will be leading a discussion on the impact of OLPC on web design, the "average user experience," content generation, and consumption itself in the developing world. With 5-10 million laptops set to be distributed in the next 12-18 months (the single largest computer monoculture ever shipped), children in the developing world will be consuming and producing educational content on a grand scale.
+Wayan Vota, of [One Laptop Per Child News](http://www.olpcnews.com), will be leading a discussion on the impact of OLPC on web design, the "average user experience," content generation, and consumption itself in the developing world. With 5-10 million laptops set to be distributed in the next 12-18 months (the single largest computer monoculture ever shipped), children in the developing world will be consuming and producing educational content on a grand scale.
 
 Join us for what should be a fantastic discussion. Come early (~6:30pm) for food and drink, meeting starts at 7:00pm sharp!
 

@@ -18,4 +18,4 @@ You'll learn how each of these resources can help you build a better responsive 
 
 Clarissa Peterson is a freelance web/UX designer & developer. Before setting off on her own, she spent 10 years managing websites at various nonprofits in Washington, DC. She's now working from the road while on an indefinite roadtrip (16 states and 2 provinces so far). Clarissa is currently writing a book on responsive design for O'Reilly, scheduled to be published in mid-2013. You can find her online at [clarissapeterson.com](http://clarissapeterson.com) and [@clarissa](http://twitter.com/clarissa).
 
-We're meeting this month at [Capital One Labs](https://capitalonelabs.com/) in Clarendon. The meeting kicks off promptly at 7pm, but come by early for food and drinks sponsored by our gracious hosts!
+We're meeting this month at [Capital One Labs](https://capitalonelabs.com) in Clarendon. The meeting kicks off promptly at 7pm, but come by early for food and drinks sponsored by our gracious hosts!

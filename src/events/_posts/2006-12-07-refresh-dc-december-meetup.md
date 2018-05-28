@@ -13,7 +13,7 @@ rsvp:
   url: http://upcoming.yahoo.com/event/126801/VA/Alexandria/Refresh-DC-December-Meetup/The-Motley-Fool/
 ---
 
-[Cindy Li](http://cindyli.com/), [Jeremy Carbaugh](http://carbauja.com/), [Jackson Wilkinson](http://jounce.net/), and [Jason Garber](http://sixtwothree.org/) will be leading a [Refresh '06 conference](http://refresh06.com/) wrap-up. Check out the Refresh '06 website for information on the panels so you'll have an idea of what we'll be discussing.
+[Cindy Li](http://cindyli.com), [Jeremy Carbaugh](http://carbauja.com), [Jackson Wilkinson](http://jounce.net), and [Jason Garber](http://sixtwothree.org) will be leading a [Refresh '06 conference](http://refresh06.com) wrap-up. Check out the Refresh '06 website for information on the panels so you'll have an idea of what we'll be discussing.
 
 As always, food and drink will be had afterwards. See you there!
 

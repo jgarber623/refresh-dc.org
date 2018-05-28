@@ -10,4 +10,4 @@ rsvp:
   url: http://upcoming.yahoo.com/event/419649/DC/Washington/Refresh-DC-February-meetup/APCO-Worldwide/
 ---
 
-[Martin Ringlein](http://www.marylandmedia.com/), co-founder of [nclud](http://nclud.com/), will discuss the transition from side-work to serious-work as a freelancer, touching on everything from contracts and invoicing to getting clients and growing a portfolio. He will also talk about how to start freelancing, get more clients, and obtain larger projects.
+[Martin Ringlein](http://www.marylandmedia.com), co-founder of [nclud](http://nclud.com), will discuss the transition from side-work to serious-work as a freelancer, touching on everything from contracts and invoicing to getting clients and growing a portfolio. He will also talk about how to start freelancing, get more clients, and obtain larger projects.

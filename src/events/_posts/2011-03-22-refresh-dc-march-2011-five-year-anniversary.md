@@ -20,6 +20,6 @@ We've got a few things planned, but the majority of this month's meeting will be
 - What's the best method of notifying people of upcoming events?
 - How can we better connect with the larger DC Tech community?
 
-The fine folks at [AARP](http://www.aarp.org/) are hosting us again this month. They've played a big part in Refresh DC's history over the last couple of years and we're thankful that they've once again opened their doors to us.
+The fine folks at [AARP](http://www.aarp.org) are hosting us again this month. They've played a big part in Refresh DC's history over the last couple of years and we're thankful that they've once again opened their doors to us.
 
 We're looking forward to seeing everyone on the 22nd!

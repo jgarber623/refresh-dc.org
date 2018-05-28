@@ -8,7 +8,7 @@ rsvp:
   url: http://www.eventbrite.com/e/refresh-dc-holiday-happy-hour-tickets-2586393974
 ---
 
-We're closing out another great year with our annual Holiday Happy Hour! This year, we'll be gathering at **[Bread & Brew](http://breadandbrew.com/)** located at **1247 20th St. NW**. They have a fantastic selection of drinks and amazing food.
+We're closing out another great year with our annual Holiday Happy Hour! This year, we'll be gathering at **[Bread & Brew](http://breadandbrew.com)** located at **1247 20th St. NW**. They have a fantastic selection of drinks and amazing food.
 
 To help us celebrate, we've lined up some great sponsors to assist with the bar tab. The plan is to have a Refresh DC tab that we can enjoy until we use it up.
 

@@ -11,4 +11,4 @@ rsvp:
 ---
 
 **Web Widgets: What, Why, and How**
-What the heck are web widgets? More importantly, why do some work while others fall flat? [Will Meyer](http://www.willmeyer.com/) from [Clearspring](http://www.clearspring.com/) will lead an interactive discussion on web widgets in general, and best practices specifically, with some examples as appropriate. Come ready to discuss!
+What the heck are web widgets? More importantly, why do some work while others fall flat? [Will Meyer](http://www.willmeyer.com) from [Clearspring](http://www.clearspring.com) will lead an interactive discussion on web widgets in general, and best practices specifically, with some examples as appropriate. Come ready to discuss!

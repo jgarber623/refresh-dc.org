@@ -10,4 +10,4 @@ rsvp:
   url: http://upcoming.yahoo.com/event/134804/VA/Alexandria/Refresh-DC-January-Meetup/The-Motley-Fool/
 ---
 
-[Dan Rubin](http://superfluousbanter.org/) will be joining us this month to talk about his new book, [Pro CSS Techniques](http://www.apress.com/book/bookDisplay.html?bID=10187). He'll be sharing a tip or two from the book and taking questions, so come prepared!
+[Dan Rubin](http://superfluousbanter.org) will be joining us this month to talk about his new book, [Pro CSS Techniques](https://www.apress.com/us/book/9781590597323). He'll be sharing a tip or two from the book and taking questions, so come prepared!

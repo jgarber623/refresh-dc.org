@@ -11,4 +11,4 @@ rsvp:
 ---
 
 **Accessible, Attractive Web Design**
-[John F. Croston III](http://www.jfciii.com/blog/), a web developer working with the [United States Army](http://www.armyg1.army.mil/), will be talking about web accessibility. While some examples will be technical, John will be providing high level overviews of how to build attractive, accessible web forms.
+[John F. Croston III](http://www.jfciii.com/blog), a web developer working with the [United States Army](http://www.armyg1.army.mil), will be talking about web accessibility. While some examples will be technical, John will be providing high level overviews of how to build attractive, accessible web forms.

@@ -13,7 +13,7 @@ rsvp:
   url: http://www.eventbrite.com/e/crazy-idea-to-collaborative-execution-building-beercamp-tickets-6779119529
 ---
 
-Join us at the new [nclud](http://nclud.com/) studio where some of the team will give you a behind-the-scenes look into how they created this year's [Beercamp](http://2013.beercamp.com/) – a multiplayer action platformer game!
+Join us at the new [nclud](http://nclud.com) studio where some of the team will give you a behind-the-scenes look into how they created this year's [Beercamp](http://2013.beercamp.com) – a multiplayer action platformer game!
 
 With a series of quick talks they'll share the process of going from concept art to production design, coding a real game environment for the browser, putting it all together, and why they ended up rolling their own server.
 

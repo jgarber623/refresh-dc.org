@@ -14,6 +14,6 @@ rsvp:
 
 **Our site will crash your box.**
 
-Alex Giron, Dave DeSandro and Brandon Vaughan from nclud will discuss their experience on the recent redesign of their own site, [nclud.com](http://nclud.com/). Come hear the triumphs and tragedies of designing for crazy screen sizes, developing with bleeding-edge technologies, and building a back-end system to make sense of it all.
+Alex Giron, Dave DeSandro and Brandon Vaughan from nclud will discuss their experience on the recent redesign of their own site, [nclud.com](http://nclud.com). Come hear the triumphs and tragedies of designing for crazy screen sizes, developing with bleeding-edge technologies, and building a back-end system to make sense of it all.
 
 Get here early to mingle, snack and grab a good seat!

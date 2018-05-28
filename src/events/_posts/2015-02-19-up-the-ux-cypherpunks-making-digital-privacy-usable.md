@@ -12,6 +12,6 @@ rsvp:
 
 The public demand for digital privacy and surveillance circumvention tools has never been higher, despite the technology's reputation for poor usability. Thanks to countless talented members of the surveillance tech community, User Experience has become a much more important part of the development process—but there's still work to do. We'll explore what's at stake and what can be done to help.
 
-[Kaytee Nesmith](http://www.kayteenesmith.com/) is a user experience designer, fledgling software developer and devoted Rush fan. She leads UX efforts for Marriott Mobile by day, and researches user needs and behaviors for the Open Internet Tools Project by night.
+[Kaytee Nesmith](http://www.kayteenesmith.com) is a user experience designer, fledgling software developer and devoted Rush fan. She leads UX efforts for Marriott Mobile by day, and researches user needs and behaviors for the Open Internet Tools Project by night.
 
-This month, we'll be back at [nclud](http://nclud.com/) on K St. NW just around the corner from the McPherson Square Metro Station (Orange Line). We'll be kicking things off at 7pm sharp, but come out early to get settled and enjoy some refreshments provided by our generous hosts!
+This month, we'll be back at [nclud](http://nclud.com) on K St. NW just around the corner from the McPherson Square Metro Station (Orange Line). We'll be kicking things off at 7pm sharp, but come out early to get settled and enjoy some refreshments provided by our generous hosts!

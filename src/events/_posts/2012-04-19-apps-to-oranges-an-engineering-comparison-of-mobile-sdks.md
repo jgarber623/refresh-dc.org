@@ -19,13 +19,13 @@ The goal isn't to tell you which mobile SDK is the best (insert picture of genet
 
 **Our Featured Panelists:**
 
-- Sean Soper, iOS Developer at [The Washington Post](http://www.washingtonpost.com/)
-- Eric Mill, Android Developer at [Sunlight Foundation](http://sunlightfoundation.com/)
-- Ashish Jaiman, Windows Phone Architect Evangelist at [Microsoft](http://www.microsoft.com/)
+- Sean Soper, iOS Developer at [The Washington Post](http://www.washingtonpost.com)
+- Eric Mill, Android Developer at [Sunlight Foundation](http://sunlightfoundation.com)
+- Ashish Jaiman, Windows Phone Architect Evangelist at [Microsoft](http://www.microsoft.com)
 
 **Moderator:**
 
-- Chris Clarke, Senior Product Manager at [Capital One Digital Innovation Lab](https://www.capitalone.com/)
+- Chris Clarke, Senior Product Manager at [Capital One Digital Innovation Lab](https://www.capitalone.com)
 
 The meeting will start promptly at 7pm, but we'll have food & beverages (thanks to [canvas.co/work](http://canvas.co/work)) at 6:30pm.
 

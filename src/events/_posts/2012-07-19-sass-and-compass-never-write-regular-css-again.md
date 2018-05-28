@@ -12,6 +12,6 @@ rsvp:
 
 It's time to find out about the hype behind SASS and Compass. Don't write plain old boring CSS when you can be using mixins, variables, and automatically-generated sprites.
 
-This month, Viget's [Trevor Davis](http://trevordavis.net/) walks us through the basics of SASS and Compass, providing insight into how to integrate these two awesome tools into your front-end development workflow.
+This month, Viget's [Trevor Davis](http://trevordavis.net) walks us through the basics of SASS and Compass, providing insight into how to integrate these two awesome tools into your front-end development workflow.
 
 The meeting starts promptly at 7pm, but show up early to mingle and grab a seat!

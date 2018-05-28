@@ -20,4 +20,4 @@ Maxim has worked with brands that include Amazon, Disney, Dole, DeWalt, The Mari
 
 ## About WDG
 
-This month, we'll be meeting in [WDG](https://www.webdevelopmentgroup.com/2018/02/wdg-new-arlington-virginia-office-now-open-for-business/)'s new offices in Arlington, VA. They're a stone's throw away from the Clarendon Metro Station on the Orange and Silver Lines. We're excited to be visiting their space for the first time!
+This month, we'll be meeting in [WDG](https://www.webdevelopmentgroup.com/2018/02/wdg-new-arlington-virginia-office-now-open-for-business)'s new offices in Arlington, VA. They're a stone's throw away from the Clarendon Metro Station on the Orange and Silver Lines. We're excited to be visiting their space for the first time!

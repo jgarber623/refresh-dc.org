@@ -10,6 +10,6 @@ rsvp:
   url: http://upcoming.yahoo.com/event/115960/VA/Alexandria/Refresh-DC-October-Meetup/The-Motley-Fool/
 ---
 
-Alex Giron, creator of [CSS Beauty](http://www.cssbeauty.com/), presents "Passionate Web Entrepreneurship (It's not all Flickrs, diggs, and Basecamps)."
+Alex Giron, creator of [CSS Beauty](http://www.cssbeauty.com), presents "Passionate Web Entrepreneurship (It's not all Flickrs, diggs, and Basecamps)."
 
 The Motley Fool's offices are located on Duke Street just across from the King Street Metro station on the Yellow/Blue lines.
