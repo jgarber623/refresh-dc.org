@@ -1,48 +1,48 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-	<meta charset="utf-8">
+  <meta charset="utf-8">
 
-	{% capture page_title -%}
-		{%- if page.title -%}
-			{{ page.title }} – {{ site.title }}
-		{%- else -%}
-			{{ site.title }} – The best and brightest new media professionals in the DC metro area
-		{%- endif -%}
-	{% endcapture -%}
+  {% capture page_title -%}
+    {%- if page.title -%}
+      {{ page.title }} – {{ site.title }}
+    {%- else -%}
+      {{ site.title }} – The best and brightest new media professionals in the DC metro area
+    {%- endif -%}
+  {% endcapture -%}
 
-	<title>{{ page_title }}</title>
+  <title>{{ page_title }}</title>
 
-	<meta name="apple-mobile-web-app-title" content="{{ site.title }}">
-	<meta name="application-name" content="{{ site.title }}">
-	<meta name="description" content="{{ site.description }}">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
+  <meta name="application-name" content="{{ site.title }}">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@refreshdc">
-	<meta property="og:description" content="{{ site.description }}">
-	<meta property="og:image" content="https://refresh-dc.org{% asset refreshdc.png @path %}">
-	<meta property="og:title" content="{{ page_title }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@refreshdc">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="https://refresh-dc.org{% asset refreshdc.png @path %}">
+  <meta property="og:title" content="{{ page_title }}">
 
-	<link rel="apple-touch-icon" href="{% asset refreshdc.png @path %}">
-	<link rel="shortcut icon" href="{% asset refreshdc.png @path %}">
-	{% asset application.css !type %}
+  <link rel="apple-touch-icon" href="{% asset refreshdc.png @path %}">
+  <link rel="shortcut icon" href="{% asset refreshdc.png @path %}">
+  {% asset application.css !type %}
 </head>
 <body>
 
-	<div class="global-wrapper">
-		<header class="global-header" role="banner">
-			<h1><a href="/" class="h-card" rel="home">{{ site.title }}</a></h1>
-		</header>
+  <div class="global-wrapper">
+    <header class="global-header" role="banner">
+      <h1><a href="/" class="h-card" rel="home">{{ site.title }}</a></h1>
+    </header>
 
-		<main class="global-content" role="main">
-			{{ content }}
-		</main>
+    <main class="global-content" role="main">
+      {{ content }}
+    </main>
 
-		<footer class="global-footer" role="contentinfo">
-			<small>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org" rel="source">GitHub</a>.</small>
-		</footer>
-	</div>
+    <footer class="global-footer" role="contentinfo">
+      <small>Some rights reserved. This site’s content is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a>. Source code available on <a href="https://github.com/jgarber623/refresh-dc.org" rel="source">GitHub</a>.</small>
+    </footer>
+  </div>
 
 </body>
 </html>
