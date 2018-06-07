@@ -4,9 +4,6 @@ rules:
   force-attribute-nesting: 0
   force-element-nesting: 0
   force-pseudo-nesting: 0
-  indentation:
-    - 2
-    - size: 'tab'
   leading-zero:
     - 2
     - include: true

@@ -1,100 +1,100 @@
 // sass-lint:disable no-vendor-prefixes
 @-ms-viewport {
-	width: device-width;
+  width: device-width;
 }
 // sass-lint:enable no-vendor-prefixes
 
 *,
 *::before,
 *::after {
-	box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 // sass-lint:disable no-vendor-prefixes
 html {
-	-ms-text-size-adjust: 100%;
-	-webkit-text-size-adjust: 100%;
-	background-attachment: fixed;
-	background-color: $color-blue-dark;
-	background-image: radial-gradient(50% 50%, $color-blue-light, $color-blue-dark);
-	background-repeat: no-repeat;
-	box-sizing: border-box;
-	line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  background-attachment: fixed;
+  background-color: $color-blue-dark;
+  background-image: radial-gradient(50% 50%, $color-blue-light, $color-blue-dark);
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  line-height: 1.15;
 }
 // sass-lint:enable no-vendor-prefixes
 
 body {
-	color: $color-white;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	line-height: 1.5;
-	margin: 0;
+  color: $color-white;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  line-height: 1.5;
+  margin: 0;
 }
 
 footer,
 header,
 main {
-	display: block;
+  display: block;
 }
 
 h1 {
-	font-size: 2rem;
-	margin: 0.67rem 0;
+  font-size: 2rem;
+  margin: 0.67rem 0;
 }
 
 hr {
-	background-color: $color-white;
-	background-color: rgba($color-white, 0.15);
-	border: 0;
-	box-sizing: content-box;
-	height: 0.125rem;
-	margin: 2rem auto;
-	overflow: visible;
-	width: 50%;
+  background-color: $color-white;
+  background-color: rgba($color-white, 0.15);
+  border: 0;
+  box-sizing: content-box;
+  height: 0.125rem;
+  margin: 2rem auto;
+  overflow: visible;
+  width: 50%;
 }
 
 // sass-lint:disable no-vendor-prefixes
 a {
-	-webkit-text-decoration-skip: objects;
-	background-color: transparent;
-	color: $color-white;
-	color: rgba($color-white, 0.5);
+  -webkit-text-decoration-skip: objects;
+  background-color: transparent;
+  color: $color-white;
+  color: rgba($color-white, 0.5);
 
-	&:focus,
-	&:hover {
-		color: rgba($color-white, 0.7);
-	}
+  &:focus,
+  &:hover {
+    color: rgba($color-white, 0.7);
+  }
 }
 // sass-lint:enable no-vendor-prefixes
 
 // sass-lint:disable no-qualifying-elements
 abbr[title] {
-	border-bottom: 0;
-	text-decoration: underline;
-	text-decoration: underline dotted;
+  border-bottom: 0;
+  text-decoration: underline;
+  text-decoration: underline dotted;
 }
 // sass-lint:enable no-qualifying-elements
 
 b,
 strong {
-	font-weight: bolder;
+  font-weight: bolder;
 }
 
 small {
-	font-size: 80%;
+  font-size: 80%;
 }
 
 sup {
-	font-size: 75%;
-	line-height: 0;
-	position: relative;
-	top: -0.5em;
-	vertical-align: baseline;
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  top: -0.5em;
+  vertical-align: baseline;
 }
 
 img {
-	border-style: none;
+  border-style: none;
 }
 
 svg:not(:root) {
-	overflow: hidden;
+  overflow: hidden;
 }

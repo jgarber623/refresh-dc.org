@@ -1,32 +1,32 @@
 .global-header {
-	margin: 4rem 0 2rem 0;
+  margin: 4rem 0 2rem 0;
 
-	@include breakpoint($bp-medium) {
-		margin-top: 8rem;
-	}
+  @include breakpoint($bp-medium) {
+    margin-top: 8rem;
+  }
 
-	h1 {
-		margin: 0 0 0 -2.125rem;
-	}
+  h1 {
+    margin: 0 0 0 -2.125rem;
+  }
 
-	a {
-		background: asset-url("logo.png");
-		background: none, asset-url("logo.svg");
-		background-position: 0 0;
-		background-repeat: no-repeat;
-		background-size: contain;
-		display: block;
-		height: 75px;
-		overflow: hidden;
-		position: relative;
-		text-indent: 100%;
-		text-shadow: none;
-		white-space: nowrap;
-		width: 300px;
+  a {
+    background: asset-url("logo.png");
+    background: none, asset-url("logo.svg");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    height: 75px;
+    overflow: hidden;
+    position: relative;
+    text-indent: 100%;
+    text-shadow: none;
+    white-space: nowrap;
+    width: 300px;
 
-		&:focus,
-		&:hover {
-			opacity: 0.8;
-		}
-	}
+    &:focus,
+    &:hover {
+      opacity: 0.8;
+    }
+  }
 }
