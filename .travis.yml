@@ -13,8 +13,7 @@ install:
 before_script:
   - npm run build
 script:
-  - npm run test:html
-  - npm run test:sass
+  - npm test
 notifications:
   email: false
   slack:
