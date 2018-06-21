@@ -1,5 +1,0 @@
-https://refresh-dc-org.netlify.com/* https://refresh-dc.org/:splat 301!
-
-/conduct     /conduct/index.html     200!
-/events/*    /events/:splat.html     200!
-/events      /events/index.html      200!

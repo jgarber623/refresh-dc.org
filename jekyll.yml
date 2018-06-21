@@ -1,10 +1,6 @@
 source: ./src
 destination: ./public
 
-include:
-  - _headers
-  - _redirects
-
 host: 0.0.0.0
 
 future: true
@@ -31,3 +27,31 @@ assets:
       integrity: true
   sources:
     - _assets/stylesheets
+
+netlify:
+  headers:
+    - paths:
+        - /*
+      headers:
+        - "Cache-Control: no-cache"
+        - "Strict-Transport-Security: max-age=31536000; includeSubDomains"
+    - paths:
+        - /
+        - /conduct/*
+        - /events/*
+      headers:
+        - "Content-Security-Policy: default-src 'self'; frame-ancestors 'none';"
+        - "X-Frame-Options: SAMEORIGIN"
+        - "X-XSS-Protection: 1; mode=block"
+    - paths:
+        - /assets/*
+      headers:
+        - "Cache-Control: max-age=31536000, immutable"
+    - paths:
+        - /assets/*.css
+      headers:
+        - "X-Content-Type-Options: nosniff"
+  redirects:
+    - https://refresh-dc-org.netlify.com/* https://refresh-dc.org/:splat 301!
+    - /conduct/*    /conduct/:splat.html    200!
+    - /events/*     /events/:splat.html     200!
