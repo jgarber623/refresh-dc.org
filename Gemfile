@@ -10,7 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-netlify-headers', '~> 0.1.0'
   gem 'jekyll-netlify-redirects', '~> 0.1.0'
   gem 'sass-globbing', '~> 1.1', '>= 1.1.5'
-  gem 'uglifier', '~> 4.1', '>= 4.1.12'
+  gem 'uglifier', '~> 4.1', '>= 4.1.13'
 end
 
 group :test do

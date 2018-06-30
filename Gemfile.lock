@@ -129,7 +129,7 @@ DEPENDENCIES
   jekyll-netlify-headers (~> 0.1.0)
   jekyll-netlify-redirects (~> 0.1.0)
   sass-globbing (~> 1.1, >= 1.1.5)
-  uglifier (~> 4.1, >= 4.1.12)
+  uglifier (~> 4.1, >= 4.1.13)
 
 RUBY VERSION
    ruby 2.4.3p205
