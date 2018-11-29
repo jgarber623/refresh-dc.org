@@ -4,7 +4,7 @@
   "scripts": {
     "build": "bundle exec jekyll build --config jekyll.yml --profile --trace",
     "start": "bundle exec jekyll serve --config jekyll.yml --trace",
-    "test": "$(npm bin)/npm-run-all test:*",
+    "test": "$(npm bin)/npm-run-all --print-label test:*",
     "test:html": "bundle exec htmlproofer ./public --assume-extension --disable-external --only-4xx",
     "test:sass": "$(npm bin)/sass-lint --no-exit --verbose"
   },
