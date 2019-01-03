@@ -30,6 +30,10 @@ anthony_pappas:
   name: Anthony Pappas
   url: http://www.pappasgroup.com
 
+antoinette_janus:
+  name: Antoinette Janus
+  url: https://acjanus.co
+
 ashish_jaiman:
   name: Ashish Jaiman
   url: http://www.microsoft.com
@@ -37,6 +41,10 @@ ashish_jaiman:
 barbara_berschler:
   name: Barbara Berschler
   url: http://www.presspotterlaw.com
+
+ben_hong:
+  name: Ben Hong
+  url: https://www.bencodezen.io
 
 benjamin_sterling:
   name: Benjamin Sterling
@@ -425,6 +433,10 @@ shay_howe:
 stephanie_hay:
   name: Stephanie Hay
   url: http://stephaniehay.com
+
+stephanie_sell:
+  name: Stephanie Sell
+  url: https://www.stephanie-sell.com
 
 steve_wendel:
   name: Steve Wendel
