@@ -14,5 +14,5 @@ group :jekyll_plugins do
 end
 
 group :test do
-  gem 'html-proofer', '~> 3.9'
+  gem 'html-proofer', '~> 3.10'
 end
