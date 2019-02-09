@@ -230,6 +230,10 @@ jo_golden:
   name: Dr. Jo Golden
   url: https://twitter.com/jogolden
 
+joanne_lee:
+  name: Joanne Lee
+  url: https://twitter.com/joannejoolee
+
 john_f_croston_iii:
   name: John F. Croston III
   url: http://www.jfciii.com/blog
@@ -334,6 +338,10 @@ matt_yoho:
   name: Matt Yoho
   url: http://mattyoho.com
 
+matthew_callahan:
+  name: Matthew Callahan
+  url: https://twitter.com/mg_callahan
+
 maxim_leyzerovich:
   name: Maxim Leyzerovich
   url: https://twitter.com/round
@@ -357,6 +365,10 @@ mike_obrien:
 nathan_curtis:
   name: Nathan Curtis
   url: https://eightshapes.com
+
+nick_kirkpatrick:
+  name: Nick Kirkpatrick
+  url: https://twitter.com/n_kirkpatrick
 
 nick_whitmoyer:
   name: Nick Whitmoyer
