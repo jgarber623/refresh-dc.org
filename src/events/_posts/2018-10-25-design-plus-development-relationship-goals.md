@@ -19,7 +19,7 @@ Doors open at 6:30 PM, and the presentation will begin promptly at 7 PM. Drinks 
 
 ## About Our Speakers
 
-[Stephanie Sell](http://stephanie-sell.com) is a Senior UX Designer at Capital One working within consumer bank’s research and development team. Previously, she worked at Gannett | USA Today Network designing the 2016 Election experience and their VR experiences. In her spare time, she makes custom calligraphy pieces for weddings and events.
+[Stephanie Sell](http://stephanie-sell.com) is a Senior UX Designer at Capital One working within consumer bank’s research and development team. Previously, she worked at Gannett \| USA Today Network designing the 2016 Election experience and their VR experiences. In her spare time, she makes custom calligraphy pieces for weddings and events.
 
 [Ben Hong](https://www.bencodezen.io) is a Lead UI Developer at POLITICO who helps to design and build solutions across web and mobile platforms. Previously, he worked across various federal government projects like Medicare and NASA. He has spoken at VueConf US, DevFestDC, and O'Reilly's Fluent conference. In addition, he can be found running coding workshops, and helping to organize frontend meetups.
 
