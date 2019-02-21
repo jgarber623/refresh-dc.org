@@ -6,7 +6,6 @@ cache:
     - node_modules
     - vendor/bundle
 before_install:
-  - gem install bundler -v '~> 1.17'
   - nvm install node
 install:
   - bundle install --path vendor/bundle
