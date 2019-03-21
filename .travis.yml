@@ -1,12 +1,11 @@
 language: ruby
-rvm:
-  - 2.4.3
 cache:
   directories:
     - node_modules
     - vendor/bundle
 before_install:
-  - gem install bundler -v '~> 1.17'
+  - gem update --system
+  - gem install bundler
   - nvm install node
 install:
   - bundle install --path vendor/bundle
