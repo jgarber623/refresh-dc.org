@@ -113,6 +113,11 @@ lmo_advertising:
   address: 1776 Wilson Blvd., 5th Floor, Arlington, VA 22209
   url: http://www.lmo.com
 
+makeoffices:
+  name: MakeOffices at the Wharf
+  address: '800 Maine Ave. SW, Suite #200 Washington, DC 20024'
+  url: https://makeoffices.com/locations/washington-dc/the-wharf/
+
 mapbox:
   name: Mapbox
   address: 740 15th St. NW, 5th Floor, Washington, DC 20005

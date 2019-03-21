@@ -2,6 +2,10 @@ alex_giron:
   name: Alex Giron
   url: http://www.cssbeauty.com
 
+alisa_march:
+  name: Alisa March
+  url: https://twitter.com/pixelant
+
 ally_fouts:
   name: Ally Fouts
   url: http://www.allyfouts.com
@@ -294,6 +298,10 @@ kit_oliynyk:
   name: Kit Oliynyk
   url: http://letsdesign.it
 
+laura_giron:
+  name: Laura Giron
+  url: https://twitter.com/lauragirons
+
 laura_mcguigan:
   name: Laura McGuigan
   url: http://www.lauramcguigan.com
@@ -493,3 +501,7 @@ will_meyer:
 zach_goodwin:
   name: Zach Goodwin
   url: https://twitter.com/zbgoodwin
+
+zach_kalman:
+  name: Zach Kalman
+  url: https://medium.com/@zachkalman
