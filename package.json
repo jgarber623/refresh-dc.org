@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "build": "bundle exec jekyll build --config jekyll.yml --profile --trace",
+    "pretest": "npm run build",
     "start": "bundle exec jekyll serve --config jekyll.yml --trace",
     "test": "npx npm-run-all --print-label test:*",
     "test:html": "bundle exec htmlproofer ./public --assume-extension --disable-external --only-4xx",
