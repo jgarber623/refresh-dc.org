@@ -8,6 +8,11 @@ alley:
   address: 2055 L St. NW, 4th Floor, Washington DC, 20036
   url: https://youralley.com
 
+antunovich_associates:
+  name: Antunovich Associates
+  address: 1144 3rd St. NE, Washington, DC 20002
+  url: https://www.antunovich.com
+
 apco_worldwide:
   name: APCO Worldwide
   address: 700 12th St. NW, Suite 800, Washington, DC 20005
@@ -57,6 +62,11 @@ chief:
   name: CHIEF
   address: 1900 M St. NW, Washington, DC 20036
   url: https://agencychief.com
+
+compass:
+  name: Compass
+  address: 1200 19th St. NW, Suite 210, Washington, DC 20036
+  url: https://www.compass.com
 
 elephant_and_castle:
   name: Elephant & Castle
@@ -198,6 +208,11 @@ strategic_analysis_inc:
   address: 3601 Wilson Blvd., Suite 600, Arlington, VA 22201
   url: http://www.sainc.com
 
+threespot_media:
+  name: Threespot Media
+  address: '806 7th St. NW, #201, Washington, DC 20001'
+  url: https://www.threespot.com
+
 viget_labs:
   name: Viget Labs
   address: 400 South Maple Ave., Suite 200, Falls Church, VA 22046
@@ -232,3 +247,8 @@ wework_k_street:
   name: WeWork K Street
   address: 1875 K St, NW, Washington, DC 20006
   url: https://www.wework.com/buildings/k-street--washington-DC
+
+wunder_garten:
+  name: Wunder Garten
+  address: 1101 First St. NE, Washington, DC 20002
+  url: https://www.wundergartendc.com
