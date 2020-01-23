@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-netlify-headers', '~> 0.2.0'
   gem 'jekyll-netlify-redirects', '~> 0.2.0'
   gem 'sass-globbing', '~> 1.1'
+  gem 'sprockets', '~> 3.7'
   gem 'uglifier', '~> 4.2'
 end
 
