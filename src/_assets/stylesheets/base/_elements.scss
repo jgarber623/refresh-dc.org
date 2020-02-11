@@ -1,8 +1,6 @@
-// sass-lint:disable no-vendor-prefixes
 @-ms-viewport {
   width: device-width;
 }
-// sass-lint:enable no-vendor-prefixes
 
 *,
 *::before,
@@ -10,18 +8,16 @@
   box-sizing: inherit;
 }
 
-// sass-lint:disable no-vendor-prefixes
 html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
   background-attachment: fixed;
   background-color: $color-blue-dark;
   background-image: radial-gradient(50% 50%, $color-blue-light, $color-blue-dark);
   background-repeat: no-repeat;
   box-sizing: border-box;
   line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
-// sass-lint:enable no-vendor-prefixes
 
 body {
   color: $color-white;
@@ -52,27 +48,23 @@ hr {
   width: 50%;
 }
 
-// sass-lint:disable no-vendor-prefixes
 a {
-  -webkit-text-decoration-skip: objects;
   background-color: transparent;
   color: $color-white;
   color: rgba($color-white, 0.5);
+  -webkit-text-decoration-skip: objects;
 
   &:focus,
   &:hover {
     color: rgba($color-white, 0.7);
   }
 }
-// sass-lint:enable no-vendor-prefixes
 
-// sass-lint:disable no-qualifying-elements
 abbr[title] {
   border-bottom: 0;
   text-decoration: underline;
   text-decoration: underline dotted;
 }
-// sass-lint:enable no-qualifying-elements
 
 b,
 strong {
