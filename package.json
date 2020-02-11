@@ -7,10 +7,13 @@
     "start": "bundle exec jekyll serve --config jekyll.yml --trace",
     "test": "npx npm-run-all --print-label test:*",
     "test:html": "bundle exec htmlproofer ./public --assume-extension --disable-external --only-4xx",
-    "test:sass": "npx sass-lint --no-exit --verbose"
+    "test:sass": "npx stylelint --color **/*.scss"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5",
-    "sass-lint": "^1.13.1"
+    "stylelint": "^13.1.0",
+    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-order": "^4.0.0",
+    "stylelint-scss": "^3.14.2"
   }
 }
