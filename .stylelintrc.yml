@@ -2,5 +2,9 @@ extends: 'stylelint-config-recommended-scss'
 plugins:
   - stylelint-order
   - stylelint-scss
+ignoreFiles:
+  - '/node_modules/'
+  - '/public/'
+  - '/vendor/'
 rules:
   order/properties-alphabetical-order: true
