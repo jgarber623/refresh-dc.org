@@ -23,7 +23,7 @@ GEM
     extras (0.3.0)
       forwardable-extended (~> 2.5)
     fastimage (2.1.7)
-    ffi (1.12.2)
+    ffi (1.13.0)
     forwardable-extended (2.6.0)
     html-proofer (3.15.3)
       addressable (~> 2.3)
