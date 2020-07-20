@@ -2,11 +2,11 @@ ruby '2.6.2'
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.8'
+gem 'jekyll', '~> 4.0', '>= 4.0.0'
 
 group :jekyll_plugins do
   gem 'breakpoint', '~> 2.7'
-  gem 'jekyll-assets', '~> 3.0'
+  gem 'jekyll-assets', '~> 3.0', '>= 3.0.12'
   gem 'jekyll-netlify-headers', '~> 0.2.0'
   gem 'jekyll-netlify-redirects', '~> 0.2.0'
   gem 'sass-globbing', '~> 1.1'
