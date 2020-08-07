@@ -129,7 +129,7 @@ DEPENDENCIES
   breakpoint (~> 2.7)
   html-proofer (~> 3.15)
   jekyll (~> 3.9)
-  jekyll-assets (~> 3.0)
+  jekyll-assets (~> 3.0, >= 3.0.12)
   jekyll-netlify-headers (~> 0.2.0)
   jekyll-netlify-redirects (~> 0.2.0)
   kramdown-parser-gfm (~> 1.1)
