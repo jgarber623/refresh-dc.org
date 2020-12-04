@@ -2,7 +2,7 @@ ruby '2.6.2'
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.9'
+gem 'jekyll', '3.9'
 
 group :jekyll_plugins do
   gem 'breakpoint', '~> 2.7'
@@ -16,5 +16,5 @@ group :jekyll_plugins do
 end
 
 group :test do
-  gem 'html-proofer', '~> 3.16'
+  gem 'html-proofer', '~> 3.17'
 end
