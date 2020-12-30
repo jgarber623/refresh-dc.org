@@ -1,0 +1,92 @@
+@-ms-viewport {
+  width: device-width;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  background-attachment: fixed;
+  background-color: var(--color-blue-dark);
+  background-image: radial-gradient(50% 50%, var(--color-blue-light), var(--color-blue-dark));
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  color: var(--color-white);
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+}
+
+footer,
+header,
+main {
+  display: block;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0.67rem 0;
+}
+
+hr {
+  background-color: var(--color-white);
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 0;
+  box-sizing: content-box;
+  height: 0.125rem;
+  margin: 2rem auto;
+  overflow: visible;
+  width: 50%;
+}
+
+a {
+  background-color: transparent;
+  color: var(--color-white);
+  color: rgba(255, 255, 255, 0.5);
+  -webkit-text-decoration-skip: objects;
+
+  &:focus,
+  &:hover {
+    color: rgba(255, 255, 255, 0.7);
+  }
+}
+
+abbr[title] {
+  border-bottom: 0;
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+small {
+  font-size: 80%;
+}
+
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  top: -0.5em;
+  vertical-align: baseline;
+}
+
+img {
+  border-style: none;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}

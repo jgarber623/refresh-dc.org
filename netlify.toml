@@ -1,0 +1,31 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; frame-ancestors 'none';"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+
+[[headers]]
+  for = "/favicon.ico"
+  [headers.values]
+    Content-Type = "image/x-icon"
+
+[[redirects]]
+  from   = "https://refresh-dc-org.netlify.com/*"
+  to     = "https://refresh-dc.org/:splat"
+  status = 301
+  force  = true
+
+[[redirects]]
+  from   = "/conduct/*"
+  to     = "/conduct/:splat.html"
+  status = 200
+  force  = true
+
+[[redirects]]
+  from   = "/events/*"
+  to     = "/events/:splat.html"
+  status = 200
+  force  = true

@@ -1,18 +1,7 @@
 dist: xenial
-language: ruby
-cache:
-  directories:
-    - node_modules
-    - vendor/bundle
-before_install:
-  - nvm install node
-install:
-  - bundle install --path vendor/bundle
-  - npm install
+language: node_js
 before_script:
   - npm run build
-script:
-  - npm test
 notifications:
   email: false
   slack:

@@ -1,0 +1,32 @@
+.global-header {
+  margin: 4rem 0 2rem 0;
+
+  @media (min-width: 33rem) {
+    margin-top: 8rem;
+  }
+
+  & h1 {
+    margin: 0 0 0 -2.125rem;
+  }
+
+  & a {
+    background: url("../images/logo.png");
+    background: none, url("../images/logo.svg");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    height: 75px;
+    overflow: hidden;
+    position: relative;
+    text-indent: 100%;
+    text-shadow: none;
+    white-space: nowrap;
+    width: 300px;
+
+    &:focus,
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}

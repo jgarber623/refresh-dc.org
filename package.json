@@ -1,19 +1,43 @@
 {
   "name": "refresh-dc.org",
   "private": true,
+  "homepage": "https://github.com/jgarber623/refresh-dc.org",
+  "bugs": {
+    "url": "https://github.com/jgarber623/refresh-dc.org/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Jason Garber",
+    "url": "https://sixtwothree.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgarber623/refresh-dc.org"
+  },
   "scripts": {
-    "build": "bundle exec jekyll build --config jekyll.yml --profile --trace",
-    "pretest": "npm run build",
-    "start": "bundle exec jekyll serve --config jekyll.yml --trace",
-    "test": "npx npm-run-all --print-label test:*",
-    "test:html": "bundle exec htmlproofer ./public --assume-extension --disable-external --only-4xx",
-    "test:sass": "npx stylelint --color **/*.scss"
+    "build": "npx @11ty/eleventy --quiet",
+    "clean": "rm -rf public",
+    "lint": "FORCE_COLOR=1 npx npm-run-all --continue-on-error --serial lint:**",
+    "lint:scripts": "npx eslint .",
+    "lint:styles": "npx stylelint ./src/**/*.css",
+    "prebuild": "npm run clean",
+    "prestart": "npm run clean",
+    "start": "npx @11ty/eleventy --quiet --serve",
+    "test": "npm run lint"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "cssnano": "^4.1.10",
+    "dayjs": "^1.9.8",
+    "eslint": "^7.16.0",
+    "js-yaml": "^3.14.1",
+    "markdown-it": "^12.0.4",
     "npm-run-all": "^4.1.5",
+    "postcss": "^8.2.2",
+    "postcss-easy-import": "^3.0.0",
+    "postcss-nesting": "^7.0.1",
     "stylelint": "^13.8.0",
-    "stylelint-config-recommended-scss": "^4.2.0",
-    "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.18.0"
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0"
   }
 }
