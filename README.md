@@ -4,7 +4,6 @@ Love the [Refresh DC website](https://refresh-dc.org)? Cool!
 
 Hate the Refresh DC website? Help us make it better. Fork this repository and get to work!
 
-[![Build Status](https://img.shields.io/travis/com/jgarber623/refresh-dc.org/master.svg?style=flat-square)](https://travis-ci.com/github/jgarber623/refresh-dc.org)
 [![Dependencies](https://img.shields.io/depfu/jgarber623/refresh-dc.org.svg?style=flat-square)](https://depfu.com/github/jgarber623/refresh-dc.org)
 [![Known Vulnerabilities](https://snyk.io/test/github/jgarber623/refresh-dc.org/badge.svg?style=flat-square)](https://snyk.io/test/github/jgarber623/refresh-dc.org)
 
