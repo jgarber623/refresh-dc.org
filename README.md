@@ -4,8 +4,8 @@ Love the [Refresh DC website](https://refresh-dc.org)? Cool!
 
 Hate the Refresh DC website? Help us make it better. Fork this repository and get to work!
 
-[![Dependencies](https://img.shields.io/depfu/jgarber623/refresh-dc.org.svg?style=flat-square)](https://depfu.com/github/jgarber623/refresh-dc.org)
-[![Known Vulnerabilities](https://snyk.io/test/github/jgarber623/refresh-dc.org/badge.svg?style=flat-square)](https://snyk.io/test/github/jgarber623/refresh-dc.org)
+[![Deployment](https://img.shields.io/netlify/fc49b76a-b0c2-4f46-bf94-9ef728948e6b?logo=netlify&style=for-the-badge)](https://app.netlify.com/sites/refresh-dc-org/deploys)
+[![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/jgarber623/refresh-dc.org?logo=snyk&style=for-the-badge)](https://snyk.io/test/github/jgarber623/refresh-dc.org)
 
 ## License
 
