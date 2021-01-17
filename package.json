@@ -15,14 +15,14 @@
     "url": "https://github.com/jgarber623/refresh-dc.org"
   },
   "scripts": {
-    "build": "npx @11ty/eleventy --quiet",
+    "build": "eleventy --quiet",
     "clean": "rm -rf public",
-    "lint": "FORCE_COLOR=1 npx npm-run-all --continue-on-error --serial lint:**",
-    "lint:scripts": "npx eslint .",
-    "lint:styles": "npx stylelint ./src/**/*.css",
+    "lint": "FORCE_COLOR=1 npm-run-all --continue-on-error --serial lint:**",
+    "lint:scripts": "eslint .",
+    "lint:styles": "stylelint ./src/**/*.css",
     "prebuild": "npm run clean",
     "prestart": "npm run clean",
-    "start": "npx @11ty/eleventy --quiet --serve",
+    "start": "eleventy --quiet --serve",
     "test": "npm run lint"
   },
   "devDependencies": {
