@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "cssnano": "^5.0.8",
+    "cssnano": "^5.0.10",
     "dayjs": "^1.10.7",
     "eslint": "^8.1.0",
     "js-yaml": "^4.1.0",
