@@ -1,3 +1,4 @@
+/* stylelint-disable-next-line at-rule-no-vendor-prefix */
 @-ms-viewport {
   width: device-width;
 }
@@ -39,7 +40,7 @@ h1 {
 
 hr {
   background-color: var(--color-white);
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255 255 255 / 15%);
   border: 0;
   box-sizing: content-box;
   height: 0.125rem;
@@ -51,12 +52,12 @@ hr {
 a {
   background-color: transparent;
   color: var(--color-white);
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255 255 255 / 50%);
   -webkit-text-decoration-skip: objects;
 
   &:focus,
   &:hover {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255 255 255 / 70%);
   }
 }
 

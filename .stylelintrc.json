@@ -4,6 +4,10 @@
     "stylelint-order"
   ],
   "rules": {
-    "order/properties-alphabetical-order": true
+    "order/properties-alphabetical-order": true,
+    "property-no-vendor-prefix": [
+      true,
+      { "ignoreProperties": ["text-decoration-skip", "text-size-adjust"] }
+    ]
   }
 }

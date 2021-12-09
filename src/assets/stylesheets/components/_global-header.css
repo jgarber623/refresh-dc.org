@@ -1,5 +1,5 @@
 .global-header {
-  margin: 4rem 0 2rem 0;
+  margin: 4rem 0 2rem;
 
   @media (min-width: 33rem) {
     margin-top: 8rem;
