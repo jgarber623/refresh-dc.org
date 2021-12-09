@@ -18,18 +18,18 @@
     "test": "npm run lint"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "cssnano": "^5.0.12",
-    "dayjs": "^1.10.7",
-    "eslint": "^8.4.0",
-    "js-yaml": "^4.1.0",
-    "markdown-it": "^12.2.0",
-    "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.4",
-    "postcss-easy-import": "^3.0.0",
-    "postcss-nesting": "^10.0.2",
-    "stylelint": "^14.1.0",
-    "stylelint-config-standard": "^24.0.0",
-    "stylelint-order": "^5.0.0"
+    "@11ty/eleventy": "latest",
+    "cssnano": "latest",
+    "dayjs": "latest",
+    "eslint": "latest",
+    "js-yaml": "latest",
+    "markdown-it": "latest",
+    "npm-run-all": "latest",
+    "postcss": "latest",
+    "postcss-easy-import": "latest",
+    "postcss-nesting": "latest",
+    "stylelint": "latest",
+    "stylelint-config-standard": "latest",
+    "stylelint-order": "latest"
   }
 }
