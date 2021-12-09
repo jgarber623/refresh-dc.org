@@ -1,0 +1,27 @@
+name: CI
+
+on: push
+
+jobs:
+  lint:
+    name: Lint files
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: lts/*
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+  test:
+    name: Test files
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: lts/*
+          cache: npm
+      - run: npm ci
+      - run: npm test
