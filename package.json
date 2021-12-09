@@ -2,18 +2,10 @@
   "name": "refresh-dc.org",
   "private": true,
   "homepage": "https://github.com/jgarber623/refresh-dc.org",
-  "bugs": {
-    "url": "https://github.com/jgarber623/refresh-dc.org/issues"
-  },
+  "bugs": "https://github.com/jgarber623/refresh-dc.org/issues",
   "license": "MIT",
-  "author": {
-    "name": "Jason Garber",
-    "url": "https://sixtwothree.org"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jgarber623/refresh-dc.org"
-  },
+  "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
+  "repository": "github:jgarber623/refresh-dc.org",
   "scripts": {
     "build": "eleventy --quiet",
     "clean": "rm -rf public",
