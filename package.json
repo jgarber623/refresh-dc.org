@@ -19,18 +19,18 @@
     "test": "test -f ./public/index.html"
   },
   "devDependencies": {
-    "@11ty/eleventy": "latest",
-    "cssnano": "latest",
-    "dayjs": "latest",
-    "eslint": "latest",
-    "js-yaml": "latest",
-    "markdown-it": "latest",
-    "npm-run-all": "latest",
-    "postcss": "latest",
-    "postcss-easy-import": "latest",
-    "postcss-nesting": "latest",
-    "stylelint": "latest",
-    "stylelint-config-standard": "latest",
-    "stylelint-order": "latest"
+    "@11ty/eleventy": "*",
+    "cssnano": "*",
+    "dayjs": "*",
+    "eslint": "*",
+    "js-yaml": "*",
+    "markdown-it": "*",
+    "npm-run-all": "*",
+    "postcss": "*",
+    "postcss-easy-import": "*",
+    "postcss-nesting": "*",
+    "stylelint": "*",
+    "stylelint-config-standard": "*",
+    "stylelint-order": "*"
   }
 }
