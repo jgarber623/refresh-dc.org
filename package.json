@@ -23,7 +23,6 @@
     "@jgarber/eslint-config": "*",
     "cssnano": "*",
     "dayjs": "*",
-    "eslint": "*",
     "js-yaml": "*",
     "markdown-it": "*",
     "npm-run-all": "*",
