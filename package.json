@@ -21,6 +21,7 @@
   "devDependencies": {
     "@11ty/eleventy": "*",
     "@jgarber/eslint-config": "*",
+    "@jgarber/stylelint-config": "*",
     "cssnano": "*",
     "dayjs": "*",
     "js-yaml": "*",
@@ -28,9 +29,6 @@
     "npm-run-all": "*",
     "postcss": "*",
     "postcss-easy-import": "*",
-    "postcss-nesting": "*",
-    "stylelint": "*",
-    "stylelint-config-standard": "*",
-    "stylelint-order": "*"
+    "postcss-nesting": "*"
   }
 }
