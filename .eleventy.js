@@ -1,10 +1,5 @@
 module.exports = eleventy => {
-  eleventy.setBrowserSyncConfig({
-    serveStatic: ['public'],
-    serveStaticOptions: {
-      extensions: ['html']
-    }
-  });
+  eleventy.setBrowserSyncConfig(require('@jgarber/browsersync-config/eleventy'));
 
   eleventy.setLibrary('md', require('./lib/libraries/markdown.js'));
 
