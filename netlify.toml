@@ -2,8 +2,13 @@
   for = "/*"
   [headers.values]
     Content-Security-Policy = """\
+      base-uri 'self'; \
+      block-all-mixed-content; \
       default-src 'self'; \
-      frame-ancestors 'none';\
+      form-action 'none'; \
+      frame-ancestors 'none'; \
+      object-src 'none'; \
+      worker-src 'none';\
     """
     Referrer-Policy = "no-referrer-when-downgrade"
     X-Frame-Options = "DENY"
