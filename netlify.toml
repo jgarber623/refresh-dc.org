@@ -9,6 +9,8 @@
       form-action 'none'; \
       frame-ancestors 'none'; \
       frame-src 'none'; \
+      img-src 'self'; \
+      media-src 'self'; \
       object-src 'none'; \
       script-src 'none'; \
       style-src 'self'; \
