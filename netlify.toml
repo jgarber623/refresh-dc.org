@@ -30,15 +30,3 @@
   to     = "https://refresh-dc.org/:splat"
   status = 301
   force  = true
-
-[[redirects]]
-  from   = "/conduct/*"
-  to     = "/conduct/:splat.html"
-  status = 200
-  force  = true
-
-[[redirects]]
-  from   = "/events/*"
-  to     = "/events/:splat.html"
-  status = 200
-  force  = true
