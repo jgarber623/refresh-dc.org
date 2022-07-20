@@ -20,11 +20,8 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "*",
-    "@jgarber/browsersync-config": "*",
     "@jgarber/eslint-config": "*",
     "@jgarber/stylelint-config": "*",
-    "cssnano": "*",
-    "dayjs": "*",
     "js-yaml": "*",
     "markdown-it": "*",
     "npm-run-all": "*",
