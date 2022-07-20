@@ -3,7 +3,7 @@ layout: base
 ---
 
 <div class="event h-event">
-  <h1 class="p-name"><a href="{{ page.url | prettify }}" class="u-url">{{ title }}</a></h1>
+  <h1 class="p-name"><a href="{{ page.url }}" class="u-url">{{ title }}</a></h1>
 
   <div class="p-description">
     {{ content }}
@@ -12,8 +12,8 @@ layout: base
   <dl>
     <dt>Date and Time</dt>
     <dd>
-      <time class="dt-start" datetime="{{ dtstart | datetime_to_iso_string }}">{{ dtstart | datetime_to_string }} from {{ dtstart | date: "%l:%M %p" }}</time> to
-      <time class="dt-end" datetime="{{ dtend | datetime_to_iso_string }}">{{ dtend | date: "%l:%M %p" }}</time>
+      <time class="dt-start" datetime="{{ dtstart | date: dates.iso8601 }}">{{ dtstart | date: dates.display }} from {{ dtstart | date: dates.time }}</time> to
+      <time class="dt-end" datetime="{{ dtend | date: dates.iso8601 }}">{{ dtend | date: dates.time }}</time>
     </dd>
 
     <dt>Location</dt>

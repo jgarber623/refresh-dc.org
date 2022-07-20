@@ -1,6 +1,5 @@
 ---
 layout: base
-permalink: events.html
 title: Events
 ---
 
@@ -9,8 +8,8 @@ title: Events
 <ol class="events-list" reversed>
   {% for event in collections.event reversed %}
     <li class="h-event">
-      <a href="{{ event.url | prettify }}" class="p-name u-url">{{ event.data.title }}</a>
-      <time class="dt-start" datetime="{{ event.data.dtstart | datetime_to_iso_string }}">{{ event.data.dtstart | datetime_to_string }}</time>
+      <a href="{{ event.url }}" class="p-name u-url">{{ event.data.title }}</a>
+      <time class="dt-start" datetime="{{ event.data.dtstart | date: dates.iso8601 }}">{{ event.data.dtstart | date: dates.display }}</time>
     </li>
   {% endfor -%}
 </ol>

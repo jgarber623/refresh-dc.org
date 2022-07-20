@@ -1,6 +1,5 @@
 ---
 layout: base
-permalink: conduct.html
 title: Code of Conduct
 ---
 
