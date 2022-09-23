@@ -3,7 +3,7 @@
   "private": true,
   "homepage": "https://github.com/jgarber623/refresh-dc.org",
   "bugs": "https://github.com/jgarber623/refresh-dc.org/issues",
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
   "repository": "github:jgarber623/refresh-dc.org",
   "scripts": {
