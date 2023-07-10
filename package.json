@@ -19,14 +19,14 @@
     "test": "test -f ./public/index.html"
   },
   "devDependencies": {
-    "@11ty/eleventy": "*",
-    "@jgarber/eslint-config": "*",
-    "@jgarber/stylelint-config": "*",
-    "cssnano": "*",
-    "markdown-it": "*",
-    "npm-run-all": "*",
-    "postcss": "*",
-    "postcss-easy-import": "*",
-    "postcss-nesting": "*"
+    "@11ty/eleventy": "^2.0.1",
+    "@jgarber/eslint-config": "^1.1.0",
+    "@jgarber/stylelint-config": "^1.0.0",
+    "cssnano": "^6.0.1",
+    "markdown-it": "^13.0.1",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.25",
+    "postcss-easy-import": "^4.0.0",
+    "postcss-nesting": "^12.0.0"
   }
 }
