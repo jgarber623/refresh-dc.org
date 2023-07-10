@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
 
-  @media (min-width: 45rem) {
+  @media (width >= 45rem) {
     & li:hover {
       list-style: decimal-leading-zero;
     }

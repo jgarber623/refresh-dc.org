@@ -1,5 +1,5 @@
 .global-content {
-  @media (min-width: 33rem) {
+  @media (width >= 33rem) {
     line-height: 1.7;
   }
 
