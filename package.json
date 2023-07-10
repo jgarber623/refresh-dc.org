@@ -5,7 +5,10 @@
   "bugs": "https://github.com/jgarber623/refresh-dc.org/issues",
   "license": "CC-BY-NC-SA-4.0",
   "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
-  "repository": "github:jgarber623/refresh-dc.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgarber623/refresh-dc.org"
+  },
   "scripts": {
     "build": "eleventy --quiet",
     "clean": "rm -rf public",

@@ -5,34 +5,35 @@
 
   {% capture page_title -%}
     {%- if page.title -%}
-      {{ page.title }} – {{ site.title }}
+      {{ page.title }} – {{ app.name }}
     {%- else -%}
-      {{ site.title }} – {{ site.short_description}}
+      {{ app.name }} – The best and brightest new media professionals in the DC metro area
     {%- endif -%}
   {% endcapture -%}
 
   <title>{{ page_title }}</title>
 
-  <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
-  <meta name="application-name" content="{{ site.title }}">
-  <meta name="description" content="{{ site.description }}">
+  <meta name="apple-mobile-web-app-title" content="{{ app.name }}">
+  <meta name="application-name" content="{{ app.name }}">
+  <meta name="description" content="{{ app.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@refreshdc">
-  <meta property="og:description" content="{{ site.description }}">
-  <meta property="og:image" content="{{ site.url }}/assets/images/refreshdc.png">
+  <meta property="og:description" content="{{ app.description }}">
+  <meta property="og:image" content="{{ app.start_url }}{{ app.icons[0].src }}">
   <meta property="og:title" content="{{ page_title }}">
 
-  <link rel="apple-touch-icon" href="/assets/images/refreshdc.png">
-  <link rel="shortcut icon" href="/assets/images/refreshdc.png">
+  <link rel="apple-touch-icon" href="{{ app.icons[0].src }}">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="shortcut icon" href="{{ app.icons[0].src }}">
   <link rel="stylesheet" href="/assets/stylesheets/application.css">
 </head>
 <body>
 
   <div class="global-wrapper">
     <header class="global-header" role="banner">
-      <h1><a href="/" class="h-card" rel="home">{{ site.title }}</a></h1>
+      <h1><a href="/" class="h-card" rel="home">{{ app.name }}</a></h1>
     </header>
 
     <main class="global-content" role="main">
@@ -40,7 +41,7 @@
     </main>
 
     <footer class="global-footer" role="contentinfo">
-      <small>Some rights reserved. This site’s content is licensed under a <a href="{{ site.license.url }}" rel="license">{{ site.license.name }} license</a>. Source code available on <a href="{{ site.source.url }}" rel="source">{{ site.source.name }}</a>.</small>
+      <small>Some rights reserved. This site’s content is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a>. Source code available on <a href="{{ pkg.repository.url }}" rel="source">GitHub</a>.</small>
     </footer>
   </div>
 
