@@ -1,19 +1,19 @@
 .event {
-  & dl {
+  dl {
     background-color: rgba(255 255 255 / 15%);
     border-radius: 0.25rem;
     padding: 1.5rem;
   }
 
-  & dt {
+  dt {
     font-size: 1.25rem;
     font-weight: bolder;
   }
 
-  & dd {
+  dd {
     margin-left: 0;
 
-    & + dt {
+    + dt {
       margin-top: 1rem;
     }
   }

@@ -5,11 +5,11 @@
     margin-top: 8rem;
   }
 
-  & h1 {
+  h1 {
     margin: 0 0 0 -2.125rem;
   }
 
-  & a {
+  a {
     background: url("../images/logo.png");
     background: none, url("../images/logo.svg");
     background-position: 0 0;

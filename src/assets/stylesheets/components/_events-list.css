@@ -4,21 +4,21 @@
   padding: 0;
 
   @media (width >= 45rem) {
-    & li:hover {
+    li:hover {
       list-style: decimal-leading-zero;
     }
   }
 
-  & li + li {
+  li + li {
     margin-top: 1.5rem;
   }
 
-  & a {
+  a {
     font-size: 1.25rem;
     line-height: 1.3;
   }
 
-  & time {
+  time {
     display: block;
   }
 }
