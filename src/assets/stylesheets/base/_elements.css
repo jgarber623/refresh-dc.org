@@ -1,8 +1,3 @@
-/* stylelint-disable-next-line at-rule-no-vendor-prefix */
-@-ms-viewport {
-  width: device-width;
-}
-
 *,
 *::before,
 *::after {
@@ -16,8 +11,6 @@ html {
   background-repeat: no-repeat;
   box-sizing: border-box;
   line-height: 1.15;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -53,7 +46,6 @@ a {
   background-color: transparent;
   color: var(--color-white);
   color: rgba(255 255 255 / 50%);
-  -webkit-text-decoration-skip: objects;
 
   &:focus,
   &:hover {
