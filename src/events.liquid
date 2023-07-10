@@ -9,7 +9,7 @@ title: Events
   {% for event in collections.event reversed %}
     <li class="h-event">
       <a href="{{ event.url }}" class="p-name u-url">{{ event.data.title }}</a>
-      <time class="dt-start" datetime="{{ event.data.dtstart | date: dates.iso8601 }}">{{ event.data.dtstart | date: dates.display }}</time>
+      <time class="dt-start" datetime="{{ event.data.dtstart | date }}">{{ event.data.dtstart | date: dates.display }}</time>
     </li>
   {% endfor -%}
 </ol>
