@@ -2,6 +2,7 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% capture page_title -%}
     {%- if page.title -%}
@@ -13,21 +14,21 @@
 
   <title>{{ page_title }}</title>
 
-  <meta name="apple-mobile-web-app-title" content="{{ app.name }}">
-  <meta name="application-name" content="{{ app.name }}">
-  <meta name="description" content="{{ app.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@refreshdc">
-  <meta property="og:description" content="{{ app.description }}">
-  <meta property="og:image" content="{{ app.start_url }}{{ app.icons[0].src }}">
-  <meta property="og:title" content="{{ page_title }}">
+  <link rel="stylesheet" href="/assets/stylesheets/application.css">
 
   <link rel="apple-touch-icon" href="{{ app.icons[0].src }}">
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="shortcut icon" href="{{ app.icons[0].src }}">
-  <link rel="stylesheet" href="/assets/stylesheets/application.css">
+
+  <meta name="apple-mobile-web-app-title" content="{{ app.name }}">
+  <meta name="application-name" content="{{ app.name }}">
+  <meta name="description" content="{{ app.description }}">
+  <meta name="theme-color" content="{{ app.theme_color }}">
+
+  <meta property="og:description" content="{{ app.description }}">
+  <meta property="og:image" content="{{ app.start_url }}{{ app.icons[0].src }}">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:url" content="{{ app.start_url }}{{ page.url }}">
 </head>
 <body>
 
