@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: "base.liquid"
 ---
 
 Refresh DC is a community of web designers, developers, and other new media professionals working together to refresh the creative, technical, and professional aspects of their trades in the Washington, DC, area.

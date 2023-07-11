@@ -1,6 +1,6 @@
 ---
-layout: base
-title: Code of Conduct
+layout: "base.liquid"
+title: "Code of Conduct"
 ---
 
 # Code of Conduct
