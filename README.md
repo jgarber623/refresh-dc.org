@@ -4,7 +4,7 @@ Love the [Refresh DC website](https://refresh-dc.org)? Cool!
 
 Hate the Refresh DC website? Help us make it better. Fork this repository and get to work!
 
-[![Deployment](https://img.shields.io/netlify/fc49b76a-b0c2-4f46-bf94-9ef728948e6b?logo=netlify&style=for-the-badge)](https://app.netlify.com/sites/refresh-dc-org/deploys)
+[![Deployment](https://img.shields.io/github/deployments/jgarber623/refresh-dc.org/refresh-dc-org%20%28Production%29?label=Deployment&logo=github&style=for-the-badge)](https://github.com/jgarber623/refresh-dc.org/deployments/activity_log?environment=refresh-dc-org+%28Production%29)
 [![Build](https://img.shields.io/github/actions/workflow/status/jgarber623/refresh-dc.org/ci.yml?branch=main&logo=github&style=for-the-badge)](https://github.com/jgarber623/refresh-dc.org/actions/workflows/ci.yml)
 
 ## License
