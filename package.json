@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@jgarber/eslint-config": "^1.1.0",
+    "@jgarber/eslint-config": "^1.1.1",
     "@jgarber/stylelint-config": "^1.0.0",
     "cssnano": "^6.0.1",
     "markdown-it": "^13.0.1",
