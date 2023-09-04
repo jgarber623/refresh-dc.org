@@ -7,7 +7,7 @@ jobs:
     name: Lint files
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version-file: ".nvmrc"
@@ -18,7 +18,7 @@ jobs:
     name: Test files
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version-file: ".nvmrc"
@@ -39,7 +39,7 @@ jobs:
       name: refresh-dc-org (Production)
       url: https://refresh-dc.org
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version-file: ".nvmrc"
