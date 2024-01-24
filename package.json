@@ -22,11 +22,11 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "@jgarber/eleventy-plugin-markdown": "^0.1.2",
+    "@jgarber/eleventy-plugin-postcss": "^0.3.2",
     "@jgarber/eslint-config": "^3.0.0",
     "@jgarber/stylelint-config": "^3.0.1",
     "cssnano": "^6.0.3",
-    "markdown-it": "^14.0.0",
-    "postcss": "^8.4.33",
     "postcss-easy-import": "^4.0.0",
     "postcss-nesting": "^12.0.2"
   }
