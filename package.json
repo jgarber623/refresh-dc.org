@@ -28,6 +28,6 @@
     "@jgarber/stylelint-config": "^3.0.1",
     "cssnano": "^6.0.3",
     "postcss-easy-import": "^4.0.0",
-    "postcss-nesting": "^12.0.2"
+    "postcss-nesting": "^12.0.3"
   }
 }
