@@ -1,3 +1,3 @@
 module.exports = {
-  extends: '@jgarber/stylelint-config'
+  extends: "@jgarber/stylelint-config",
 };

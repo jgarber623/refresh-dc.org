@@ -1,8 +1,8 @@
-const config = require('@jgarber/eslint-config');
+module.exports = (async () => {
+  const { default: config } = await import("@jgarber/eslint-config");
 
-module.exports = [
-  {
-    ignores: ['_site/*']
-  },
-  ...config
-];
+  return [
+    { ignores: ["_site"] },
+    ...config,
+  ];
+})();
