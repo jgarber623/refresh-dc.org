@@ -26,7 +26,7 @@
     "@jgarber/eleventy-plugin-postcss": "^0.3.2",
     "@jgarber/eslint-config": "^3.0.0",
     "@jgarber/stylelint-config": "^3.0.1",
-    "cssnano": "^6.0.3",
+    "cssnano": "^6.0.4",
     "postcss-easy-import": "^4.0.0",
     "postcss-nesting": "^12.0.2"
   }
