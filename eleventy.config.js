@@ -11,10 +11,17 @@ module.exports = function(eleventyConfig) {
       "./src/manifest.webmanifest.json": "manifest.webmanifest",
     });
 
-  // Libraries
-  eleventyConfig.setLiquidOptions(require("./lib/libraries/liquid.js"));
-
   // Plugins
+  eleventyConfig.addPlugin(require("@jgarber/eleventy-plugin-liquid"), {
+    globals: {
+      dates: {
+        display: "%A, %B %e<sup>%q</sup>, %Y",
+        time: "%l:%M %p",
+        year: "%Y",
+      },
+    },
+  });
+
   eleventyConfig.addPlugin(require("@jgarber/eleventy-plugin-markdown"));
   eleventyConfig.addPlugin(require("@jgarber/eleventy-plugin-postcss"));
 
