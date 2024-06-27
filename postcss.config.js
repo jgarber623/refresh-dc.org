@@ -1,7 +1,11 @@
-module.exports = {
+import cssnano from "cssnano";
+import postcssEasyImport from "postcss-easy-import";
+import postcssNesting from "postcss-nesting";
+
+export default {
   plugins: [
-    require("postcss-easy-import"),
-    require("postcss-nesting"),
-    require("cssnano"),
+    postcssEasyImport,
+    postcssNesting,
+    cssnano,
   ],
 };
