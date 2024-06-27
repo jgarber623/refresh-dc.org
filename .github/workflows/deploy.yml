@@ -15,7 +15,7 @@ jobs:
       contents: read
       deployments: write
     needs: ci
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     environment:
       name: refresh-dc-org (Production)
       url: https://refresh-dc.org
@@ -31,6 +31,4 @@ jobs:
         with:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          directory: _site
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: refresh-dc-org
+          command: pages deploy _site --project-name=refresh-dc-org
