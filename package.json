@@ -19,7 +19,7 @@
     "test": "test -f ./_site/index.html"
   },
   "devDependencies": {
-    "@11ty/eleventy": "3.0.0-alpha.13",
+    "@11ty/eleventy": "3.0.0-alpha.16",
     "@jgarber/eleventy-plugin-liquid": "^0.1.0",
     "@jgarber/eleventy-plugin-markdown": "^0.1.3",
     "@jgarber/eleventy-plugin-postcss": "^0.4.0",
