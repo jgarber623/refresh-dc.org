@@ -19,13 +19,13 @@
     "test": "test -f ./_site/index.html"
   },
   "devDependencies": {
-    "@11ty/eleventy": "3.0.0-alpha.16",
-    "@jgarber/eleventy-plugin-liquid": "^0.1.0",
-    "@jgarber/eleventy-plugin-markdown": "^0.1.3",
-    "@jgarber/eleventy-plugin-postcss": "^0.4.0",
-    "@jgarber/eslint-config": "^6.0.0",
+    "@11ty/eleventy": "3.0.0-beta.1",
+    "@jgarber/eleventy-plugin-liquid": "^1.0.0",
+    "@jgarber/eleventy-plugin-markdown": "^1.0.0",
+    "@jgarber/eleventy-plugin-postcss": "^1.0.1",
+    "@jgarber/eslint-config": "^6.1.0",
     "@jgarber/stylelint-config": "^4.0.0",
-    "cssnano": "^7.0.3",
+    "cssnano": "^7.0.4",
     "postcss-easy-import": "^4.0.0",
     "postcss-nesting": "^12.1.5"
   }
