@@ -8,12 +8,10 @@
   "type": "module",
   "repository": "github:jgarber623/refresh-dc.org",
   "scripts": {
-    "build": "eleventy --quiet",
-    "clean": "rm -rf _site",
+    "build": "npx eleventy --quiet",
     "lint": "npm run lint:css && npm run lint:js",
-    "lint:css": "stylelint ./src/**/*.css",
-    "lint:js": "eslint .",
-    "prebuild": "npm run clean",
+    "lint:css": "npx stylelint ./src/**/*.css",
+    "lint:js": "npx eslint .",
     "pretest": "npm run build",
     "start": "npm run build -- --serve",
     "test": "test -f ./_site/index.html"
