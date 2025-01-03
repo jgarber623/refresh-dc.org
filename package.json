@@ -6,7 +6,7 @@
   "license": "CC-BY-NC-SA-4.0",
   "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
   "type": "module",
-  "repository": "github:jgarber623/refresh-dc.org",
+  "repository": "https://github.com/jgarber623/refresh-dc.org",
   "scripts": {
     "build": "npx eleventy --quiet",
     "lint": "npm run lint:css && npm run lint:js",
