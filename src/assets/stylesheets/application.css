@@ -1,2 +1,118 @@
-@import url("base/**/*.css");
-@import url("components/**/*.css");
+:root {
+  --color-black: #000;
+  --color-blue-light: #4a6da2;
+  --color-blue-dark: #324b83;
+  --color-white: #fff;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  background-attachment: fixed;
+  background-color: var(--color-blue-dark);
+  background-image: radial-gradient(50% 50%, var(--color-blue-light), var(--color-blue-dark));
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  line-height: 1.15;
+}
+
+body {
+  color: var(--color-white);
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 36rem;
+  padding: 4rem 1.5rem;
+  text-shadow: -1px 1px 0 rgba(0 0 0 / 10%);
+
+  @media (width >= 33rem) {
+    padding-block-start: 8rem;
+  }
+}
+
+a {
+  background-color: transparent;
+  color: rgba(255 255 255 / 50%);
+
+  &:is(:focus, :hover) {
+    color: rgba(255 255 255 / 75%);
+  }
+}
+
+small {
+  font-size: 80%;
+}
+
+img {
+  border-style: none;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
+main {
+  margin-block: 2rem 4rem;
+
+  @media (width >= 33rem) {
+    line-height: 1.7;
+  }
+
+  h2 {
+    font-size: 2rem;
+    line-height: 1.3;
+    margin-block-end: 1.5rem;
+  }
+
+  p {
+    margin-block: 1.5rem;
+  }
+
+  em {
+    background-color: rgba(255 255 255 / 15%);
+    border-radius: 0.25rem;
+    font-style: normal;
+    margin-inline-end: 0.25rem;
+    padding: 0.25rem 0.4rem;
+  }
+
+  hr {
+    background-color: var(--color-white);
+    background-color: rgba(255 255 255 / 15%);
+    border: 0;
+    box-sizing: content-box;
+    height: 0.125rem;
+    margin: 2rem auto;
+    overflow: visible;
+    width: 50%;
+  }
+}
+
+.logo {
+  margin: 0 0 0 -2.125rem;
+
+  a {
+    background: url("../images/logo.png");
+    background: none, url("../images/logo.svg");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    height: 75px;
+    overflow: hidden;
+    position: relative;
+    text-indent: 100%;
+    text-shadow: none;
+    white-space: nowrap;
+    width: 300px;
+
+    &:focus,
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
