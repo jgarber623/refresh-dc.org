@@ -1,35 +1,29 @@
-import liquidPlugin from "@jgarber/eleventy-plugin-liquid";
-import markdownPlugin from "@jgarber/eleventy-plugin-markdown";
-import postcssPlugin from "@jgarber/eleventy-plugin-postcss";
+import { readFileSync } from "node:fs";
 
-import manifest from "./src/manifest.webmanifest.json" with { type: "json" };
+import eleventyPluginLiquid from "@jgarber/eleventy-plugin-liquid";
+import eleventyPluginMarkdown from "@jgarber/eleventy-plugin-markdown";
+
+import markdownItAttrs from "markdown-it-attrs";
 
 export default function(eleventyConfig) {
   // Global Data
-  eleventyConfig.addGlobalData("app", manifest);
+  eleventyConfig.addGlobalData("app", JSON.parse(readFileSync("./src/manifest.webmanifest")));
+
+  // Configuration
+  eleventyConfig.setDataFileBaseName("_data");
 
   // Passthrough File Copy
   eleventyConfig
     .addPassthroughCopy("./src/_headers")
-    .addPassthroughCopy("./src/*.{ico,txt}")
-    .addPassthroughCopy("./src/assets/images")
-    .addPassthroughCopy({
-      "./src/manifest.webmanifest.json": "manifest.webmanifest",
-    });
+    .addPassthroughCopy("./src/*.{ico,txt,webmanifest}")
+    .addPassthroughCopy("./src/assets");
 
   // Plugins
-  eleventyConfig.addPlugin(liquidPlugin, {
-    globals: {
-      dates: {
-        display: "%A, %B %e<sup>%q</sup>, %Y",
-        time: "%l:%M %p",
-        year: "%Y",
-      },
-    },
-  });
+  eleventyConfig.addPlugin(eleventyPluginLiquid);
 
-  eleventyConfig.addPlugin(markdownPlugin);
-  eleventyConfig.addPlugin(postcssPlugin);
+  eleventyConfig.addPlugin(eleventyPluginMarkdown, {
+    plugins: [markdownItAttrs],
+  });
 }
 
 export const config = {

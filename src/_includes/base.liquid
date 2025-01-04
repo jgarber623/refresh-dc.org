@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="{{ app.lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% capture page_title -%}
-    {%- if page.title -%}
-      {{ page.title }} – {{ app.name }}
+    {%- if title -%}
+      {{ title }} – {{ app.name }}
     {%- else -%}
       {{ app.name }} – The best and brightest new media professionals in the DC metro area
     {%- endif -%}
@@ -35,19 +35,19 @@
 </head>
 <body>
 
-  <div class="global-wrapper">
-    <header class="global-header" role="banner">
-      <h1><a href="/" class="h-card" rel="home">{{ app.name }}</a></h1>
-    </header>
+  <header>
+    <h1 class="logo"><a href="/" class="h-card" rel="home">{{ app.name }}</a></h1>
+  </header>
 
-    <main class="global-content" role="main">
-      {{ content }}
-    </main>
+  <main>
+    {% if title %}<h2>{{ title }}</h2>{% endif -%}
 
-    <footer class="global-footer" role="contentinfo">
-      <small>Some rights reserved. This site’s content is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a>. Source code available on <a href="{{ pkg.homepage }}" rel="source">GitHub</a>.</small>
-    </footer>
-  </div>
+    {{ content }}
+  </main>
+
+  <footer>
+    <small>Some rights reserved. This site’s content is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</a>. Source code available on <a href="{{ pkg.homepage }}" rel="source">GitHub</a>.</small>
+  </footer>
 
 </body>
 </html>
