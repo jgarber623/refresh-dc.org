@@ -1,12 +1,12 @@
 {
   "private": true,
   "name": "refresh-dc.org",
-  "homepage": "https://github.com/jgarber623/refresh-dc.org",
-  "bugs": "https://github.com/jgarber623/refresh-dc.org/issues",
+  "homepage": "https://github.com/refreshdc/refresh-dc.org",
+  "bugs": "https://github.com/refreshdc/refresh-dc.org/issues",
   "license": "CC-BY-NC-SA-4.0",
   "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
   "type": "module",
-  "repository": "https://github.com/jgarber623/refresh-dc.org",
+  "repository": "https://github.com/refreshdc/refresh-dc.org",
   "scripts": {
     "build": "npx eleventy --quiet",
     "lint": "npm run lint:css && npm run lint:js",
